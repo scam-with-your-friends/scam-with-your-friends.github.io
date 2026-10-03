@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Scam With Your Friends independent guide">
+  <rect width="1200" height="630" fill="#E8EFFF"/>
+  <rect x="48" y="48" width="1104" height="534" rx="28" fill="#FFFFFF" stroke="#06B6D4" stroke-width="4"/>
+  <circle cx="180" cy="300" r="78" fill="#06B6D4"/>
+  <text x="180" y="318" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700" fill="#E8EFFF">SW</text>
+  <text x="300" y="250" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" fill="#20202C">Scam With Your Friends</text>
+  <text x="300" y="320" font-family="Inter, Arial, sans-serif" font-size="28" fill="#20202C">Release Date · Playtest · How to Play</text>
+  <text x="300" y="390" font-family="Inter, Arial, sans-serif" font-size="20" fill="#0F5F75">Independent Guide</text>
+</svg>

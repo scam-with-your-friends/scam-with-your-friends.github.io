@@ -1,0 +1,78 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Scam With Your Friends Wiki & Guide",
+  "shortName": "Scam With Your Friends",
+  "description": "Independent Scam With Your Friends guide covering the release date, playtest access, how to play, price, official Discord and supported platforms.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "222 100% 95%",
+      "foreground": "0 0% 7%",
+      "card": "222 35% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "189 94% 43%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "222 100% 88%",
+      "muted": "222 100% 90%",
+      "muted-foreground": "0 0% 7%",
+      "border": "222 100% 79%",
+      "radius": "1.6rem",
+      "card-shadow": "0 18px 50px rgba(37, 99, 235, .14)",
+      "hero-gradient": "radial-gradient(circle at 18% 0%, hsl(189 94% 43% / .38), transparent 42%), radial-gradient(circle at 88% 8%, hsl(189 94% 43% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(189 94% 43% / .08) 1px, transparent 1px)",
+      "font-sans": "\"Inter\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Space Grotesk\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.04em"
+    },
+    "skin": "glass",
+    "headerStyle": "glass",
+    "componentStyle": "pill",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "cyan",
+    "colorMode": "custom",
+    "background": "#E8EFFF",
+    "accent": "#06B6D4",
+    "fontId": "space-grotesk"
+  },
+  "hosting": {
+    "siteUrl": "https://scam-with-your-friends.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": null,
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "store.steampowered.com",
+    "jataterworldwide.com",
+    "discord.gg"
+  ],
+  "assets": {
+    "logo": "/images/scam-with-your-friends-logo.webp",
+    "cover": "/images/scam-with-your-friends-cover.webp",
+    "openGraph": "/images/scam-with-your-friends-og.svg",
+    "favicon": "/images/scam-with-your-friends-logo.webp"
+  },
+  "game": {
+    "name": "Scam With Your Friends",
+    "platform": "Windows PC (Steam)",
+    "developer": "JakeHub, Metater",
+    "publisher": "Jatater Worldwide",
+    "genre": "Action, Casual, Indie, Simulation",
+    "officialUrl": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "Scam With Your Friends"
+    ]
+  }
+}

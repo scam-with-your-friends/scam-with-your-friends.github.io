@@ -1,0 +1,906 @@
+[
+  {
+    "enabled": true,
+    "slug": "release-date",
+    "pageType": "article",
+    "navLabel": "Release Date",
+    "title": "Scam With Your Friends Release Date & Early Access",
+    "description": "Check the planned Scam With Your Friends release date, Early Access status, full-release target, Steam availability, and what may change before launch.",
+    "keywords": [
+      "scam with your friends release date",
+      "scam with your friends early access",
+      "scam with your friends steam release date"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Release status",
+      "heading": "Scam With Your Friends Release Date & Early Access",
+      "lead": "Steam currently lists Scam With Your Friends for Early Access in October 2026 on Windows PC. An exact release day is not currently shown on the main listing. A full release around mid-December 2026 is a developer target, not a guaranteed date.",
+      "cta": {
+        "label": "Wishlist on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "release-date",
+        "heading": "Scam With Your Friends Release Date",
+        "intro": "If you only need the window, use the current Steam listing. It shows October 2026 and does not display an exact day.",
+        "subsections": [
+          {
+            "heading": "Planned Early Access Window: October 2026",
+            "paragraphs": [
+              "October 2026 is the planned Early Access window on the current Steam listing, not a promise that the build is finished or that the clock cannot move. No exact release day is currently displayed. Steam is showing a wishlist for App ID 4954910 rather than a buy button. When the window arrives, availability still depends on the store page staying on that window and on the build actually releasing.",
+              "The [home guide](/) keeps the same window next to playtest, price, and platform status. Those topics change for different reasons, so a date shift would not by itself announce a price or a new console."
+            ]
+          },
+          {
+            "heading": "Where the Date Comes From",
+            "paragraphs": [
+              "The date comes from the official Steam store page for Scam With Your Friends, published by Jatater Worldwide and developed by JakeHub and Metater. That listing is the authority when a video, a repost, or an old search snippet names a different month.",
+              "On September 23, 2026, the Steam page also carried the news that the game had reached 100,000 wishlists. Wishlist count is interest, not a release commitment, but it is a useful sign that the store page is the channel the developers are using for public milestones."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "early-access",
+        "heading": "Early Access vs Full Release",
+        "paragraphs": [
+          "Early Access and the full release are two different milestones. Buying or playing during Early Access, once a price exists, would mean playing the version the developers choose to ship on the way to 1.0. The retail price itself is still not announced. See the [price guide](/price/) before you assume what that launch will cost."
+        ],
+        "subsections": [
+          {
+            "heading": "What Early Access Means for This Game",
+            "paragraphs": [
+              "For Scam With Your Friends, Early Access is the planned first public Steam launch on Windows PC. It is the point where the game is scheduled to leave the limited playtest and open through the normal Steam page. It does not mean every feature is final, and it does not mean a console version appears on the same day.",
+              "The playtest that is already running is a separate, limited program. Closed signups and friend invites are explained on the [playtest access page](/playtest-key/). Getting into that test is not the same thing as the planned October 2026 Early Access launch."
+            ]
+          },
+          {
+            "heading": "Full Release Target",
+            "paragraphs": [
+              "The Early Access notes on Steam target a full release around mid-December 2026. Treat that as an estimate the developers are aiming at. Mid-December is a window, not a locked calendar day, and the notes do not promise that every system will be unchanged between Early Access and 1.0.",
+              "The current listing does not turn the October 2026 window into a guaranteed day. If the listing moves, the new Steam date replaces this one. Steam does not currently explain why the listing is shown as a monthly window instead of a specific day."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "exact-day",
+        "heading": "Is There an Exact Release Day Yet?",
+        "paragraphs": [
+          "The current official Steam page says October 2026. No exact day is currently displayed, so treat that month as the planned Early Access window rather than a guaranteed calendar day.",
+          "Cached or older results may still show a more specific date. When those disagree with the live store page, the current Steam listing takes priority. Check the store page again closer to launch, because a planned window is allowed to change."
+        ]
+      },
+      {
+        "id": "confirmed",
+        "heading": "What Is Confirmed for Early Access",
+        "intro": "These are features the official materials already describe. They are not a promise about how much content the Early Access build will contain on day one.",
+        "bullets": [
+          "Single-player, plus online co-op and public lobbies.",
+          "Real-time conversations with fictional AI callers.",
+          "Run-based progression through a scam-call-center workday.",
+          "Remote computer access and in-game desktop tools.",
+          "Broadband internet is required."
+        ],
+        "paragraphs": [
+          "Minimum PC specs and the list of platforms that are not announced are on the [platforms page](/platforms/). Modding, JSON personalities, WAV voice cloning, and workplace events such as scambaiters, viruses, raids, and air strikes are also part of the public feature list. None of those lines publish a content-complete checklist for the October 2026 window."
+        ]
+      },
+      {
+        "id": "track-changes",
+        "heading": "How to Track Release Changes",
+        "paragraphs": [
+          "Wishlist the Steam page so store updates are easier to catch. Join the official Jatater Worldwide Discord for playtest news and launch discussion. The publisher's own game page is the other place that would carry a direct announcement.",
+          "Three links are enough. You do not need a countdown site or a third-party key shop to hear that the date moved."
+        ],
+        "links": [
+          {
+            "label": "Playtest access",
+            "slug": "playtest-key",
+            "description": "What you can and cannot do before the planned October 2026 Early Access window."
+          },
+          {
+            "label": "Price",
+            "slug": "price",
+            "description": "Why the game still has no retail price."
+          },
+          {
+            "label": "Platforms",
+            "slug": "platforms",
+            "description": "Windows PC is the announced launch platform."
+          }
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the Scam With Your Friends release date?",
+        "answer": "Steam currently lists a planned Early Access window of October 2026 on Windows PC. An exact day is not currently shown."
+      },
+      {
+        "question": "Is the October 2026 window final?",
+        "answer": "No. October 2026 is the window currently listed on Steam, and no exact day is displayed. The developers can still change a planned launch window."
+      },
+      {
+        "question": "Is Scam With Your Friends launching in Early Access?",
+        "answer": "Yes. The planned October 2026 window is an Early Access launch on Steam, not a guaranteed full 1.0 release."
+      },
+      {
+        "question": "When is the full release?",
+        "answer": "The Early Access notes target a full release around mid-December 2026. That is a target, not a guaranteed date."
+      },
+      {
+        "question": "What platform launches first?",
+        "answer": "Windows PC via Steam is the only announced platform. No console or mobile version has been announced for launch day."
+      },
+      {
+        "question": "Can I play before release?",
+        "answer": "Only through the limited playtest. New signups are closed. An accepted tester can invite up to three friends. There is no public demo download that replaces the planned October 2026 Early Access launch."
+      }
+    ],
+    "relatedSlugs": ["playtest-key", "price", "platforms"],
+    "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "playtest-key",
+    "pageType": "article",
+    "navLabel": "Playtest",
+    "title": "Scam With Your Friends Playtest Key & Access Guide",
+    "description": "See the latest Scam With Your Friends playtest status, how access and friend invites work, whether keys or a demo are available, and where to get updates.",
+    "keywords": [
+      "scam with your friends key",
+      "scam with your friends playtest",
+      "scam with your friends playtest key",
+      "scam with your friends demo"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Access",
+      "heading": "Scam With Your Friends Playtest Key & Access",
+      "lead": "Playtest signups for Scam With Your Friends are closed after more than 12,000 requests. Limited access has been granted in batches, and an accepted tester can invite up to three friends. There is no legitimate key generator. The official US$8 Unlimited AI purchase is not a game key and does not grant playtest entry.",
+      "cta": {
+        "label": "Open the Steam page",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "heading": "Scam With Your Friends Playtest Status",
+        "intro": "This is the access picture as of October 3, 2026. Official playtest access is not distributed as a public key list.",
+        "table": {
+          "caption": "Playtest status for Scam With Your Friends",
+          "columns": ["Item", "Status"],
+          "rows": [
+            ["New signups", "Closed"],
+            ["Previous signup volume", "12,000+ requests"],
+            ["Access", "Limited, granted in batches"],
+            ["Friend invites", "Up to 3 per accepted tester"],
+            ["Retail release", "[October 2026 planned; exact day not announced](/release-date/)"]
+          ]
+        },
+        "paragraphs": [
+          "The Steam page sends players to Discord for playtest updates and for finding teammates. That is the official path. A download button on an unrelated site, a pasted key in a comment, or a generator is not.",
+          "The planned Early Access launch is separate from this test. Even if you never receive playtest access, the store date is still the public plan for the wider release. Follow it on the [release date page](/release-date/)."
+        ]
+      },
+      {
+        "id": "how-access-works",
+        "heading": "How Playtest Access Works",
+        "paragraphs": [
+          "Access is controlled by the developers through Steam and the channels they name. There is no supported way around that process."
+        ],
+        "subsections": [
+          {
+            "heading": "Existing Signup / Batch Access",
+            "paragraphs": [
+              "The signup wave already passed. More than 12,000 people requested access, and the team has been letting players in gradually rather than opening the test to everyone who asked. If you signed up earlier, you are waiting on that batch process. If you never signed up, there is no open form to submit right now.",
+              "A closed signup does not mean the test is finished. It means new requests are not being taken. Watch the Steam news feed and the official Discord rather than refreshing unofficial key threads."
+            ]
+          },
+          {
+            "heading": "Friend Invites",
+            "paragraphs": [
+              "An accepted tester can invite up to three friends. That invite has to come from someone who already has access, inside the official rules. Asking in the Discord for teammates is reasonable. Buying a supposed spare key, or using a code someone cannot show on Steam, is not the invite system.",
+              "Three friends is the published cap. It is not a code you can split endlessly, and it is not a public guest pass."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "is-there-a-key",
+        "heading": "Is There a Scam With Your Friends Key?",
+        "paragraphs": [
+          "People search for a Scam With Your Friends key because they want to play before the public launch. In this case the word key means playtest access, not a list of redeem codes. Steam playtest access is granted to accounts. It is not the same thing as a public coupon page.",
+          "There are no official redeem codes to publish here. There is no key generator that creates real access. This site does not sell keys, trade invites, or collect Steam passwords. If a page asks you to log into Steam on a domain that is not Steam, close it.",
+          "The planned way onto the full release is the Steam store page when Early Access opens. Until then, the only access paths the developers have described are the closed signup batches and invites from accepted testers."
+        ]
+      },
+      {
+        "id": "demo",
+        "heading": "Is There a Public Demo or Free Download?",
+        "paragraphs": [
+          "Steam currently presents the limited playtest, not a normal public demo that anyone can install. A free-download search usually lands on the same access question. The playtest is not a permanent free version of the game, and the retail release is still planned as a paid Early Access launch once a price exists.",
+          "Do not download an executable, a cracked build, or a repack from a third-party file host. The official entries are the Steam page and the Jatater Worldwide game page. Anything else is outside those channels. The [price page](/price/) explains why the game should not be described as free-to-play just because a price has not been posted."
+        ]
+      },
+      {
+        "id": "unlimited-ai",
+        "heading": "What the $8 Unlimited AI Purchase Actually Is",
+        "paragraphs": [
+          "Jatater Worldwide sells a separate one-time Unlimited AI purchase for US$8, plus applicable taxes shown at checkout. The official terms say it buys unlimited AI access for the Scam With Your Friends playtest only, and only while that playtest service is available. One purchaser covers their lobby. Access is tied to the verified Steam account.",
+          "The same terms are explicit about what the charge is not. It is not a subscription. It is not a game key. It is not playtest entry. It is not a purchase of the full game. You must already have played the playtest on the linked Steam account before you can buy it. The full game is stated to include unlimited AI credits, so this $8 option is a playtest-only bridge, not the game itself.",
+          "Internet access and the playtest service have to be available for the purchase to matter. Activation questions go to the publisher, including through the official Discord, not to a random seller. Read the terms on the Jatater site before you pay, and use the [price guide](/price/) if you are trying to tell this charge apart from the unannounced retail price."
+        ]
+      },
+      {
+        "id": "what-now",
+        "heading": "What You Can Do Now",
+        "bullets": [
+          "Wishlist Scam With Your Friends on Steam so you see the Early Access listing.",
+          "Join the official Discord for playtest updates and teammates.",
+          "If a friend was accepted, ask them about an invite. The cap is three friends, and the invite has to follow the official rules.",
+          "Ignore key generators, leaked build links, and anyone selling a playtest key."
+        ],
+        "paragraphs": [
+          "That is the whole current list. There is no hidden step that turns a closed signup into a guaranteed slot. Updates belong on Steam and on the [official Discord](/discord/)."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)",
+          "[Unlimited AI terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms)",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I get a Scam With Your Friends key?",
+        "answer": "There is no public key to redeem. New playtest signups are closed. Limited access is granted in batches, and an accepted tester can invite up to three friends."
+      },
+      {
+        "question": "Are playtest signups open?",
+        "answer": "No. Signups closed after more than 12,000 requests. Watch Steam and the official Discord for any change."
+      },
+      {
+        "question": "Can a friend invite me?",
+        "answer": "Yes, if that friend was accepted into the playtest. Each accepted tester can invite up to three friends under the official rules."
+      },
+      {
+        "question": "Is there a public demo?",
+        "answer": "Steam currently shows the limited playtest, not a normal public demo that anyone can download."
+      },
+      {
+        "question": "Is Scam With Your Friends free to download?",
+        "answer": "No public free download of the full game has been announced. The playtest is limited, and the retail price is still not listed."
+      },
+      {
+        "question": "Does the $8 Unlimited AI purchase include the game?",
+        "answer": "No. The official terms say the $8 purchase is playtest AI access only. It is not the full game, and the full game is stated to include unlimited AI credits."
+      },
+      {
+        "question": "Does $8 guarantee playtest access?",
+        "answer": "No. The terms say it is not playtest entry. You must already have played the playtest on the linked Steam account before purchasing."
+      },
+      {
+        "question": "Where are official playtest updates posted?",
+        "answer": "On the Steam store page and the official Jatater Worldwide Discord at https://discord.gg/jataterww."
+      }
+    ],
+    "relatedSlugs": ["release-date", "discord", "price"],
+    "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-play",
+    "pageType": "guide",
+    "navLabel": "How to Play",
+    "title": "How to Play Scam With Your Friends | Beginner Guide",
+    "description": "Learn how to play Scam With Your Friends: take AI-driven calls, build trust, use desktop tools, hit the team quota, and survive the boss review.",
+    "keywords": [
+      "how to play scam with your friends",
+      "scam with your friends gameplay",
+      "scam with your friends beginner guide"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Beginner guide",
+      "heading": "How to Play Scam With Your Friends",
+      "lead": "You run a fictional scam call center. You talk with fictional AI callers in real time, use the in-game desktop and remote-access tools, and earn toward a daily quota while the workday gets more chaotic. The shift is judged in a boss review. The current official information confirms this core loop, while exact payout values and some balance details are not yet listed.",
+      "cta": {
+        "label": "View on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "loop",
+        "heading": "Scam With Your Friends Gameplay Loop",
+        "intro": "The game is still ahead of its planned Early Access launch. The steps below follow the loop the developers have described: start a shift, take live calls, use the desktop tools, chase the daily quota, and face the review.",
+        "steps": [
+          {
+            "heading": "Start a run or join a lobby",
+            "description": "Play solo, join friends in online co-op, or use a public lobby. A maximum player count has not been published."
+          },
+          {
+            "heading": "Take calls from fictional AI characters",
+            "description": "The callers are fictional and AI-driven. They are the work of the shift, not a menu of fixed scripts with posted rewards."
+          },
+          {
+            "heading": "Talk and improvise in real time",
+            "description": "Conversation is live. You respond to what the caller does instead of following a single published dialogue tree."
+          },
+          {
+            "heading": "Use the in-game desktop and remote-access tools",
+            "description": "When the call calls for it, you use remote computer access and the desktop tools inside the game. Use only what the scenario is showing you."
+          },
+          {
+            "heading": "Work toward the daily quota",
+            "description": "The team has a daily quota. Steam does not currently list a fixed daily-quota amount."
+          },
+          {
+            "heading": "Face the performance review",
+            "description": "The boss review is the judgment on the shift. Missing the quota is framed as getting fired, and later workdays are described as more chaotic."
+          }
+        ],
+        "paragraphs": [
+          "That sequence is the whole public overview. The [release date](/release-date/) tells you when a wider Steam audience is planned to see it. Until then, only the limited playtest is available, and new signups are closed."
+        ]
+      },
+      {
+        "id": "callers",
+        "heading": "Talking to AI Callers",
+        "paragraphs": [
+          "The callers are fictional characters driven by AI. They respond to the conversation and to what you do during the call, which is why the game is built around real-time voice rather than a static chat tree. Building the call is the job. Steam does not currently publish a numeric Caller Trust threshold.",
+          "Plan on speaking. The game is presented with voice control and live conversation. A text-only alternative has not been officially detailed, so a muted, click-only playthrough is not confirmed.",
+          "JSON personalities and WAV voice cloning are listed as modding features. They are tools for changing characters, not a published ranking of which caller pays the most. No caller payout table exists in the public materials."
+        ]
+      },
+      {
+        "id": "desktop",
+        "heading": "Using the In-Game Desktop",
+        "paragraphs": [
+          "Remote access to the other person's computer is part of the fiction. You are not leaving the game to control a real machine. The in-game desktop is where the call's tools live. Official features include a paint app, a screen recorder, and a camera, alongside the remote-access system.",
+          "Those tools are there so the scenario can ask you to use them. Specific tool stats, cooldowns, and upgrade behavior are not currently listed. If a call wants a screenshot, a drawing, or the camera, the in-game desktop is where you do that.",
+          "Broadband internet is required for the game as a whole, which fits a title built on live calls and online lobbies. The full minimum spec list is on the [platforms and PC requirements page](/platforms/)."
+        ]
+      },
+      {
+        "id": "quota",
+        "heading": "Daily Quotas and the Boss Review",
+        "paragraphs": [
+          "Each run is aimed at a daily quota. The official description is progression through a workday that becomes more chaotic, not a published dollar amount per call. Specific payout values, spawn rates, and scam-app profit requirements are not currently published.",
+          "The performance review is the boss's verdict on that work. The framing players should expect is simple: hit the quota or get fired. There is no public formula for partial credit, overtime, or a hidden mercy mechanic. Later shifts are described as harder and messier, which is the run-based climb.",
+          "Co-op does not change the published goal. You are still a call-center crew trying to make the number. It does mean a friend can share the lobby, within whatever player count the build actually allows. That count is not listed yet."
+        ]
+      },
+      {
+        "id": "modes",
+        "heading": "Single-Player, Co-op and Public Lobbies",
+        "paragraphs": [
+          "You can play Scam With Your Friends solo. Official modes also include online co-op with friends and public lobbies, so the same call-center shift can be a team job. The Steam page points playtest players toward Discord when they need teammates.",
+          "No maximum lobby size has been announced. If you are still trying to get into the test itself, the invite rule is separate from lobby size: an accepted tester can invite up to three friends. That rule is about access, not about how many characters fit in a shift.",
+          "Public lobbies are confirmed as a mode. They are not a promise that a matchmaking queue is open to everyone before launch. Playtest access is still limited. The [Discord guide](/discord/) is the place to look for teammates once you are allowed in."
+        ]
+      },
+      {
+        "id": "disasters",
+        "heading": "Scambaiters, Viruses and Workplace Disasters",
+        "intro": "These show up on the official feature list. They are interruptions to the workday, not boss fights with published health bars.",
+        "bullets": [
+          "Scambaiters, who exist to waste the call center's time.",
+          "Computer viruses.",
+          "Police raids.",
+          "Air strikes.",
+          "Other workplace disasters that break up the shift."
+        ],
+        "paragraphs": [
+          "The confirmed hazards include scambaiters, computer viruses, police raids, air strikes, and other workplace disasters. Scambaiters are described as callers who waste the center's time. Viruses, raids, air strikes, and the other disasters interrupt the workday during a run. Detailed encounter rules are not yet listed.",
+          "Modding is also an official feature, including JSON personalities and WAV voice cloning. The game is described as moddable. A curated mod browser and install steps for community mods are not currently listed."
+        ]
+      },
+      {
+        "id": "before-you-play",
+        "heading": "What You Need Before You Play",
+        "paragraphs": [
+          "You need the PC Steam is specifying, a broadband connection, and access to the game. Access today is the limited playtest. The wider launch is the planned Early Access date on the [release page](/release-date/). A microphone is the sensible plan because calls are voice-led, with the caveat above that a text-only mode has not been detailed."
+        ],
+        "table": {
+          "caption": "Minimum requirements currently listed on Steam",
+          "columns": ["Requirement", "Minimum"],
+          "rows": [
+            ["OS", "Windows 10 / 11 64-bit"],
+            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
+            ["Memory", "3 GB RAM"],
+            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
+            ["DirectX", "Version 11"],
+            ["Network", "Broadband internet"],
+            ["Storage", "5 GB available space"]
+          ]
+        }
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "Feature names on this page come from the Steam store description and the Jatater Worldwide game page. Neither page publishes payout numbers or a lobby cap.",
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you play Scam With Your Friends solo?",
+        "answer": "Yes. Single-player is an official mode, alongside online co-op and public lobbies."
+      },
+      {
+        "question": "Does Scam With Your Friends have online co-op?",
+        "answer": "Yes. Online co-op with friends is part of the official mode list."
+      },
+      {
+        "question": "Does it have public lobbies?",
+        "answer": "Yes. Public lobbies are listed alongside single-player and friend co-op. A maximum player count has not been announced."
+      },
+      {
+        "question": "Do I need an internet connection?",
+        "answer": "Yes. Broadband internet is a listed requirement, which matches real-time calls and online lobbies."
+      },
+      {
+        "question": "Do I need a microphone?",
+        "answer": "Plan on using voice input. The game is built around voice control and real-time conversation. A text-only alternative has not been officially detailed, so it is not confirmed as optional."
+      },
+      {
+        "question": "What happens if you miss the quota?",
+        "answer": "The official framing is that you hit the daily quota or get fired in the boss review. No numeric penalty table has been published."
+      },
+      {
+        "question": "Is the game moddable?",
+        "answer": "Yes. Modding is an official feature, including JSON personalities and WAV voice cloning. Install steps for specific mods are not part of this overview."
+      }
+    ],
+    "relatedSlugs": ["platforms", "discord", "release-date"],
+    "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "discord",
+    "pageType": "article",
+    "navLabel": "Discord",
+    "title": "Scam With Your Friends Discord | Official Server Link",
+    "description": "Find the official Scam With Your Friends Discord, what the Jatater Worldwide server is used for, and how to avoid fake or unofficial invite links.",
+    "keywords": [
+      "scam with your friends discord",
+      "scam with your friends official discord",
+      "jatater worldwide discord"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Official server",
+      "heading": "Scam With Your Friends Discord",
+      "lead": "The official Scam With Your Friends Discord is https://discord.gg/jataterww. It is the Jatater Worldwide server linked from the game's official channels, and it is used for playtest updates, teammates, feedback, and community support.",
+      "cta": {
+        "label": "Join Official Discord",
+        "url": "https://discord.gg/jataterww"
+      }
+    },
+    "sections": [
+      {
+        "id": "official-link",
+        "heading": "Official Scam With Your Friends Discord Link",
+        "paragraphs": [
+          "Use this invite and no shortened redirect: [https://discord.gg/jataterww](https://discord.gg/jataterww). The server is run under Jatater Worldwide, the publisher of Scam With Your Friends. JakeHub and Metater are the developers named on Steam.",
+          "Before you join from a comment or a video description, open the Steam store page or the Jatater Worldwide game page and compare the invite. The same discord.gg address should be the one those official pages send you to. This guide links it directly. It does not wrap the invite in another tracker.",
+          "A member count is not listed here because it changes every day and would make the page stale. The invite itself is the stable fact."
+        ]
+      },
+      {
+        "id": "used-for",
+        "heading": "What the Discord Server Is Used For",
+        "paragraphs": [
+          "The server is the public community channel the developers and publisher already point to. It is not a place that prints retail keys, and joining it does not put the game in your Steam library."
+        ],
+        "subsections": [
+          {
+            "heading": "Playtest Updates",
+            "paragraphs": [
+              "Steam tells players to use Discord for playtest news. That includes batch access and whatever the team chooses to post about the test. It is the right place to hear that something changed. It is not a promise that every member receives a key."
+            ]
+          },
+          {
+            "heading": "Finding Teammates",
+            "paragraphs": [
+              "The same Steam note points players to Discord for teammates. Online co-op and public lobbies are official modes, so a looking-for-group conversation belongs here once you already have access. An accepted tester can still invite only up to three friends. The server does not raise that cap."
+            ]
+          },
+          {
+            "heading": "Feedback and Bug Reports",
+            "paragraphs": [
+              "Playtest feedback and bug reports are part of why the server exists. If you are in the test and something breaks, the Discord is the community channel the publisher is using. A store review is a different tool and is not a substitute for a bug report during a limited test."
+            ]
+          },
+          {
+            "heading": "Playtest / Unlimited AI Support",
+            "paragraphs": [
+              "The official Unlimited AI terms send activation problems and refund questions to support, and that support link goes to the Jatater Worldwide Discord. If you bought the $8 playtest AI option and it did not attach to the right Steam account, start there rather than with a third-party seller. The purchase rules themselves are on the [playtest page](/playtest-key/) and the [price page](/price/)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fake-links",
+        "heading": "How to Avoid Fake Scam With Your Friends Links",
+        "paragraphs": [
+          "Prefer the invite you can see on Steam or on jataterworldwide.com. A lookalike name with an extra word, a different discord.gg code, or a site that asks you to log into Steam is not the official server.",
+          "Do not enter your Steam name and password on a page that is not Steam. Playtest access is tied to Steam accounts by the developers. No fan site, including this one, needs your login to explain the rules.",
+          "The US$8 Unlimited AI purchase lives only on the official Jatater page. If another site sells a Scam With Your Friends key and calls it the same $8, it is not that product. The real charge is playtest AI access for people who already have the test, not a game key and not a ticket in."
+        ]
+      },
+      {
+        "id": "other-links",
+        "heading": "Other Official Links",
+        "paragraphs": [
+          "The store listing is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/). The publisher's own page is the [Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/). Use those two, plus the Discord invite above, when you want to confirm a date, a price rumor, or an access post.",
+          "The [home guide](/) collects the short version of each topic if you want to leave Discord and read the current public status in one place. The [how to play overview](/how-to-play/) is the gameplay loop, which is separate from getting into the server."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww)",
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the official Scam With Your Friends Discord?",
+        "answer": "https://discord.gg/jataterww. It is the Jatater Worldwide server. Cross-check it on the Steam page or the Jatater game page."
+      },
+      {
+        "question": "Is the Discord run by the developers or publisher?",
+        "answer": "It is the Jatater Worldwide server, the publisher named on the game. The developers are JakeHub and Metater. Use the official invite rather than a fan copy."
+      },
+      {
+        "question": "Can I find playtest updates there?",
+        "answer": "Yes. The Steam page points players to Discord for playtest updates."
+      },
+      {
+        "question": "Can I find teammates there?",
+        "answer": "Yes. Discord is the channel Steam names for finding teammates. You still need playtest access before an invite can put you in the test."
+      },
+      {
+        "question": "Can Discord give me a guaranteed playtest key?",
+        "answer": "No. Joining the server does not guarantee access. Official signup and invite rules still apply, and new signups are closed."
+      },
+      {
+        "question": "Where should I report playtest issues?",
+        "answer": "Report them on the official Jatater Worldwide Discord. Unlimited AI activation problems are directed there by the publisher's terms as well."
+      }
+    ],
+    "relatedSlugs": ["playtest-key", "release-date", "how-to-play"],
+    "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "price",
+    "pageType": "article",
+    "navLabel": "Price",
+    "title": "Scam With Your Friends Price | Cost & $8 Explained",
+    "description": "See the current Scam With Your Friends price status, why the $8 playtest AI option is not the game price, and what Steam has confirmed so far.",
+    "keywords": [
+      "scam with your friends price",
+      "how much is scam with your friends",
+      "scam with your friends cost"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Price status",
+      "heading": "Scam With Your Friends Price",
+      "lead": "The retail price of Scam With Your Friends has not been announced. Steam currently shows a wishlist rather than a purchase price. The separate $8 charge on the official Jatater site is a one-time Unlimited AI option for the playtest. It is not the retail game price, not a game key, and not playtest entry.",
+      "cta": {
+        "label": "Wishlist on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "how-much",
+        "heading": "How Much Is Scam With Your Friends?",
+        "intro": "There is no number to memorize yet. As of October 3, 2026, the store page still does not list a retail cost.",
+        "table": {
+          "caption": "Scam With Your Friends price status",
+          "columns": ["Item", "Status"],
+          "rows": [
+            ["Retail price", "Not announced"],
+            ["Steam purchase", "Not available yet. Wishlist only."],
+            ["Planned Early Access", "[October 2026; exact day not announced](/release-date/)"],
+            ["$8 Unlimited AI", "Separate playtest-only purchase"]
+          ]
+        },
+        "paragraphs": [
+          "Steam does not currently list a retail price. Regional pricing, discounts, and pre-order bonuses have not been announced.",
+          "The planned Early Access window is not a price. It only tells you when a wider launch is currently scheduled. The [release date guide](/release-date/) covers the October 2026 window and why an exact day is not shown."
+        ]
+      },
+      {
+        "id": "eight-dollars",
+        "heading": "What the $8 Unlimited AI Purchase Includes",
+        "paragraphs": [
+          "The figure people keep seeing is real, and it belongs to a different product. Jatater Worldwide lists it at US$8 plus the taxes shown at checkout."
+        ],
+        "subsections": [
+          {
+            "heading": "What It Is",
+            "paragraphs": [
+              "It is a one-time purchase of unlimited AI access for the Scam With Your Friends playtest, and only while that playtest service is available. The official terms say one purchaser covers their lobby, and that access is tied to the verified Steam account. You must already have played the playtest on that linked account before you buy it. Internet access and the service itself have to be up.",
+              "The full game is stated to include unlimited AI credits. The $8 option is a way for current playtesters to remove the playtest AI limit, not a preview of the Steam price tag."
+            ]
+          },
+          {
+            "heading": "What It Is Not",
+            "paragraphs": [
+              "It is not a subscription. It is not a game key. It is not playtest entry. It is not a purchase of the full game. Paying $8 does not put Scam With Your Friends in a library that was never accepted into the test, and it does not reserve a retail copy of the game.",
+              "If you are not already in the playtest, the charge is not a back door. The access rules are on the [playtest key page](/playtest-key/). Signups are closed, and friend invites are capped at three per accepted tester."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "early-access-price",
+        "heading": "Early Access Price vs Full Release Price",
+        "paragraphs": [
+          "The developers have said they currently expect the price to stay the same from Early Access through the full release. That expectation is not a locked price, because no retail price has been chosen yet. Full-release pricing is not finalized, and the same note says plans can change.",
+          "Do not read that as already confirmed that the game will never cost more after Early Access. The fair summary is narrower: the team expects one price across both stages, and they have also said that plan can move. Wishlist the Steam page and wait for the number they actually publish.",
+          "A full release around mid-December 2026 remains a target on the Early Access notes. A target month does not set the cost either."
+        ]
+      },
+      {
+        "id": "preorder",
+        "heading": "Can You Pre-Order or Buy a Key Now?",
+        "paragraphs": [
+          "Steam does not currently show a retail purchase price, a pre-order button, or an official key to buy. Third-party shops that list a Scam With Your Friends key are not the Steam page and are not the Jatater $8 terms.",
+          "The useful action is to wishlist the official Steam page and follow the [official Discord](/discord/) for a real announcement. Steam does not currently offer a pre-order, and no discount code has been announced."
+        ]
+      },
+      {
+        "id": "when-announced",
+        "heading": "How to Know When the Price Is Announced",
+        "bullets": [
+          "Wishlist the game on Steam. The store page is where a retail price would appear.",
+          "Join the Jatater Worldwide Discord for publisher posts.",
+          "Check the official Jatater game page, which is separate from the Unlimited AI checkout."
+        ],
+        "paragraphs": [
+          "Those three are the channels that publish the price when it exists. A random clip naming a price is not one of them. The [home overview](/) shows the same not-announced status until Steam prints a number."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Unlimited AI terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the Scam With Your Friends price?",
+        "answer": "The retail price has not been announced. Steam currently offers a wishlist instead of a purchase price."
+      },
+      {
+        "question": "Is Scam With Your Friends free?",
+        "answer": "It has not been announced as free-to-play. No retail price is listed yet, and there is no public free download of the full game."
+      },
+      {
+        "question": "Is the game $8?",
+        "answer": "No. The $8 charge is a one-time Unlimited AI option for the playtest. It is not the retail price of Scam With Your Friends."
+      },
+      {
+        "question": "Does $8 include a key?",
+        "answer": "No. The official terms say the purchase is not a game key and not a purchase of the full game."
+      },
+      {
+        "question": "Does $8 give playtest access?",
+        "answer": "No. It is not playtest entry. The terms require you to have already played the playtest on the linked Steam account."
+      },
+      {
+        "question": "Will the price change after Early Access?",
+        "answer": "The developers currently expect the same price through Early Access and full release, but full-release pricing is not finalized and plans can change. No price is locked because none has been announced."
+      },
+      {
+        "question": "Can I pre-order it?",
+        "answer": "Steam does not currently show a pre-order or a retail buy button. Wishlist the official page instead of using an unofficial key shop."
+      }
+    ],
+    "relatedSlugs": ["release-date", "playtest-key", "discord"],
+    "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "platforms",
+    "pageType": "article",
+    "navLabel": "Platforms",
+    "title": "Scam With Your Friends Platforms | Xbox, PS5 & Mobile",
+    "description": "See where Scam With Your Friends is available, including Windows Steam support and the current status of Xbox, PlayStation, Mac, Linux, mobile and Roblox.",
+    "keywords": [
+      "scam with your friends xbox",
+      "scam with your friends ps5",
+      "scam with your friends platforms",
+      "scam with your friends mobile"
+    ],
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Where to play",
+      "heading": "Scam With Your Friends Platforms",
+      "lead": "The only currently announced platform for Scam With Your Friends is Windows PC via Steam. No official Xbox, PlayStation, Switch, Mac, Linux, Android, iOS, or Roblox version has been announced. Steam Deck compatibility is not confirmed or rated yet. Not announced means not announced. It does not mean a version can never exist.",
+      "cta": {
+        "label": "View on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "status",
+        "heading": "Scam With Your Friends Platform Status",
+        "intro": "This table matches the public listing on October 3, 2026. The planned Windows date is Early Access, and it can still change. See the [release date page](/release-date/) for that plan.",
+        "table": {
+          "caption": "Announced platforms for Scam With Your Friends",
+          "columns": ["Platform", "Status"],
+          "rows": [
+            ["Windows PC (Steam)", "Announced. Planned Early Access in October 2026; exact day not announced."],
+            ["Xbox Series / Xbox One", "Not announced"],
+            ["PS5 / PS4", "Not announced"],
+            ["Nintendo Switch", "Not announced"],
+            ["Mac", "Not announced"],
+            ["Linux", "Not announced"],
+            ["Steam Deck", "No confirmed compatibility status"],
+            ["Android / iOS", "Not announced"],
+            ["Roblox", "No official version announced"]
+          ]
+        },
+        "paragraphs": [
+          "JakeHub and Metater develop the game. Jatater Worldwide publishes it. The store page to wishlist is Steam App ID 4954910. A price is still not listed, which the [price guide](/price/) explains separately from the platform list."
+        ]
+      },
+      {
+        "id": "xbox",
+        "heading": "Is Scam With Your Friends on Xbox?",
+        "paragraphs": [
+          "No. Scam With Your Friends is not announced for Xbox Series X, Xbox Series S, or Xbox One. The only platform on the official listing is Windows PC through Steam. There is no Xbox release date, no Game Pass announcement, and no console roadmap to quote.",
+          "Searching the game name plus Xbox usually means you want to know if the console you own can run it. Today the answer is that Microsoft has not been given a version in any public JakeHub, Metater, or Jatater Worldwide notice. If that changes, it will be an announcement, not a quiet unlock. Until then, a Windows PC that meets the Steam minimums is the machine the developers are targeting.",
+          "Do not install an unofficial Xbox build or a remote-play workaround from a video description. Those are not the game the publisher is shipping."
+        ]
+      },
+      {
+        "id": "playstation",
+        "heading": "Is Scam With Your Friends on PS5 or PlayStation?",
+        "paragraphs": [
+          "No PlayStation version has been announced. That includes PS5 and PS4. There is no PlayStation store page to wishlist alongside Steam, and there is no stated plan for a console launch beside the planned October 2026 Windows Early Access window.",
+          "The same rule covers Nintendo Switch. It is not on the announced list. No console release window has been announced.",
+          "If you only have a PlayStation, there is nothing official to buy or preload. PlayStation users can watch the Steam page and the official Jatater Worldwide Discord for any future platform announcement."
+        ]
+      },
+      {
+        "id": "mac-linux-deck",
+        "heading": "Is Scam With Your Friends on Mac, Linux or Steam Deck?",
+        "paragraphs": [
+          "The Steam listing is Windows only: Windows 10 or 11, 64-bit. Mac is not announced. Linux is not announced. There is no macOS build and no SteamOS or native Linux build in the current public requirements.",
+          "Steam Deck compatibility is currently unconfirmed. Steam does not list a Deck Verified, Playable, or Unsupported rating for the game yet.",
+          "If you are on a Mac or a Linux desktop, treat the game as unannounced for that system. Check the Steam system list again near the [planned Early Access date](/release-date/) in case the store page adds a platform. Adding one would be a change. It is not something you can assume from the Windows spec."
+        ]
+      },
+      {
+        "id": "mobile",
+        "heading": "Is Scam With Your Friends on Mobile?",
+        "paragraphs": [
+          "No Android version has been announced. No iOS or iPhone version has been announced. There is no official App Store or Google Play listing for this Steam game.",
+          "Do not sideload an APK, an IPA, or a mobile client that uses the name. The game described here is the Windows PC title from JakeHub, Metater, and Jatater Worldwide. A phone build has not been part of that announcement. Cloud streaming and remote desktop are also not official mobile versions.",
+          "The gameplay itself asks for a broadband connection and an in-game desktop with voice. That description is about the PC game. It is not a mobile control scheme, because no mobile control scheme has been published."
+        ]
+      },
+      {
+        "id": "roblox",
+        "heading": "Is There a Roblox Version?",
+        "paragraphs": [
+          "No official Roblox version of Scam With Your Friends has been announced. This page is about the Steam game from JakeHub and Metater, published by Jatater Worldwide. It is not a guide to other experiences that happen to use a similar name.",
+          "If you found a Roblox place with overlapping words, that place is not the Steam App ID 4954910 release. The Windows Steam listing is the announced way to play this game, once you have access or once Early Access opens.",
+          "The [how to play guide](/how-to-play/) covers the PC call-center loop: live AI callers, the in-game desktop, the daily quota, and the boss review. Those systems belong to the Steam game."
+        ]
+      },
+      {
+        "id": "requirements",
+        "heading": "PC System Requirements",
+        "intro": "These are the minimums currently printed on Steam. A recommended tier above this list has not been the focus of the public page, so only the minimums are repeated here.",
+        "table": {
+          "caption": "Steam minimum requirements for Scam With Your Friends",
+          "columns": ["Requirement", "Minimum"],
+          "rows": [
+            ["OS", "Windows 10 / 11 64-bit"],
+            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
+            ["Memory", "3 GB RAM"],
+            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
+            ["DirectX", "Version 11"],
+            ["Network", "Broadband internet"],
+            ["Storage", "5 GB available space"]
+          ]
+        },
+        "paragraphs": [
+          "Broadband is required, not optional. The game is built around real-time calls and online modes. Five gigabytes is the storage figure on the listing today. Check Steam again before you install, because store requirements can be edited.",
+          "Meeting the minimum does not create playtest access. Hardware and an invite are different problems. The [playtest guide](/playtest-key/) covers invites. Your PC only matters once Steam will actually let the account download the game."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/)",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww)"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Scam With Your Friends on Xbox?",
+        "answer": "No Xbox version has been announced. The announced platform is Windows PC via Steam."
+      },
+      {
+        "question": "Is it on PS5?",
+        "answer": "No PS5 or other PlayStation version has been announced."
+      },
+      {
+        "question": "Is it on Nintendo Switch?",
+        "answer": "No Nintendo Switch version has been announced."
+      },
+      {
+        "question": "Is it on Mac?",
+        "answer": "No Mac version has been announced. The Steam listing currently names Windows 10 and 11."
+      },
+      {
+        "question": "Is it on Linux?",
+        "answer": "No Linux version has been announced."
+      },
+      {
+        "question": "Does it work on Steam Deck?",
+        "answer": "Steam Deck compatibility is not confirmed and has no published rating. That is not an official statement that it can never run."
+      },
+      {
+        "question": "Is there a mobile version?",
+        "answer": "No Android or iOS version has been announced. Do not use an unofficial APK."
+      },
+      {
+        "question": "Is there a Roblox version?",
+        "answer": "No official Roblox version of this Steam game has been announced."
+      },
+      {
+        "question": "What PC do I need?",
+        "answer": "Steam's current minimum is Windows 10 or 11 64-bit, an Intel Core i5-8400 or Ryzen 5 2600, 3 GB RAM, a GTX 1060 6 GB or RX 580, DirectX 11, broadband internet, and 5 GB of storage."
+      }
+    ],
+    "relatedSlugs": ["how-to-play", "release-date", "price"],
+    "lastReviewed": "2026-10-03"
+  }
+]

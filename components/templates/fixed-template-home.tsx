@@ -1,4 +1,5 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { AdDocument } from "@/components/integrations/ad-document";
+import { insertBannerAfterHero, insertNativeAfterContent } from "@/lib/ad-placements";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
@@ -24,7 +25,10 @@ function heroActions(home: HomePageDefinition): string {
 
 export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
   const skin = siteSkin();
-  const supplementHtml = `${home.sections.map((section) => renderSection(section)).join("")}${renderFaq(home.faq)}`;
+  const supplementHtml = `${home.sections.map((section, index) => {
+    const html = renderSection(section);
+    return index === 0 ? insertNativeAfterContent(html, section) : html;
+  }).join("")}${renderFaq(home.faq)}`;
   const rendered = renderFixedDocument({
     skin,
     page: "home",
@@ -47,8 +51,7 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
   return (
     <>
       <JsonLd data={homeSchemas(home)} />
-      <div dangerouslySetInnerHTML={{ __html: rendered.rest }} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <AdDocument key="home" html={insertBannerAfterHero(rendered.rest, "home")} />
     </>
   );
 }

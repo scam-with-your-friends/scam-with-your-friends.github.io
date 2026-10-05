@@ -1,4 +1,5 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
+import { AdDocument } from "@/components/integrations/ad-document";
+import { insertBannerAfterHero, insertNativeAfterContent } from "@/lib/ad-placements";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
@@ -20,7 +21,10 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
     { href: "/", label: "Home" },
     ...getRelatedPages(page).map((item) => ({ href: routePath(item.slug), label: item.navLabel })),
   ];
-  const articleHtml = `${page.sections.map((section) => renderSection(section)).join("")}${renderFaq(page.faq ?? [])}${renderRelated(related)}`;
+  const articleHtml = `${page.sections.map((section, index) => {
+    const html = renderSection(section);
+    return index === 0 ? insertNativeAfterContent(html, section) : html;
+  }).join("")}${renderFaq(page.faq ?? [])}${renderRelated(related)}`;
   const rendered = renderFixedDocument({
     skin,
     page: "inner",
@@ -40,8 +44,7 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
   return (
     <>
       <JsonLd data={pageSchemas(page)} />
-      <div dangerouslySetInnerHTML={{ __html: rendered.rest }} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <AdDocument key={page.slug} html={insertBannerAfterHero(rendered.rest, "inner")} />
     </>
   );
 }

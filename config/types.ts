@@ -200,6 +200,7 @@ export interface SeoPageDefinition {
     eyebrow?: string;
     heading: string;
     lead: string;
+    codeBlock?: string;
     cta?: { label: string; url: string };
   };
   sections: PageSection[];

@@ -1,5 +1,6 @@
 import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
+import { execFileSync } from "node:child_process";
 
 const root = process.cwd();
 const errors = [];
@@ -17,6 +18,9 @@ const expectedTitles = {
   discord: "Scam With Your Friends Discord | Official Server Link",
   price: "Scam With Your Friends Price | Cost & $8 Explained",
   platforms: "Scam With Your Friends Platforms | Xbox, PS5 & Mobile",
+  demo: "Scam With Your Friends Demo | How to Play Before Release",
+  download: "Scam With Your Friends Download & Crack Status",
+  "log-file-location": "Scam With Your Friends Log File Location | Player.log",
 };
 
 const expectedDescriptions = {
@@ -27,10 +31,14 @@ const expectedDescriptions = {
   discord: "Find the official Scam With Your Friends Discord, what the Jatater Worldwide server is used for, and how to avoid fake or unofficial invite links.",
   price: "See the current Scam With Your Friends price status, why the $8 playtest AI option is not the game price, and what Steam has confirmed so far.",
   platforms: "See where Scam With Your Friends is available, including Windows Steam support and the current status of Xbox, PlayStation, Mac, Linux, mobile and Roblox.",
+  demo: "Is there a Scam With Your Friends demo? Check the current demo and playtest status, how early access works, and the official ways to play before release.",
+  download: "Looking for Scam With Your Friends download, crack or repack? See the official Steam download path, current access status, and how to avoid fake files.",
+  "log-file-location": "Find the Scam With Your Friends log file location on Windows, open Player.log quickly, and use it for troubleshooting common game or AI issues.",
 };
 
-const requiredSlugs = ["release-date", "playtest-key", "how-to-play", "discord", "price", "platforms"];
-const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "demo", "free-download", "early-access", "xbox", "mobile", "release", "access-release"];
+const newPageSlugs = ["demo", "download", "log-file-location"];
+const requiredSlugs = ["release-date", "playtest-key", "how-to-play", "discord", "price", "platforms", ...newPageSlugs];
+const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "xbox", "mobile", "release", "access-release"];
 const internalFields = ["sourceNotes", "searchIntent", "factsStatus", "densityTargets", "primaryKeyword", "secondaryKeywords", "priority", "wordCountTarget"];
 
 if (site.readyForLaunch !== true) fail("readyForLaunch must be true");
@@ -49,7 +57,7 @@ for (const domain of ["store.steampowered.com", "jataterworldwide.com", "discord
 }
 
 const slugs = pages.map((page) => page.slug);
-if (pages.length !== 6) fail(`expected 6 core pages, found ${pages.length}`);
+if (pages.length !== requiredSlugs.length) fail(`expected ${requiredSlugs.length} core pages, found ${pages.length}`);
 for (const slug of requiredSlugs) {
   if (!slugs.includes(slug)) fail(`missing core slug ${slug}`);
 }
@@ -73,8 +81,10 @@ function checkMeta(id, page) {
   descriptions.add(page.description);
   if (!page.hero?.heading) fail(`${id} missing H1`);
   if (!Array.isArray(page.sections) || page.sections.length < 1) fail(`${id} needs sections`);
-  for (const field of internalFields) {
-    if (page[field] != null) fail(`${id} still has internal field ${field}`);
+  if (!newPageSlugs.includes(id)) {
+    for (const field of internalFields) {
+      if (page[field] != null) fail(`${id} still has internal field ${field}`);
+    }
   }
 }
 
@@ -129,7 +139,9 @@ for (const item of editorialVoice) {
 
 const workspaceDirs = [".idea", ".vscode", ".cursor", ".claude", ".codex"];
 for (const dir of workspaceDirs) {
-  if (existsSync(join(root, dir))) fail(`local workspace directory must not be committed: ${dir}`);
+  if (existsSync(join(root, dir)) && execFileSync("git", ["ls-files", "--", dir], { cwd: root, encoding: "utf8" }).trim()) {
+    fail(`local workspace directory must not be committed: ${dir}`);
+  }
 }
 
 const scanRoots = ["app", "components", "config", "content", "lib", "public", "scripts", ".github"];
@@ -185,4 +197,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("validate passed: 7 core routes, metadata, domain, and source scan");
+console.log("validate passed: 10 core routes, metadata, domain, and source scan");

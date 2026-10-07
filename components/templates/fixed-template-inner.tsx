@@ -37,6 +37,7 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
     eyebrow: page.hero.eyebrow,
     heading: page.hero.heading,
     lead: page.hero.lead,
+    leadCode: page.hero.codeBlock,
     reviewedLabel: reviewedLabel(page.lastReviewed),
     actionsHtml: pageActions(page),
     articleHtml,

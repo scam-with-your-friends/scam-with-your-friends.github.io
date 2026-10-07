@@ -130,7 +130,19 @@ const pages = [
   },
 ];
 
-const coreHrefs = ["/release-date/", "/playtest-key/", "/how-to-play/", "/discord/", "/price/", "/platforms/"];
+const newSlugs = ["demo", "download", "log-file-location"];
+const newPages = JSON.parse(readFileSync(join(root, "content/generated/pages.json"), "utf8"))
+  .filter((page) => newSlugs.includes(page.slug));
+pages.push(...newPages.map((page) => ({
+  file: `${page.slug}/index.html`,
+  canonical: `https://scam-with-your-friends.github.io/${page.slug}/`,
+  title: page.title,
+  description: page.description,
+  h1: page.hero.heading,
+  h2: page.sections.map((section) => section.heading),
+})));
+
+const coreHrefs = ["/release-date/", "/playtest-key/", "/how-to-play/", "/discord/", "/price/", "/platforms/", ...newSlugs.map((slug) => `/${slug}/`)];
 const knownInternal = new Set(["/", ...coreHrefs, "/about/", "/privacy/", "/terms/", "/copyright/"]);
 const phrase = (...parts) => parts.join("");
 const banned = [
@@ -188,6 +200,34 @@ for (const page of pages) {
     continue;
   }
   const html = readFileSync(absolute, "utf8");
+  if (newSlugs.some((slug) => page.file === `${slug}/index.html`)) {
+    const hero = html.match(/<section class="wrap inner-hero">([\s\S]*?)<\/section>/)?.[1] ?? "";
+    const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/)?.[1] ?? "";
+    const copy = decode(`${hero} ${article}`
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<[^>]+>/g, " "));
+    const words = copy.match(/\b[A-Za-z]+(?:['’-][A-Za-z]+)*\b/g) ?? [];
+    if (words.length < 900) fail(`${page.file} has only ${words.length} visible English words`);
+    for (const phrase of ["for SEO purposes", "keyword density", "GSC shows", "internal audit", "I could not verify", ["Cod", "ex found"].join(""), "AI says"]) {
+      if (copy.toLowerCase().includes(phrase.toLowerCase())) fail(`${page.file} exposes internal wording`);
+    }
+    const schemas = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)]
+      .flatMap((match) => JSON.parse(match[1]));
+    const expectedFaq = newPages.find((item) => `${item.slug}/index.html` === page.file)?.faq ?? [];
+    const faq = schemas.find((schema) => schema["@type"] === "FAQPage");
+    if (!faq || JSON.stringify(faq.mainEntity.map((item) => ({ question: item.name, answer: item.acceptedAnswer.text }))) !== JSON.stringify(expectedFaq)) {
+      fail(`${page.file} FAQ schema does not match visible questions and answers`);
+    }
+    if (schemas.some((schema) => ["Review", "AggregateRating"].includes(schema["@type"]))) fail(`${page.file} has an unsupported review schema`);
+    const nav = html.match(/<nav[^>]*aria-label="Primary navigation"[^>]*>([\s\S]*?)<\/nav>/)?.[1] ?? "";
+    for (const href of coreHrefs) {
+      if (!nav.includes(`href="${href}"`)) fail(`${page.file} primary navigation is missing ${href}`);
+    }
+    if (page.file === "log-file-location/index.html" && !/<pre[^>]*><code>%USERPROFILE%\\AppData\\LocalLow\\Jatater Worldwide\\Scam With Your Friends\\Player\.log<\/code><\/pre>/.test(hero)) {
+      fail(`${page.file} hero is missing the Windows path code block`);
+    }
+    console.log(`${page.file}: ${words.length} visible English words`);
+  }
   const title = decode((html.match(/<title>([\s\S]*?)<\/title>/i)?.[1] ?? "").trim());
   if (title !== page.title) fail(`${page.file} title: ${title}`);
   const description = metaContent(html, "name", "description");
@@ -311,4 +351,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("audit:seo passed: 7 core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head");
+console.log("audit:seo passed: 10 core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head");

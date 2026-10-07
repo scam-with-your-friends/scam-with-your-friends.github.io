@@ -25,6 +25,7 @@ export interface FixedTemplateInput {
   bannerUrl?: string | null;
   heading?: string | null;
   lead?: string | null;
+  leadCode?: string | null;
   supportingText?: string | null;
   eyebrow?: string | null;
   reviewedLabel?: string | null;
@@ -215,9 +216,10 @@ function applyGlassPage(html: string, input: FixedTemplateInput): string {
   const reviewed = input.reviewedLabel ? `<p class="reviewed">Last updated: ${esc(input.reviewedLabel)}</p>` : "";
   const eyebrow = input.eyebrow ? `<span class="sticker">${esc(input.eyebrow)}</span>` : "";
   const actions = input.actionsHtml ? `<div class="actions">${input.actionsHtml}</div>` : "";
+  const code = input.leadCode ? `<pre class="hero-code"><code>${esc(input.leadCode)}</code></pre>` : "";
   return next.replace(
     /(<section class="wrap inner-hero">[\s\S]*?)(<h1>[\s\S]*?<\/h1>\s*)<p>[\s\S]*?<\/p>/,
-    (_match, before: string, h1: string) => `${before}${eyebrow}${h1}<p class="lead">${esc(input.lead || "")}</p>${reviewed}${actions}`,
+    (_match, before: string, h1: string) => `${before}${eyebrow}${h1}<p class="lead">${esc(input.lead || "")}</p>${code}${reviewed}${actions}`,
   );
 }
 
@@ -362,6 +364,9 @@ export function glassLayoutCss(): string {
 .nav{min-width:0;max-width:100%;overflow:visible;flex-wrap:wrap;justify-content:flex-end}
 .nav-link{display:inline-flex;align-items:center;flex:0 0 auto;min-height:44px;white-space:nowrap;padding:10px 12px}
 .nav-link:nth-child(n+4){display:inline-flex}
+.fixed-nav-toggle{display:none;align-items:center;justify-content:center;flex:0 0 44px;min-height:44px;margin-left:auto;border:1px solid #CDD9EE;border-radius:999px;background:#fff;color:#20202C;cursor:pointer}
+.nav-link:focus-visible,.fixed-nav-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.hero-code{max-width:760px;margin:16px 0;padding:16px;border:2px solid #272536;border-radius:18px;background:#fff;color:#20202C;text-align:left;white-space:pre-wrap;overflow-wrap:anywhere;font-size:15px;line-height:1.6}
 .actions{flex-wrap:wrap}
 .btn{min-height:44px;display:inline-flex;align-items:center;justify-content:center}
 h1,h2,h3,p,li,a,td,th{overflow-wrap:anywhere}
@@ -391,8 +396,14 @@ a.status-card b{display:block;font-size:16px;color:#20202C}
 a.status-card span{display:block;margin-top:4px;color:#3F4658;font-weight:650;font-size:14px;line-height:1.45}
 @media(max-width:1100px){
 .nav-inner{flex-wrap:wrap}
-.nav{width:100%;margin-left:0;justify-content:flex-start;flex-wrap:wrap;overflow:visible}
+.fixed-nav-toggle{display:inline-flex}
+.nav{display:none;width:100%;margin-left:0;justify-content:flex-start;flex-wrap:wrap;overflow:visible;max-height:calc(100dvh - 100px);overflow-y:auto}
+.nav.is-open{display:flex;flex-direction:column;flex-wrap:nowrap}
 .floating{border-radius:28px}
+}
+@media(min-width:1101px){
+.nav{flex-wrap:nowrap;gap:2px}
+.nav-link{padding:10px 9px}
 }
 @media(max-width:820px){
 h1{font-size:34px}
@@ -401,7 +412,7 @@ h1{font-size:34px}
 .blocks{grid-template-columns:1fr}
 .layout{grid-template-columns:minmax(0,1fr)}
 .toc{position:static}
-.nav{flex-wrap:wrap;overflow:visible}
+.nav{flex-wrap:wrap}
 .nav-link:nth-child(n+4){display:inline-flex}
 }
 `;

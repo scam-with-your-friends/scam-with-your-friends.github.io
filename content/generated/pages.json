@@ -902,5 +902,655 @@
     ],
     "relatedSlugs": ["how-to-play", "release-date", "price"],
     "lastReviewed": "2026-10-03"
+  },
+  {
+    "enabled": true,
+    "slug": "demo",
+    "pageType": "article",
+    "navLabel": "Demo",
+    "title": "Scam With Your Friends Demo | How to Play Before Release",
+    "description": "Is there a Scam With Your Friends demo? Check the current demo and playtest status, how early access works, and the official ways to play before release.",
+    "keywords": [
+      "scam with your friends demo",
+      "scam with your friends demo download",
+      "scam with your friends free demo",
+      "scam with your friends playtest demo",
+      "scam with your friends steam demo",
+      "can you play scam with your friends demo"
+    ],
+    "navVisible": true,
+    "priority": "P0",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Access guide",
+      "heading": "Scam With Your Friends Demo",
+      "lead": "A public Scam With Your Friends demo is not currently listed on Steam. The limited playtest is a separate access-controlled test, not a demo anyone can download. Early Access is still marked as coming soon. Open the official Steam page to check the available options before looking for an installer.",
+      "cta": {
+        "label": "Check demo status on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "demo-status",
+        "heading": "Is There a Scam With Your Friends Demo?",
+        "paragraphs": [
+          "As of October 7, 2026, the official listing does not offer a normal public demo download. A video of someone playing an unfinished build does not establish that the same build is available to every visitor. Before following a download claim, check what the store offers to your own Steam account.",
+          "For a Scam With Your Friends demo download, the useful distinction is availability: a public demo would have an official way to install it without an invitation. A limited test can be playable for selected accounts while remaining unavailable to everyone else. Closed applications and an active test can also coexist."
+        ],
+        "table": {
+          "caption": "Current demo and access status — checked October 7, 2026",
+          "columns": [
+            "Option",
+            "Current status",
+            "What to do"
+          ],
+          "rows": [
+            [
+              "Public Steam demo",
+              "Not publicly listed",
+              "Check the official store for a demo option"
+            ],
+            [
+              "Limited playtest",
+              "Access-controlled; new signups closed",
+              "Use the official process if eligible"
+            ],
+            [
+              "Early Access",
+              "Coming soon; planned for October 2026",
+              "Follow the store rather than assuming installation is open"
+            ],
+            [
+              "Retail price",
+              "Not publicly listed",
+              "Read the price guide before paying a third party"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "demo-vs-playtest",
+        "heading": "Demo vs Playtest: What Is the Difference?",
+        "paragraphs": [
+          "These labels describe different kinds of access. The comparison below explains the terms; it does not announce a new demo, a reopened test, or a launch. A Scam With Your Friends Steam demo would need its own public availability on the official store."
+        ],
+        "subsections": [
+          {
+            "heading": "Public Demo",
+            "paragraphs": [
+              "A public demo normally lets prospective players sample a game through an openly available store option. The developer chooses its content and restrictions. Calling a playtest a demo in a stream title does not create that public option, and a trailer is not an installable trial."
+            ]
+          },
+          {
+            "heading": "Limited Playtest",
+            "paragraphs": [
+              "A playtest is used to gather feedback from admitted players. Its application process, account permission and invitation rules determine who can enter. Treat the phrase Scam With Your Friends playtest demo as informal wording: for installation, the relevant question is whether your account has legitimate playtest access."
+            ]
+          },
+          {
+            "heading": "Early Access",
+            "paragraphs": [
+              "Early Access is the release of a game while development continues. It is separate from a free trial and from admission to a temporary test. The store currently says coming soon, so the Early Access label alone does not mean that you can buy or install the game today."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Public demo, limited playtest and Early Access compared",
+          "columns": [
+            "Format",
+            "Purpose",
+            "Access to check"
+          ],
+          "rows": [
+            [
+              "Public demo",
+              "Try a sample of the game",
+              "A public demo option on the official store"
+            ],
+            [
+              "Limited playtest",
+              "Test a development build",
+              "Admission or an authorized invitation"
+            ],
+            [
+              "Early Access",
+              "Play the released game during development",
+              "The live store offer and its purchase conditions"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "play-before-release",
+        "heading": "How to Play Scam With Your Friends Before Release",
+        "paragraphs": [
+          "Start with the official account and store, rather than an installer link. If the account does not have test access and no public demo is offered, there is no confirmed public trial to install through that account. Watching a friend play or adding the game to your wishlist does not grant access.",
+          "The [playtest access guide](/playtest-key/) covers eligibility and friend invitations in more detail. Use it for admission questions. This demo guide focuses on whether an open trial exists and how to recognize the difference when a search result promises one."
+        ],
+        "steps": [
+          {
+            "heading": "Open the official listing",
+            "description": "Use the Steam link above and confirm the title and publisher. Read the current access options rather than relying on a screenshot of an older listing."
+          },
+          {
+            "heading": "Check your account",
+            "description": "If you previously applied or received a legitimate invitation, check your Steam account and library. Follow the instructions attached to that access; another account may not have the same permission."
+          },
+          {
+            "heading": "Follow official updates",
+            "description": "Use the publisher’s game page and its Discord link for changes. If you are not eligible, wishlist the game and wait for a public option instead of paying someone to unlock a supposed demo."
+          }
+        ]
+      },
+      {
+        "id": "free-demo",
+        "heading": "Can You Download the Demo for Free?",
+        "paragraphs": [
+          "There is no publicly listed Scam With Your Friends free demo to download at present. A missing retail price does not establish a free full-game offer. Likewise, the word free in a search snippet says nothing about whether its file was published by the studio.",
+          "If a demo is announced later, check its availability and terms on Steam at that time. Do not assume it will contain the whole game, remain available indefinitely, or carry progress into another build. Those details would need a specific developer announcement.",
+          "The publisher’s separate $8 Unlimited AI purchase applies to the playtest service. It does not buy the game, provide playtest entry or turn an unrelated executable into an official trial. The [price and playtest AI explanation](/price/) separates those charges so you can decide what you are actually paying for."
+        ]
+      },
+      {
+        "id": "test-access",
+        "heading": "How Playtest Access Works",
+        "paragraphs": [
+          "Steam’s published notice says new playtest signups closed after more than 12,000 requests and that admitted testers may invite up to three friends. This is a limited route into a test, not a public Scam With Your Friends demo that anyone can install on demand.",
+          "If a friend has access, ask them to use the official invitation instructions. Do not confuse a Discord conversation about finding teammates with a guaranteed invitation. An account still needs the relevant permission, and a copied code or third-party purchase cannot be assumed to provide it.",
+          "For someone waiting to try the game, the practical choice is between checking existing test eligibility and waiting for a public release or trial announcement. You do not need to keep trying unofficial installers to make that decision."
+        ]
+      },
+      {
+        "id": "demo-updates",
+        "heading": "Where to Check the Latest Demo Status",
+        "paragraphs": [
+          "Check the official store first when asking whether you can play a Scam With Your Friends demo. Look for a clearly identified demo option, read the developer’s current announcements, and follow any access instructions shown for your account. Search results and creator clips may remain visible long after the circumstances in them change.",
+          "Use the [release date guide](/release-date/) for the wider launch timeline. An Early Access plan and a demo announcement answer different questions: the first concerns release timing, while the second would describe a public sample. One should not be inferred from the other.",
+          "Return to the [Scam With Your Friends guide](/) for the broader overview once you have settled the access question. If you only want an official trial, you can stop at the current store status without navigating through unrelated gameplay information."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Official Steam listing](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — current public store availability and playtest notice.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — publisher links and playtest AI information.",
+          "[Unlimited AI purchase terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms) — what the separate playtest purchase covers and excludes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is there a Scam With Your Friends demo?",
+        "answer": "A normal public demo is not currently listed on Steam. Check the official store for a change; the limited playtest is a different form of access."
+      },
+      {
+        "question": "Is the Scam With Your Friends playtest the demo?",
+        "answer": "No. The playtest is access-controlled. A public demo would offer an openly available official installation option, rather than requiring test admission."
+      },
+      {
+        "question": "Can I download the demo for free?",
+        "answer": "There is no public demo download currently listed. An unofficial page using the word free does not establish an authorized trial."
+      },
+      {
+        "question": "How can I play before Early Access?",
+        "answer": "Check legitimate playtest eligibility or an official invitation from an admitted tester. If neither applies, follow Steam and the publisher for a public access announcement."
+      },
+      {
+        "question": "Is there a public Steam demo?",
+        "answer": "The current store does not list one. A wishlist, a trailer and a limited playtest are not equivalent to a public Steam demo."
+      },
+      {
+        "question": "Where should I check for demo updates?",
+        "answer": "Start with the official Steam listing and developer announcements. The publisher’s game page links its community channels for further updates."
+      }
+    ],
+    "lastReviewed": "2026-10-07",
+    "primaryKeyword": "scam with your friends demo",
+    "secondaryKeywords": [
+      "scam with your friends demo download",
+      "scam with your friends free demo",
+      "scam with your friends playtest demo",
+      "scam with your friends steam demo",
+      "can you play scam with your friends demo"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/unlimited/terms"
+    ],
+    "relatedSlugs": [
+      "playtest-key",
+      "release-date",
+      "price"
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "download",
+    "pageType": "article",
+    "navLabel": "Download",
+    "title": "Scam With Your Friends Download & Crack Status",
+    "description": "Looking for Scam With Your Friends download, crack or repack? See the official Steam download path, current access status, and how to avoid fake files.",
+    "keywords": [
+      "scam with your friends crack",
+      "scam with your friends cracked",
+      "scam with your friends download",
+      "scam with your friends free download",
+      "scam with your friends repack",
+      "scam with your friends pc download",
+      "scam with your friends steam download"
+    ],
+    "navVisible": true,
+    "priority": "P0",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Access guide",
+      "heading": "Scam With Your Friends Download & Crack Status",
+      "lead": "For an official Scam With Your Friends download, start with Steam and the publisher’s linked channels. The retail game is still marked as coming soon, and the playtest requires legitimate access. This guide provides no cracked or repack downloads; use the store to check whether your account can install an official build.",
+      "cta": {
+        "label": "Check official download access",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "official-download",
+        "heading": "Where to Download Scam With Your Friends",
+        "paragraphs": [
+          "The official Steam listing is the starting point for store access. Once your account is entitled to an available build, use the Steam client and that account’s library to install it. The publisher’s game page links to the store; its media downloads and press kit are not a full-game installer.",
+          "As of October 7, 2026, the store says the game is not yet available and lists a planned October 2026 release window. That is a plan, not a purchase button or a guaranteed day. A Scam With Your Friends Steam download depends on the access actually offered to your account."
+        ],
+        "table": {
+          "caption": "Current official download and access status",
+          "columns": [
+            "Search or option",
+            "Current position",
+            "Next step"
+          ],
+          "rows": [
+            [
+              "Retail PC download",
+              "Not yet publicly available on Steam",
+              "Watch the official listing"
+            ],
+            [
+              "Limited playtest",
+              "Requires authorized test access",
+              "Check your account or an eligible invitation"
+            ],
+            [
+              "Public demo",
+              "Not currently listed",
+              "Check the demo guide and store"
+            ],
+            [
+              "Free full game",
+              "No public free full-game offer announced",
+              "Do not infer one from an absent price"
+            ],
+            [
+              "Crack or repack",
+              "No official cracked or repack edition",
+              "Use authorized publisher channels"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "crack-status",
+        "heading": "Is There a Scam With Your Friends Crack?",
+        "paragraphs": [
+          "There is no official Scam With Your Friends crack edition. A crack claim describes an unofficial way of distributing or altering software, not an access option offered by Steam or the publisher. It cannot establish that a download is genuine, current or authorized.",
+          "That distinction does not prove that no third-party file exists anywhere online. It means that an upload advertising itself as a Scam With Your Friends crack is outside the verified official download path. A filename, a game logo or a comment saying it works is not proof of its origin.",
+          "If your aim is simply to try the game, check the actual store options. A crack search does not tell you whether a test invite is valid or whether a public release has opened. This page does not supply files or instructions for bypassing purchase, account access or DRM."
+        ]
+      },
+      {
+        "id": "cracked-repack",
+        "heading": "Scam With Your Friends Cracked or Repack Downloads",
+        "paragraphs": [
+          "A page promising Scam With Your Friends cracked or repack downloads may present screenshots, version numbers and an install button. Those details alone do not connect the file to its developers. Treat the claim as an unofficial distribution until there is a direct, verifiable publisher source.",
+          "A repack usually describes repackaged files. The term is not a publisher certification, and a smaller download size does not confirm that its contents match an official build. A Scam With Your Friends repack claim also says nothing reliable about access to online features or services.",
+          "Avoid turning uncertainty into a diagnosis: an unverified file is not automatically proven malware, but neither is it shown safe by having the right title. You can choose the official route without running the file to find out. No third-party game packages are linked here."
+        ]
+      },
+      {
+        "id": "free-download",
+        "heading": "Is Scam With Your Friends Free to Download?",
+        "paragraphs": [
+          "No public free download of the full game has been announced in the official material reviewed for this guide. A limited playtest is not a permanent free retail edition, and a wishlist listing without a price is not a free-to-play offer.",
+          "When comparing a Scam With Your Friends free download claim with Steam, check what the offer actually represents: a trailer, a press asset, test access or the retail game. These are different products and permissions. A video download from a press kit will not install the game.",
+          "The $8 playtest Unlimited AI option is a separate publisher purchase and is explicitly not a game key or playtest entry. Read the [game price and AI access guide](/price/) before assuming any payment includes an installable full copy."
+        ]
+      },
+      {
+        "id": "official-vs-fake",
+        "heading": "Official Steam Download vs Fake Downloads",
+        "paragraphs": [
+          "For a Scam With Your Friends PC download, trace the route back to the official store rather than choosing the first search result. Read the entire domain name and compare it with the link on the publisher’s game page. Similar branding or a familiar-looking button is easy to copy."
+        ],
+        "table": {
+          "caption": "How to assess a download offer",
+          "columns": [
+            "Check",
+            "Official route",
+            "Unverified third-party offer"
+          ],
+          "rows": [
+            [
+              "Source",
+              "Linked Steam listing or publisher channel",
+              "File host or page with no publisher connection"
+            ],
+            [
+              "Account access",
+              "Permission shown in your own Steam account",
+              "Promises to unlock any account"
+            ],
+            [
+              "Installation",
+              "Available build in the Steam client",
+              "Standalone executable of uncertain origin"
+            ],
+            [
+              "Price and terms",
+              "Published store or publisher conditions",
+              "Unexplained payments, generators or surveys"
+            ],
+            [
+              "Updates",
+              "Developer announcements and authorized delivery",
+              "Version labels with no official provenance"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "legitimate-access",
+        "heading": "How to Get Legitimate Access",
+        "paragraphs": [],
+        "subsections": [
+          {
+            "heading": "Playtest Access",
+            "paragraphs": [
+              "If you previously applied, check the relevant Steam account and the developer’s current instructions. The published notice says signups closed after more than 12,000 requests and that admitted testers can invite up to three friends. An invitation needs to follow that official process; buying a supposed spare key from a stranger is not a substitute.",
+              "The [playtest access guide](/playtest-key/) covers that route. A Scam With Your Friends download becomes useful only when the account has the permission to use the offered build. Downloading unrelated files does not grant test admission."
+            ]
+          },
+          {
+            "heading": "Early Access / Full Release",
+            "paragraphs": [
+              "Use the [release date guide](/release-date/) to distinguish the planned Early Access window from later release plans. When Steam actually offers the game, review the current price and terms, then install through the client after obtaining access. Do not treat a future plan as an instruction to purchase somewhere else today.",
+              "Check the [supported platforms and PC requirements](/platforms/) before installation. The announced Windows PC version does not establish an official mobile, console or browser download. A package advertised for another platform needs its own publisher confirmation."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "avoid-fake-files",
+        "heading": "How to Avoid Fake Scam With Your Friends Files",
+        "paragraphs": [
+          "Keep the checks simple. Do not enter your Steam password on a non-Steam domain, run an executable from an unknown source, or rely on a key generator. Do not disable security tools because an installer says it needs that step to unlock a Scam With Your Friends cracked build.",
+          "If you have only downloaded an unknown file, leave it unopened and use your usual security tools to assess it. If you entered account credentials on an unrelated site, secure the affected account through Steam’s own support and account settings. Do not revisit the same page to ask it to fix the problem.",
+          "For a broader introduction, return to the [Scam With Your Friends guide](/). For installation, your next useful action remains checking the official store and your account, rather than comparing more repack claims."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the official listing and current availability.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher’s store and community links.",
+          "[Unlimited AI terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms) — the playtest-only purchase and its exclusions."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I download Scam With Your Friends?",
+        "answer": "Start with its official Steam listing. Install through the Steam client if your account has access to an available build; the retail release is currently still marked as coming soon."
+      },
+      {
+        "question": "Is there a Scam With Your Friends crack?",
+        "answer": "There is no official cracked edition. Third-party crack claims are unofficial and do not verify a file’s origin, permissions or safety."
+      },
+      {
+        "question": "Is there a cracked or repack version?",
+        "answer": "No cracked or repack edition is offered through the verified official channels. This is not a claim that no third-party uploads exist anywhere."
+      },
+      {
+        "question": "Can I download Scam With Your Friends for free?",
+        "answer": "A public free full-game download has not been announced. Limited playtest access and any future public demo are separate from the retail game."
+      },
+      {
+        "question": "Is a third-party download safe?",
+        "answer": "Its title or branding cannot establish safety. Prefer the official store and avoid unknown executables; an unverified file is not the same as a confirmed malware diagnosis."
+      },
+      {
+        "question": "Does the playtest count as the full game?",
+        "answer": "No. The test has its own access rules and does not establish ownership of the retail release. The separate playtest AI purchase also does not include the game."
+      },
+      {
+        "question": "Where is the official Steam page?",
+        "answer": "The official listing is Steam App ID 4954910, linked by the Steam button at the top of this page and by the publisher’s game page."
+      }
+    ],
+    "lastReviewed": "2026-10-07",
+    "primaryKeyword": "scam with your friends crack",
+    "secondaryKeywords": [
+      "scam with your friends cracked",
+      "scam with your friends download",
+      "scam with your friends free download",
+      "scam with your friends repack",
+      "scam with your friends pc download",
+      "scam with your friends steam download"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/unlimited/terms"
+    ],
+    "relatedSlugs": [
+      "playtest-key",
+      "release-date",
+      "price",
+      "platforms"
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "log-file-location",
+    "pageType": "guide",
+    "navLabel": "Log File",
+    "title": "Scam With Your Friends Log File Location | Player.log",
+    "description": "Find the Scam With Your Friends log file location on Windows, open Player.log quickly, and use it for troubleshooting common game or AI issues.",
+    "keywords": [
+      "scam with your friends log file location",
+      "scam with your friends player.log",
+      "scam with your friends log location",
+      "scam with your friends player log location",
+      "scam with your friends logs",
+      "scam with your friends appdata",
+      "scam with your friends locallow"
+    ],
+    "navVisible": true,
+    "priority": "P1",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Windows troubleshooting",
+      "heading": "Scam With Your Friends Log File Location",
+      "lead": "On Windows, current community tooling points to the Player.log path below. Press Win + R, paste this path and press Enter; choose Notepad if Windows asks how to open it. The path is documented by a community tool, rather than an official guarantee for every game build.",
+      "codeBlock": "%USERPROFILE%\\AppData\\LocalLow\\Jatater Worldwide\\Scam With Your Friends\\Player.log"
+    },
+    "sections": [
+      {
+        "id": "windows-log-path",
+        "heading": "Scam With Your Friends Log File Location",
+        "paragraphs": [
+          "The Windows path above is documented in the [SwyfInstaller community project’s troubleshooting notes](https://github.com/manifest-dex/SwyfInstaller/blob/main/README.md). It points to Player.log under your user profile’s AppData, LocalLow, Jatater Worldwide and Scam With Your Friends folders. This is technical documentation from a compatible community tool, not a publisher announcement.",
+          "The %USERPROFILE% variable selects the Windows user running the command. You do not need to replace it with a guessed account name. Keep the spaces in the publisher and game folder names. This user-data location is separate from the Steam folder that holds the installed game files.",
+          "If the path is missing on your machine, use the checks below rather than creating an empty log or assuming a different path is correct. Build-specific instructions from the developer take precedence if they identify an updated location."
+        ]
+      },
+      {
+        "id": "open-player-log",
+        "heading": "How to Open Player.log on Windows",
+        "paragraphs": [
+          "Use a plain-text viewer such as Notepad. You are opening a diagnostic text file, not a program to install or execute. Read it first; you do not need to edit its contents, change permissions or download a special log viewer to inspect it."
+        ],
+        "subsections": [
+          {
+            "heading": "Open It with File Explorer",
+            "paragraphs": [
+              "Press Win + E to open File Explorer. Click the address bar, paste the complete Player.log path from the top of this page and press Enter. If Windows asks which app to use, choose Notepad. You can also remove the final backslash and Player.log filename to open the containing folder first.",
+              "Typing the path directly avoids browsing through hidden AppData folders. If you browse manually instead, use File Explorer’s option to show hidden items. Check the file’s modified time before relying on it: an older log may describe an earlier run rather than today’s problem."
+            ]
+          },
+          {
+            "heading": "Open It with Run",
+            "paragraphs": [
+              "Press Win + R to open Run. Paste the same full path, preserving its spaces and backslashes, then press Enter. Choose a text editor if prompted. If Windows reports that it cannot find the file, try the containing folder and follow the missing-file checks below.",
+              "Both methods target the same Scam With Your Friends log file location. Neither requires administrator access in an ordinary user profile. If another Windows account ran the game, sign in to that account or ask its owner to obtain their own log."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "log-purpose",
+        "heading": "What Is Player.log Used For?",
+        "paragraphs": [
+          "Player.log is a record of messages written during a game session. Depending on what the build logs, it may help a support person follow startup, a failure or activity near the moment something stopped working. It does not necessarily record every action, and a silent failure may leave little useful detail.",
+          "[Unity’s log-file reference](https://docs.unity3d.com/Manual/log-files.html) describes the general Windows Player.log convention. The game-specific folder in this guide comes from the community project noted above. General engine documentation supports the file format and location pattern; it does not independently confirm every game-specific error or folder.",
+          "Think of Scam With Your Friends logs as evidence to accompany a clear description. The file alone may not explain what you saw, which account or build you used, or whether the issue involved a particular session."
+        ]
+      },
+      {
+        "id": "read-log",
+        "heading": "What to Look for in the Log",
+        "paragraphs": [
+          "Start with the time you noticed the problem and the surrounding messages, when timestamps are present. Search for words such as error, exception, failed or timeout, then read several lines before and after each result. A word match is a clue, not a diagnosis: warnings can appear during otherwise successful sessions.",
+          "Look for a sequence that matches the symptom. If a request failed, note its reported message and whether it repeats. If the game stopped during startup, keep the earlier context instead of copying only the last line. Do not turn an unfamiliar error string into a guaranteed fix without more information."
+        ],
+        "table": {
+          "caption": "Useful details to collect with Player.log",
+          "columns": [
+            "Detail",
+            "Why it helps"
+          ],
+          "rows": [
+            [
+              "Approximate time and time zone",
+              "Connects the reported symptom to the correct part of the session"
+            ],
+            [
+              "What you were doing",
+              "Explains how to reproduce the issue"
+            ],
+            [
+              "Exact message on screen",
+              "Preserves the symptom without paraphrasing away important wording"
+            ],
+            [
+              "Game build and Windows version, if known",
+              "Helps distinguish different environments"
+            ],
+            [
+              "Unmodified game or community modifications",
+              "Identifies which support route may be relevant"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "when-to-check",
+        "heading": "Common Reasons to Check the Log",
+        "paragraphs": [
+          "Check the log after a startup failure, a crash, a stalled session or an AI conversation that does not respond as expected. These are reasons to gather information, not claims that each problem has a known logged error. A screenshot and the actions immediately before the failure can be useful alongside the file.",
+          "If you use a community mod or a custom AI provider, record that separately. Such tools can have their own logs and support instructions; they are not official game components merely because they work with a playtest build. The community project’s README discusses its own CustomAI entries, which should not be expected in every unmodified game log.",
+          "Use the [beginner gameplay guide](/how-to-play/) for normal game behavior. For installation eligibility, consult the [playtest access guide](/playtest-key/). Neither an access problem nor a misunderstanding of the gameplay loop should automatically be treated as a broken log."
+        ]
+      },
+      {
+        "id": "delete-log",
+        "heading": "Can I Delete Player.log?",
+        "paragraphs": [
+          "Save a copy before deleting or replacing diagnostic evidence, especially if you plan to ask for support. Close the game before managing the file. Deleting a log removes information; it is not a repair for an account, network, AI service or gameplay problem.",
+          "For ordinary troubleshooting, reading the file and copying it to a separate folder is enough. If support specifically asks you to clear a log and reproduce the issue, follow the instructions for your build. Do not delete the entire LocalLow game folder: neighboring files may have other purposes."
+        ]
+      },
+      {
+        "id": "missing-log",
+        "heading": "What to Do If Player.log Is Missing",
+        "paragraphs": [
+          "First, run the legitimately installed game once under the Windows account you normally use, then check the path again. If you can safely reproduce the problem, note the time and inspect the file after that run. A failure before logging begins may still leave no Player.log.",
+          "Confirm the active Windows user, remove accidental quotation marks or trailing spaces, and try opening the containing folder. If you used a different account or a different computer for the session, this profile may never have created the relevant file. Do not copy another player’s log and treat it as yours.",
+          "If the expected folder remains absent, ask the developer or the relevant tool maintainer for instructions specific to your build. Use the [Windows platform guide](/platforms/) to check the supported environment. This page does not infer Mac, Linux or console log locations from a Windows example."
+        ]
+      },
+      {
+        "id": "log-privacy",
+        "heading": "Privacy Before Sharing Your Log",
+        "paragraphs": [
+          "Review a copy before posting it. Search for usernames, personal local paths, tokens, API keys, authorization headers and account data. Their presence depends on the game and any tools in use; do not assume every log contains credentials, or that none can. Remove sensitive values from the shared copy while preserving useful error context.",
+          "Keep the original privately if support needs a more complete report through an appropriate channel. Avoid posting secrets in public Discord messages, forum threads or paste sites. If a credential has already been exposed, revoke or rotate it through the service that issued it; editing a later copy cannot undo the disclosure.",
+          "Return to the [main game guide](/) for the publisher’s official links when choosing where to ask for help. Share the smallest useful, reviewed excerpt together with your symptoms and reproduction steps."
+        ]
+      },
+      {
+        "id": "technical-sources",
+        "heading": "Technical Sources",
+        "paragraphs": [
+          "[SwyfInstaller README](https://github.com/manifest-dex/SwyfInstaller/blob/main/README.md) — community troubleshooting documentation that names this Windows Player.log path.",
+          "[Unity log files reference](https://docs.unity3d.com/Manual/log-files.html) — general engine log conventions. The community tooling source supplies the game-specific folder names."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is the Scam With Your Friends log file?",
+        "answer": "Current community tooling documents Player.log under %USERPROFILE%\\AppData\\LocalLow\\Jatater Worldwide\\Scam With Your Friends. Check instructions for your build if the folder is absent."
+      },
+      {
+        "question": "What is the Player.log path?",
+        "answer": "%USERPROFILE%\\AppData\\LocalLow\\Jatater Worldwide\\Scam With Your Friends\\Player.log"
+      },
+      {
+        "question": "How do I open Player.log?",
+        "answer": "Press Win + R, paste the full path at the top of this page and press Enter. Open the file with Notepad or another plain-text editor."
+      },
+      {
+        "question": "Why is Player.log missing?",
+        "answer": "The game may not have run under this Windows account, logging may not have started, or the build may use different instructions. Run it once and check the correct user profile first."
+      },
+      {
+        "question": "Can I delete Player.log?",
+        "answer": "Preserve a copy if you need it for support and close the game before managing it. Deleting diagnostic text is not a fix for the underlying problem."
+      },
+      {
+        "question": "Is it safe to share Player.log?",
+        "answer": "Review it first for personal paths, account information, tokens and API keys. Share a redacted copy or a relevant excerpt through an appropriate support channel."
+      }
+    ],
+    "lastReviewed": "2026-10-07",
+    "primaryKeyword": "scam with your friends log file location",
+    "secondaryKeywords": [
+      "scam with your friends player.log",
+      "scam with your friends log location",
+      "scam with your friends player log location",
+      "scam with your friends logs",
+      "scam with your friends appdata",
+      "scam with your friends locallow"
+    ],
+    "sourceNotes": [
+      "https://github.com/manifest-dex/SwyfInstaller/blob/main/README.md",
+      "https://docs.unity3d.com/Manual/log-files.html"
+    ],
+    "relatedSlugs": [
+      "how-to-play",
+      "playtest-key",
+      "platforms"
+    ]
   }
 ]

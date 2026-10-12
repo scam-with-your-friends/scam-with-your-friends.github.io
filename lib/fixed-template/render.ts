@@ -394,14 +394,14 @@ a.status-card{display:flex;flex-direction:column;justify-content:center;min-heig
 .prose-section a.status-card,.layout article a.status-card{text-decoration:none;color:#20202C}
 a.status-card b{display:block;font-size:16px;color:#20202C}
 a.status-card span{display:block;margin-top:4px;color:#3F4658;font-weight:650;font-size:14px;line-height:1.45}
-@media(max-width:1100px){
+@media(max-width:1200px){
 .nav-inner{flex-wrap:wrap}
 .fixed-nav-toggle{display:inline-flex}
 .nav{display:none;width:100%;margin-left:0;justify-content:flex-start;flex-wrap:wrap;overflow:visible;max-height:calc(100dvh - 100px);overflow-y:auto}
 .nav.is-open{display:flex;flex-direction:column;flex-wrap:nowrap}
 .floating{border-radius:28px}
 }
-@media(min-width:1101px){
+@media(min-width:1201px){
 .nav{flex-wrap:nowrap;gap:2px}
 .nav-link{padding:10px 9px}
 }

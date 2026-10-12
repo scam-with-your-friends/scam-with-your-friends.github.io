@@ -21,6 +21,9 @@ const expectedTitles = {
   demo: "Scam With Your Friends Demo | How to Play Before Release",
   download: "Scam With Your Friends Download & Crack Status",
   "log-file-location": "Scam With Your Friends Log File Location | Player.log",
+  roblox: "Scam With Your Friends Roblox | Is There an Official Game?",
+  steam: "Scam With Your Friends Steam | Official Page & Status",
+  multiplayer: "Scam With Your Friends Multiplayer | Co-op & Solo Guide",
 };
 
 const expectedDescriptions = {
@@ -34,9 +37,12 @@ const expectedDescriptions = {
   demo: "Is there a Scam With Your Friends demo? Check the current demo and playtest status, how early access works, and the official ways to play before release.",
   download: "Looking for Scam With Your Friends download, crack or repack? See the official Steam download path, current access status, and how to avoid fake files.",
   "log-file-location": "Find the Scam With Your Friends log file location on Windows, open Player.log quickly, and use it for troubleshooting common game or AI issues.",
+  roblox: "Is there an official Scam With Your Friends Roblox version? See the current status, how it differs from the Steam game, and how to avoid fake Roblox copies.",
+  steam: "Open the official Scam With Your Friends Steam page and check the current playtest, Early Access, platform, download and system requirement status.",
+  multiplayer: "See how Scam With Your Friends multiplayer works, including online co-op, solo play, public lobbies, playing with friends, and the current player limit status.",
 };
 
-const newPageSlugs = ["demo", "download", "log-file-location"];
+const newPageSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer"];
 const requiredSlugs = ["release-date", "playtest-key", "how-to-play", "discord", "price", "platforms", ...newPageSlugs];
 const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "xbox", "mobile", "release", "access-release"];
 const internalFields = ["sourceNotes", "searchIntent", "factsStatus", "densityTargets", "primaryKeyword", "secondaryKeywords", "priority", "wordCountTarget"];
@@ -197,4 +203,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("validate passed: 10 core routes, metadata, domain, and source scan");
+console.log("validate passed: 13 core routes, metadata, domain, and source scan");

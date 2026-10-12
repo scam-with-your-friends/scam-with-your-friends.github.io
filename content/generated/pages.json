@@ -395,7 +395,7 @@
         "id": "modes",
         "heading": "Single-Player, Co-op and Public Lobbies",
         "paragraphs": [
-          "You can play Scam With Your Friends solo. Official modes also include online co-op with friends and public lobbies, so the same call-center shift can be a team job. The Steam page points playtest players toward Discord when they need teammates.",
+          "You can play Scam With Your Friends solo. Official modes also include online co-op with friends and public lobbies, so the same call-center shift can be a team job. The Steam page points playtest players toward Discord when they need teammates. The [multiplayer guide](/multiplayer/) breaks down solo, co-op and lobby play in detail.",
           "No maximum lobby size has been announced. If you are still trying to get into the test itself, the invite rule is separate from lobby size: an accepted tester can invite up to three friends. That rule is about access, not about how many characters fit in a shift.",
           "Public lobbies are confirmed as a mode. They are not a promise that a matchmaking queue is open to everyone before launch. Playtest access is still limited. The [Discord guide](/discord/) is the place to look for teammates once you are allowed in."
         ]
@@ -825,7 +825,7 @@
         "id": "roblox",
         "heading": "Is There a Roblox Version?",
         "paragraphs": [
-          "No official Roblox version of Scam With Your Friends has been announced. This page is about the Steam game from JakeHub and Metater, published by Jatater Worldwide. It is not a guide to other experiences that happen to use a similar name.",
+          "No official Roblox version of Scam With Your Friends has been announced. This page is about the Steam game from JakeHub and Metater, published by Jatater Worldwide. It is not a guide to other experiences that happen to use a similar name. The dedicated [Roblox guide](/roblox/) covers that question in full.",
           "If you found a Roblox place with overlapping words, that place is not the Steam App ID 4954910 release. The Windows Steam listing is the announced way to play this game, once you have access or once Early Access opens.",
           "The [how to play guide](/how-to-play/) covers the PC call-center loop: live AI callers, the in-game desktop, the daily quota, and the boss review. Those systems belong to the Steam game."
         ]
@@ -1551,6 +1551,640 @@
       "how-to-play",
       "playtest-key",
       "platforms"
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "roblox",
+    "pageType": "article",
+    "navLabel": "Roblox",
+    "title": "Scam With Your Friends Roblox | Is There an Official Game?",
+    "description": "Is there an official Scam With Your Friends Roblox version? See the current status, how it differs from the Steam game, and how to avoid fake Roblox copies.",
+    "keywords": [
+      "scam with your friends roblox",
+      "scam with friends roblox",
+      "scam with your friends roblox game",
+      "scam with your friends on roblox",
+      "official scam with your friends roblox",
+      "scam with your friends roblox link"
+    ],
+    "navVisible": true,
+    "priority": "P0",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Roblox status",
+      "heading": "Scam With Your Friends Roblox",
+      "lead": "There is currently no official Scam With Your Friends experience on Roblox. The game is a Windows PC title developed by JakeHub and Metater and published by Jatater Worldwide, and its only official listing is the Steam page for App ID 4954910. Any Roblox place that borrows the name is a fan-made or unofficial copy rather than the real game. This guide explains the current Roblox status, how it compares with the Steam version, and how to avoid lookalike experiences.",
+      "cta": {
+        "label": "View the official Steam page",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "roblox-status",
+        "heading": "Is Scam With Your Friends on Roblox?",
+        "intro": "The short answer is no. As of October 13, 2026, neither the developer nor the publisher has announced an official Roblox version of Scam With Your Friends.",
+        "table": {
+          "caption": "Scam With Your Friends Roblox status",
+          "columns": ["Item", "Status"],
+          "rows": [
+            ["Official Roblox version", "Not announced"],
+            ["Official Roblox link", "None published by the developer or publisher"],
+            ["Official platform", "Windows PC via Steam (App ID 4954910)"],
+            ["Developer / Publisher", "JakeHub and Metater / Jatater Worldwide"],
+            ["Lookalike Roblox places", "Unofficial; not the Steam game"]
+          ]
+        },
+        "paragraphs": [
+          "Scam With Your Friends is announced only for Windows PC through Steam. The official channels are the Steam store listing and the publisher's own game page, and neither one points to a Roblox experience. That means there is no official Roblox build to install, no Roblox group run by the studio to join, and no Roblox link the publisher asks players to use.",
+          "Roblox is an open platform where anyone can build and upload a place, so it is common for popular game names to appear there without the original studio being involved. A Roblox place that uses the Scam With Your Friends name, or a similar one, is not evidence that an official version exists. Treat every Roblox result as unofficial until the developer or publisher links to it directly.",
+          "The [platforms guide](/platforms/) keeps the full availability picture in one place, including the console, mobile, Mac and Linux status alongside Roblox. If a Roblox version is ever announced, it would appear on an official channel first rather than only inside Roblox search."
+        ]
+      },
+      {
+        "id": "official-link",
+        "heading": "Official Scam With Your Friends Roblox Link",
+        "paragraphs": [
+          "There is no official Scam With Your Friends Roblox link to share, because no official Roblox page has been published by JakeHub, Metater or Jatater Worldwide. If you find a Roblox link in a video description, a comment, or a search result, assume it is unofficial until you can trace it back to the studio's own channels.",
+          "The links that are official all point to the Steam version and the publisher. The store listing is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/), and the publisher page is the [Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/). Those two are where a real platform announcement would surface.",
+          "The [Steam guide](/steam/) explains what the official store page currently shows, including the wishlist status and the planned Early Access window. Use it as the reference point whenever a Roblox claim needs to be checked against what the studio has actually published."
+        ]
+      },
+      {
+        "id": "roblox-vs-steam",
+        "heading": "Roblox Version vs Steam Version",
+        "intro": "Because there is no official Roblox version, the honest comparison is between the announced Steam game and whatever an unofficial Roblox place might offer. They are not the same product.",
+        "table": {
+          "caption": "Official Steam game compared with unofficial Roblox places",
+          "columns": ["Aspect", "Official Steam version", "Unofficial Roblox place"],
+          "rows": [
+            ["Publisher", "Jatater Worldwide", "Not the studio"],
+            ["Developers", "JakeHub and Metater", "Unknown third parties"],
+            ["Platform", "Windows PC via Steam", "Roblox"],
+            ["Live AI callers", "Confirmed official feature", "Not the official game systems"],
+            ["Status", "Wishlist; Early Access planned", "Unofficial and unverified"]
+          ]
+        },
+        "paragraphs": [
+          "The official Steam game is built around real-time conversations with fictional AI callers, an in-game desktop with remote-access tools, a daily quota, and a boss review. Those systems are described in the studio's own materials. An unofficial Roblox place that copies the name is not required to reproduce any of them, and it will not carry the same code, the same AI, or the same publisher support.",
+          "Do not assume progress, purchases or unlocks would transfer between an unofficial Roblox place and the Steam game. They are separate projects with no shared accounts. The [how to play guide](/how-to-play/) describes the real gameplay loop as the developers present it, which is the version tied to the Steam listing.",
+          "If the studio ever ships an official Roblox experience, the two versions might still differ in features and content. Until an announcement exists, the only version the publisher stands behind is the Windows PC game on Steam."
+        ]
+      },
+      {
+        "id": "play-official",
+        "heading": "How to Play the Official Scam With Your Friends",
+        "intro": "Since there is no Roblox version, the official way to play is on Windows PC through Steam. These are the steps the publisher's channels currently support.",
+        "steps": [
+          {
+            "heading": "Open the official Steam page",
+            "description": "Go to Steam App ID 4954910 and confirm the title, the developer names, and Jatater Worldwide as the publisher before you do anything else."
+          },
+          {
+            "heading": "Wishlist the game",
+            "description": "Steam currently shows a wishlist rather than a buy button. Wishlisting keeps you updated when Early Access opens."
+          },
+          {
+            "heading": "Check your access",
+            "description": "A limited playtest is running with closed signups. If you were accepted or invited by an accepted tester, follow the instructions attached to that access."
+          },
+          {
+            "heading": "Install on a supported PC",
+            "description": "The announced platform is Windows 10 or 11, 64-bit. Review the current Steam minimum requirements before installing."
+          }
+        ],
+        "paragraphs": [
+          "None of these steps happen inside Roblox. The game is a downloadable Windows PC title, not a browser or Roblox experience. If a tutorial tells you to launch Scam With Your Friends through Roblox, it is describing an unofficial place rather than the published game.",
+          "Access today is limited. The wider launch is the planned Early Access window described on the [release date guide](/release-date/). Wishlisting the Steam page is the simplest way to hear when that changes, without relying on a Roblox search result."
+        ]
+      },
+      {
+        "id": "free",
+        "heading": "Is the Roblox Version Free?",
+        "paragraphs": [
+          "There is no official Roblox version, so there is no official Roblox price to discuss. Many Roblox places are free to join, but that says nothing about whether a place is the real Scam With Your Friends. A free-to-enter copy is still unofficial if the studio did not publish it.",
+          "For the actual Steam game, the retail price has not been announced. Steam currently shows a wishlist instead of a purchase price, and no free full-game download has been published. The [price guide](/price/) explains the separate US$8 Unlimited AI option, which is a playtest-only purchase and not the cost of the game.",
+          "Be careful with any Roblox place that promises the full game for free or asks for Robux to unlock Scam With Your Friends content. Those offers are not connected to the official Steam release, and paying Robux there does not buy anything from the publisher."
+        ]
+      },
+      {
+        "id": "publisher",
+        "heading": "Who Publishes the Official Version?",
+        "paragraphs": [
+          "The official Scam With Your Friends is developed by JakeHub and Metater and published by Jatater Worldwide. Those are the names printed on the Steam store listing, and they are the parties whose channels count as official.",
+          "Jatater Worldwide also runs the official community Discord at https://discord.gg/jataterww, which the Steam page points players to for playtest updates and for finding teammates. The [Discord guide](/discord/) explains how to confirm that invite and avoid fake servers.",
+          "A Roblox group, a Roblox developer name, or a Roblox place creator is not Jatater Worldwide unless the publisher links to it from the Steam page or the official game page. Right now, no such link exists."
+        ]
+      },
+      {
+        "id": "avoid-fakes",
+        "heading": "How to Avoid Fake or Unofficial Roblox Games",
+        "intro": "Use this checklist before you trust any Roblox place that uses the Scam With Your Friends name.",
+        "bullets": [
+          "Check whether the Steam page or the Jatater Worldwide game page links to the Roblox place. If neither does, treat it as unofficial.",
+          "Look at who created the place. A studio name that is not JakeHub, Metater or Jatater Worldwide is a third party.",
+          "Do not enter your Steam name and password on any Roblox place or external site.",
+          "Do not pay Robux to a place that claims to unlock the official game.",
+          "Compare the description with the official feature list; a copied blurb is not proof of an official release."
+        ],
+        "paragraphs": [
+          "Name overlap is the most common trap. A place can use similar words, similar artwork and a similar premise while having no connection to the real game. The reliable test is provenance: does the publisher point to it? For Scam With Your Friends, the answer is currently no.",
+          "The same caution applies outside Roblox. The [download guide](/download/) covers how to recognize fake installers, cracks and repacks that use the game name. In every case, the official Steam listing and the publisher's page are the sources to trust."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the official store listing and current availability.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher's own page and links.",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww) — the official community channel named on the Steam page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Scam With Your Friends on Roblox?",
+        "answer": "No official Roblox version has been announced. The game is a Windows PC title on Steam, published by Jatater Worldwide."
+      },
+      {
+        "question": "Is there an official Scam With Your Friends Roblox link?",
+        "answer": "No. The developer and publisher have not published a Roblox link. The official channels are the Steam store page and the Jatater Worldwide game page."
+      },
+      {
+        "question": "Are Roblox places using the name official?",
+        "answer": "Not unless the Steam page or the Jatater Worldwide page links to them. Right now no such link exists, so treat them as unofficial."
+      },
+      {
+        "question": "Is the Roblox version free?",
+        "answer": "There is no official Roblox version to price. The Steam game's retail price has not been announced, and no free full-game download has been published."
+      },
+      {
+        "question": "Who makes the official game?",
+        "answer": "JakeHub and Metater develop Scam With Your Friends, and Jatater Worldwide publishes it. Those names appear on the Steam listing."
+      },
+      {
+        "question": "Where should I play the real game?",
+        "answer": "On Windows PC through Steam (App ID 4954910). Wishlist the page and follow the publisher's channels for access and release updates."
+      },
+      {
+        "question": "Could a Roblox version come later?",
+        "answer": "Nothing has been announced. If it happens, it would appear on an official studio channel first, not only inside Roblox search."
+      }
+    ],
+    "lastReviewed": "2026-10-13",
+    "primaryKeyword": "scam with your friends roblox",
+    "secondaryKeywords": [
+      "scam with friends roblox",
+      "scam with your friends roblox game",
+      "scam with your friends on roblox",
+      "official scam with your friends roblox",
+      "scam with your friends roblox link"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://discord.gg/jataterww"
+    ],
+    "relatedSlugs": [
+      "steam",
+      "how-to-play",
+      "platforms"
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "steam",
+    "pageType": "article",
+    "navLabel": "Steam",
+    "title": "Scam With Your Friends Steam | Official Page & Status",
+    "description": "Open the official Scam With Your Friends Steam page and check the current playtest, Early Access, platform, download and system requirement status.",
+    "keywords": [
+      "scam with your friends steam",
+      "steam scam with your friends",
+      "scam with friends steam",
+      "scam with your friends steam game",
+      "scam with your friends on steam",
+      "scam with your friends steam page",
+      "scam with your friends steam download"
+    ],
+    "navVisible": true,
+    "priority": "P0",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Steam status",
+      "heading": "Scam With Your Friends on Steam",
+      "lead": "The official Scam With Your Friends Steam page is App ID 4954910, developed by JakeHub and Metater and published by Jatater Worldwide. Steam currently shows a wishlist rather than a buy button, with Early Access planned for October 2026 on Windows PC and no exact release day or retail price announced yet. Use the button below to open the store listing and confirm the live status yourself.",
+      "cta": {
+        "label": "View on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "steam-page",
+        "heading": "Official Scam With Your Friends Steam Page",
+        "intro": "This is the store listing the publisher points to. It is the authority for release timing, price and platform details.",
+        "table": {
+          "caption": "Current Steam status for Scam With Your Friends",
+          "columns": ["Item", "Status"],
+          "rows": [
+            ["Steam App ID", "4954910"],
+            ["Store state", "Wishlist only; not yet purchasable"],
+            ["Release", "Early Access planned October 2026; exact day not announced"],
+            ["Retail price", "Not announced"],
+            ["Platform", "Windows PC (Windows 10 / 11, 64-bit)"],
+            ["Developer / Publisher", "JakeHub and Metater / Jatater Worldwide"]
+          ]
+        },
+        "paragraphs": [
+          "The official page is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/). It currently presents the game as an upcoming title with a wishlist instead of a purchase button, which is normal for a game that has not opened its store offer yet.",
+          "Steam is the only storefront the publisher has announced. There is no separate official store page on another PC platform, and no console storefront listing. The [platforms guide](/platforms/) explains the wider availability picture beyond Steam.",
+          "Because store pages can be edited, the listing itself is the place to re-check a date, a price or a platform claim. A screenshot, a video or an old search snippet can lag behind what Steam shows today."
+        ]
+      },
+      {
+        "id": "can-play-now",
+        "heading": "Can You Play Scam With Your Friends on Steam Now?",
+        "paragraphs": [
+          "Not through a normal store purchase. Steam does not currently sell the game, and Early Access has not opened, so there is no buy-and-install path available to every visitor yet. The planned Early Access window is October 2026, and no exact day is displayed.",
+          "There is a separate limited playtest. Its signups closed after more than 12,000 requests, access is granted in batches, and an accepted tester can invite up to three friends. That test is access-controlled, so it is not something any Steam account can start on demand.",
+          "The [playtest access guide](/playtest-key/) explains the invite rules and what you can and cannot do before Early Access. If you were never accepted and were not invited, the practical step today is to wishlist the Steam page and wait for the store offer to open."
+        ]
+      },
+      {
+        "id": "playtest-vs-ea",
+        "heading": "Steam Playtest vs Early Access",
+        "intro": "These are three different stages, and the store page treats them separately. Knowing which one you are looking at avoids a lot of confusion.",
+        "table": {
+          "caption": "Playtest, Early Access and full release compared",
+          "columns": ["Stage", "What it means", "Current status"],
+          "rows": [
+            ["Limited playtest", "An access-controlled test build", "Signups closed after 12,000+ requests; batch access; up to 3 friend invites"],
+            ["Early Access", "A purchasable release that is still in development", "Planned October 2026; wishlist only for now"],
+            ["Full release", "The 1.0 launch after Early Access", "Targeted around mid-December 2026; a target, not a locked date"]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "What the Playtest Is",
+            "paragraphs": [
+              "The playtest is a limited test used to gather feedback before the wider launch. Access is tied to Steam accounts that the developers admit, and an accepted tester can invite up to three friends under the official rules. It is not a public demo and not a permanent free version.",
+              "Being in the playtest does not mean you own the retail game. The [demo guide](/demo/) explains why a limited test is different from a downloadable public demo."
+            ]
+          },
+          {
+            "heading": "What Early Access Will Be",
+            "paragraphs": [
+              "Early Access is the planned first public Steam launch on Windows PC. When it opens, the store page would show a purchase offer instead of a wishlist. The retail price has not been announced, and the Early Access build is not promised to be content-complete.",
+              "The [release date guide](/release-date/) covers the October 2026 window and the mid-December full-release target in more detail, including why an exact day is not shown."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "get-access",
+        "heading": "How to Get Access on Steam",
+        "intro": "Use the official routes only. None of them require paying a third-party key shop.",
+        "steps": [
+          {
+            "heading": "Wishlist the store page",
+            "description": "Open App ID 4954910 and add it to your wishlist so Steam notifies you when Early Access opens or the listing changes."
+          },
+          {
+            "heading": "Check existing playtest eligibility",
+            "description": "If you applied earlier or were invited by an accepted tester, follow the instructions attached to that access on your Steam account."
+          },
+          {
+            "heading": "Join the official Discord",
+            "description": "The Steam page points players to the Jatater Worldwide Discord for playtest news and for finding teammates."
+          },
+          {
+            "heading": "Wait for the store offer",
+            "description": "When Early Access launches, the buy button appears on the same Steam page. Purchase there rather than through an unofficial reseller."
+          }
+        ],
+        "paragraphs": [
+          "There is no legitimate key generator and no official redeem-code list. Steam playtest access is granted to accounts, and the retail game will be sold through the store page once a price exists. The [price guide](/price/) explains why the separate US$8 Unlimited AI purchase is not a game key and not playtest entry.",
+          "Keep your Steam credentials on Steam. Any page that asks you to log into Steam on a different domain is not part of the official access process."
+        ]
+      },
+      {
+        "id": "free-on-steam",
+        "heading": "Is Scam With Your Friends Free on Steam?",
+        "paragraphs": [
+          "The game has not been announced as free-to-play, and no retail price is listed yet. A wishlist without a price is not a free offer; it simply means the store has not published a cost. The [price guide](/price/) keeps that status up to date.",
+          "The figure people often see is US$8, and it belongs to a different product. Jatater Worldwide sells a one-time Unlimited AI purchase for the playtest, plus applicable taxes shown at checkout. The official terms say it is not a subscription, not a game key, not playtest entry, and not a purchase of the full game.",
+          "The full game is stated to include unlimited AI credits, which is why the US$8 option is described as a playtest-only bridge. Paying it does not put the retail game in a library that was never accepted into the test."
+        ]
+      },
+      {
+        "id": "download-install",
+        "heading": "Steam Download and Installation",
+        "paragraphs": [
+          "A Scam With Your Friends Steam download becomes possible once your account is entitled to an available build. At that point you install through the Steam client and your library, not through a standalone executable from a file host.",
+          "Today the store says the game is not yet available, so there is no retail download button for most accounts. The limited playtest is delivered to admitted accounts through the official process. There is no official cracked or repack edition.",
+          "The [download guide](/download/) walks through how to recognize fake installers and why an unverified file is not a safe substitute for the store build. For normal installation, always start from the official Steam listing."
+        ]
+      },
+      {
+        "id": "system-requirements",
+        "heading": "Steam System Requirements",
+        "intro": "These are the minimums currently printed on the Steam listing. A recommended tier has not been the focus of the public page.",
+        "table": {
+          "caption": "Steam minimum requirements for Scam With Your Friends",
+          "columns": ["Requirement", "Minimum"],
+          "rows": [
+            ["OS", "Windows 10 / 11 64-bit"],
+            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
+            ["Memory", "3 GB RAM"],
+            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
+            ["DirectX", "Version 11"],
+            ["Network", "Broadband internet"],
+            ["Storage", "5 GB available space"]
+          ]
+        },
+        "paragraphs": [
+          "Broadband internet is required rather than optional, which fits a game built on real-time calls and online modes. Five gigabytes is the storage figure shown today, and store requirements can be edited before launch.",
+          "Meeting the minimum does not create access. Hardware and an invite are separate problems, and your PC only matters once Steam will actually let your account download the game. The [platforms guide](/platforms/) repeats the full spec list alongside console, Mac, Linux and mobile status."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the official store listing and current availability.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher's own page and links.",
+          "[Unlimited AI terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms) — what the separate US$8 playtest purchase covers and excludes.",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww) — the official community channel named on the Steam page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is the official Scam With Your Friends Steam page?",
+        "answer": "It is Steam App ID 4954910, linked by the Steam button at the top of this page and by the Jatater Worldwide game page."
+      },
+      {
+        "question": "Can I play Scam With Your Friends on Steam now?",
+        "answer": "Not through a normal purchase. Steam shows a wishlist, Early Access is planned for October 2026, and the limited playtest has closed signups."
+      },
+      {
+        "question": "Is it a playtest or Early Access?",
+        "answer": "Both exist as separate stages. A limited playtest is running with closed signups, and Early Access is planned for October 2026 as the first public Steam launch."
+      },
+      {
+        "question": "Is Scam With Your Friends free on Steam?",
+        "answer": "It has not been announced as free, and no retail price is listed yet. The separate US$8 Unlimited AI purchase is a playtest-only option, not the game."
+      },
+      {
+        "question": "How do I get access on Steam?",
+        "answer": "Wishlist the page, check any existing playtest eligibility, join the official Discord, and wait for the Early Access store offer to open."
+      },
+      {
+        "question": "What platform is the Steam game on?",
+        "answer": "Windows PC only, on Windows 10 or 11 64-bit. No console, Mac, Linux or mobile version has been announced."
+      },
+      {
+        "question": "What are the Steam system requirements?",
+        "answer": "The current minimum is Windows 10/11 64-bit, an Intel Core i5-8400 or Ryzen 5 2600, 3 GB RAM, a GTX 1060 6 GB or RX 580, DirectX 11, broadband internet, and 5 GB of storage."
+      }
+    ],
+    "lastReviewed": "2026-10-13",
+    "primaryKeyword": "scam with your friends steam",
+    "secondaryKeywords": [
+      "steam scam with your friends",
+      "scam with friends steam",
+      "scam with your friends steam game",
+      "scam with your friends on steam",
+      "scam with your friends steam page",
+      "scam with your friends steam download"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/unlimited/terms"
+    ],
+    "relatedSlugs": [
+      "release-date",
+      "playtest-key",
+      "price",
+      "platforms",
+      "download"
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "multiplayer",
+    "pageType": "guide",
+    "navLabel": "Multiplayer",
+    "title": "Scam With Your Friends Multiplayer | Co-op & Solo Guide",
+    "description": "See how Scam With Your Friends multiplayer works, including online co-op, solo play, public lobbies, playing with friends, and the current player limit status.",
+    "keywords": [
+      "scam with your friends multiplayer",
+      "scam with your friends co op",
+      "scam with your friends coop",
+      "scam with your friends solo",
+      "can you play scam with your friends solo",
+      "scam with your friends online",
+      "scam with your friends lobby",
+      "scam with your friends player count"
+    ],
+    "navVisible": true,
+    "priority": "P1",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Multiplayer guide",
+      "heading": "Scam With Your Friends Multiplayer",
+      "lead": "Scam With Your Friends supports single-player, online co-op and public lobbies, so the scam-call-center shift can be played alone or with other people. These modes are listed on the official Steam page. A maximum lobby player count has not been confirmed, and the playtest invite cap of three friends is about test access, not about how many players fit in a game session.",
+      "cta": {
+        "label": "View on Steam",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "is-multiplayer",
+        "heading": "Is Scam With Your Friends Multiplayer?",
+        "intro": "Yes. The official Steam listing names single-player, online co-op and public lobbies. This table reflects those listed modes as of October 13, 2026.",
+        "table": {
+          "caption": "Scam With Your Friends multiplayer modes",
+          "columns": ["Mode", "Status"],
+          "rows": [
+            ["Single-player", "Supported"],
+            ["Online co-op", "Supported"],
+            ["Public lobbies", "Supported"],
+            ["Maximum player count", "Not confirmed"],
+            ["Local / split-screen co-op", "Not announced"]
+          ]
+        },
+        "paragraphs": [
+          "The game is designed to work both as a solo shift and as a team job. You can run the call center on your own, or share the workday with other players through online co-op and public lobbies. All three are part of the official mode list rather than fan assumptions.",
+          "Multiplayer here is online. There is no announced local or split-screen co-op, and broadband internet is a listed requirement for the game as a whole. That matches a title built around real-time AI calls and shared lobbies.",
+          "The [how to play guide](/how-to-play/) covers the beginner gameplay loop itself. This page focuses only on the multiplayer question: solo, co-op, online and lobby play."
+        ]
+      },
+      {
+        "id": "solo",
+        "heading": "Can You Play Scam With Your Friends Solo?",
+        "paragraphs": [
+          "Yes. Single-player is an official mode, so you can take calls, use the in-game desktop tools and chase the daily quota entirely on your own. Playing solo does not require a lobby, a team or an internet-connected friend group beyond the game's own online requirements.",
+          "Solo play is the simplest way to learn the loop. You set the pace, handle every caller yourself, and face the boss review without coordinating with anyone else. If you are new, starting alone is a reasonable way to understand the shift before joining a group.",
+          "The core systems are the same whether you play alone or with others: live conversations with fictional AI callers, remote-access and desktop tools, a daily quota, and a performance review. Choosing solo changes who does the work, not the goal of the workday."
+        ]
+      },
+      {
+        "id": "online-coop",
+        "heading": "How Online Co-op Works",
+        "paragraphs": [
+          "Online co-op lets you run the call center together with friends. The shared shift means the team works toward the same daily quota, and the workday is described as getting more chaotic as it progresses. Co-op does not change the published goal; it adds more people to the same job.",
+          "Co-op is online rather than local. You and your friends connect through the game's online modes, and broadband internet is required. There is no announced couch or split-screen option for playing side by side on one PC.",
+          "Because the callers are AI-driven and conversations happen in real time, a co-op session depends on coordination and voice. Plan on speaking with your team, since the game is built around live conversation rather than a fixed script."
+        ]
+      },
+      {
+        "id": "play-with-friends",
+        "heading": "How to Play With Friends",
+        "intro": "These are the general steps for teaming up once you have access to the game.",
+        "steps": [
+          {
+            "heading": "Get access first",
+            "description": "You and your friends each need legitimate access, whether through the limited playtest or once Early Access opens on Steam."
+          },
+          {
+            "heading": "Coordinate on the official Discord",
+            "description": "The Steam page points players to the Jatater Worldwide Discord for finding teammates and organizing sessions."
+          },
+          {
+            "heading": "Start or join an online session",
+            "description": "Use online co-op to team up with friends, or join a public lobby to play with others."
+          },
+          {
+            "heading": "Work the shift together",
+            "description": "Take calls, use the desktop tools and aim for the daily quota as a team before the boss review."
+          }
+        ],
+        "paragraphs": [
+          "Access is the first hurdle. The playtest has closed signups, and an accepted tester can invite up to three friends. That invite cap controls who can enter the test; it is not the same number as a lobby player limit. The [playtest access guide](/playtest-key/) explains the invite rules in full.",
+          "Once everyone has access, the [official Discord](/discord/) is the channel the publisher names for finding teammates. Use it to organize a session rather than relying on an unofficial group promising spare keys."
+        ]
+      },
+      {
+        "id": "public-lobbies",
+        "heading": "Public Lobbies",
+        "paragraphs": [
+          "Public lobbies are a listed mode alongside single-player and friend co-op. A public lobby is a session that other players can join, which is different from a private group of invited friends.",
+          "Public lobbies being confirmed as a mode is not a promise that an open matchmaking queue runs before launch. During a limited playtest, access is still restricted to admitted accounts and their invites, so a public lobby is only as open as the test allows at that time.",
+          "The maximum number of players in a lobby has not been published. Treat any specific figure you see in a video or a comment as unconfirmed unless the developer states it on an official channel."
+        ]
+      },
+      {
+        "id": "how-many-players",
+        "heading": "How Many Players Can Join?",
+        "paragraphs": [
+          "A maximum player count has not been confirmed by the developer or publisher. The official materials list single-player, online co-op and public lobbies, but they do not publish a numeric lobby cap. This guide will not guess a number.",
+          "Do not confuse the playtest invite limit with a lobby size. An accepted tester can invite up to three friends into the test; that rule is about access, not about how many characters can share one shift.",
+          "Also do not treat a Discord member count or a playtest signup total as a player cap. Those figures describe the community and the test queue, not the size of a game session. When the developer publishes an official lobby limit, it would appear on the Steam page or the publisher's channels."
+        ]
+      },
+      {
+        "id": "multiplayer-vs-solo",
+        "heading": "Multiplayer vs Solo",
+        "intro": "Both are supported. The choice is about how you want to run the shift.",
+        "table": {
+          "caption": "Solo and multiplayer play compared",
+          "columns": ["Aspect", "Solo", "Multiplayer"],
+          "rows": [
+            ["Official support", "Yes", "Yes (online co-op and public lobbies)"],
+            ["Who handles calls", "You alone", "Shared across the team"],
+            ["Daily quota", "Your responsibility", "A team goal"],
+            ["Internet required", "Yes", "Yes"],
+            ["Best for", "Learning the loop", "Coordinating with friends"]
+          ]
+        },
+        "paragraphs": [
+          "Solo gives you full control and is the easiest way to learn how callers respond and how the desktop tools fit into a call. Multiplayer spreads the same work across a team, which changes the coordination but not the underlying objective of hitting the quota.",
+          "Neither mode is presented as the only intended way to play. The official list includes both, so you can switch between a solo shift and a team shift depending on who is available."
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Multiplayer Troubleshooting Basics",
+        "intro": "If online play misbehaves, start with these general checks before assuming the game is broken.",
+        "bullets": [
+          "Confirm your broadband connection is stable, since online modes depend on it.",
+          "Make sure every player has legitimate access to the same build.",
+          "Check the official Discord for known issues during a limited playtest.",
+          "Use voice chat, since the game is built around real-time conversation.",
+          "Review the game logs if a session fails, as described in the troubleshooting guide."
+        ],
+        "paragraphs": [
+          "Access problems and connection problems look similar but have different causes. If a friend cannot join, first confirm that their account actually has playtest or store access. The [playtest guide](/playtest-key/) separates access questions from gameplay questions.",
+          "For a crash or a stalled session, the [log file location guide](/log-file-location/) explains where the Windows Player.log lives and what to collect before asking for help. Report issues through the official Discord rather than an unofficial server."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the mode list and current availability.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher's own page and links.",
+          "[Jatater Worldwide Discord](https://discord.gg/jataterww) — the official channel for finding teammates."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Scam With Your Friends multiplayer?",
+        "answer": "Yes. The official Steam listing includes single-player, online co-op and public lobbies."
+      },
+      {
+        "question": "Can you play Scam With Your Friends solo?",
+        "answer": "Yes. Single-player is an official mode, so you can run the whole shift on your own."
+      },
+      {
+        "question": "Does it have online co-op?",
+        "answer": "Yes. Online co-op with friends is part of the official mode list. Local and split-screen co-op have not been announced."
+      },
+      {
+        "question": "Are there public lobbies?",
+        "answer": "Yes. Public lobbies are listed alongside single-player and friend co-op."
+      },
+      {
+        "question": "How many players can join a lobby?",
+        "answer": "A maximum player count has not been confirmed. The three-friend playtest invite cap is about test access, not lobby size."
+      },
+      {
+        "question": "Do I need internet for multiplayer?",
+        "answer": "Yes. Broadband internet is a listed requirement, and the co-op and lobby modes are online rather than local."
+      },
+      {
+        "question": "How do I play with friends?",
+        "answer": "Each player needs legitimate access, then use online co-op or a public lobby. The official Discord is the channel the publisher names for finding teammates."
+      }
+    ],
+    "lastReviewed": "2026-10-13",
+    "primaryKeyword": "scam with your friends multiplayer",
+    "secondaryKeywords": [
+      "scam with your friends co op",
+      "scam with your friends coop",
+      "scam with your friends solo",
+      "can you play scam with your friends solo",
+      "scam with your friends online",
+      "scam with your friends lobby",
+      "scam with your friends player count"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://discord.gg/jataterww"
+    ],
+    "relatedSlugs": [
+      "how-to-play",
+      "playtest-key",
+      "steam",
+      "discord"
     ]
   }
 ]

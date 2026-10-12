@@ -130,7 +130,7 @@ const pages = [
   },
 ];
 
-const newSlugs = ["demo", "download", "log-file-location"];
+const newSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer"];
 const newPages = JSON.parse(readFileSync(join(root, "content/generated/pages.json"), "utf8"))
   .filter((page) => newSlugs.includes(page.slug));
 pages.push(...newPages.map((page) => ({
@@ -351,4 +351,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("audit:seo passed: 10 core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head");
+console.log("audit:seo passed: 13 core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head");

@@ -402,7 +402,7 @@ a.status-card span{display:block;margin-top:4px;color:#3F4658;font-weight:650;fo
 .floating{border-radius:28px}
 }
 @media(min-width:1201px){
-.nav{flex-wrap:nowrap;gap:2px}
+.nav{flex-wrap:wrap;gap:2px}
 .nav-link{padding:10px 9px}
 }
 @media(max-width:820px){

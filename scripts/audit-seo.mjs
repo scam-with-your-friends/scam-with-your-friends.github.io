@@ -130,7 +130,7 @@ const pages = [
   },
 ];
 
-const newSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer"];
+const newSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers"];
 const newPages = JSON.parse(readFileSync(join(root, "content/generated/pages.json"), "utf8"))
   .filter((page) => newSlugs.includes(page.slug));
 pages.push(...newPages.map((page) => ({
@@ -305,7 +305,7 @@ for (const legal of ["about/index.html", "privacy/index.html", "terms/index.html
   if (!/noindex/i.test(robotsMeta)) fail(`${legal} should be noindex`);
 }
 
-for (const removed of ["wiki/index.html", "codes/index.html", "contact/index.html"]) {
+for (const removed of ["wiki", "codes", "contact", "online-fix", "steamrip", "steamunlocked", "crack", "repack", "solo", "max-players", "crossplay"].map((slug) => `${slug}/index.html`)) {
   if (existsSync(join(out, removed))) fail(`unexpected page ${removed}`);
 }
 
@@ -351,4 +351,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("audit:seo passed: 13 core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head");
+console.log(`audit:seo passed: ${pages.length} core pages, canonicals, sitemap, robots, nav, schema, and homepage gtag head`);

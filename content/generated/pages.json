@@ -150,7 +150,11 @@
         "answer": "Only through the limited playtest. New signups are closed. An accepted tester can invite up to three friends. There is no public demo download that replaces the planned October 2026 Early Access launch."
       }
     ],
-    "relatedSlugs": ["playtest-key", "price", "platforms"],
+    "relatedSlugs": [
+      "playtest-key",
+      "price",
+      "platforms"
+    ],
     "lastReviewed": "2026-10-03"
   },
   {
@@ -183,13 +187,31 @@
         "intro": "This is the access picture as of October 3, 2026. Official playtest access is not distributed as a public key list.",
         "table": {
           "caption": "Playtest status for Scam With Your Friends",
-          "columns": ["Item", "Status"],
+          "columns": [
+            "Item",
+            "Status"
+          ],
           "rows": [
-            ["New signups", "Closed"],
-            ["Previous signup volume", "12,000+ requests"],
-            ["Access", "Limited, granted in batches"],
-            ["Friend invites", "Up to 3 per accepted tester"],
-            ["Retail release", "[October 2026 planned; exact day not announced](/release-date/)"]
+            [
+              "New signups",
+              "Closed"
+            ],
+            [
+              "Previous signup volume",
+              "12,000+ requests"
+            ],
+            [
+              "Access",
+              "Limited, granted in batches"
+            ],
+            [
+              "Friend invites",
+              "Up to 3 per accepted tester"
+            ],
+            [
+              "Retail release",
+              "[October 2026 planned; exact day not announced](/release-date/)"
+            ]
           ]
         },
         "paragraphs": [
@@ -304,7 +326,11 @@
         "answer": "On the Steam store page and the official Jatater Worldwide Discord at https://discord.gg/jataterww."
       }
     ],
-    "relatedSlugs": ["release-date", "discord", "price"],
+    "relatedSlugs": [
+      "release-date",
+      "discord",
+      "price"
+    ],
     "lastReviewed": "2026-10-03"
   },
   {
@@ -424,15 +450,39 @@
         ],
         "table": {
           "caption": "Minimum requirements currently listed on Steam",
-          "columns": ["Requirement", "Minimum"],
+          "columns": [
+            "Requirement",
+            "Minimum"
+          ],
           "rows": [
-            ["OS", "Windows 10 / 11 64-bit"],
-            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
-            ["Memory", "3 GB RAM"],
-            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
-            ["DirectX", "Version 11"],
-            ["Network", "Broadband internet"],
-            ["Storage", "5 GB available space"]
+            [
+              "OS",
+              "Windows 10 / 11 64-bit"
+            ],
+            [
+              "Processor",
+              "Intel Core i5-8400 / AMD Ryzen 5 2600"
+            ],
+            [
+              "Memory",
+              "3 GB RAM"
+            ],
+            [
+              "Graphics",
+              "NVIDIA GTX 1060 6 GB / AMD RX 580"
+            ],
+            [
+              "DirectX",
+              "Version 11"
+            ],
+            [
+              "Network",
+              "Broadband internet"
+            ],
+            [
+              "Storage",
+              "5 GB available space"
+            ]
           ]
         }
       },
@@ -476,7 +526,11 @@
         "answer": "Yes. Modding is an official feature, including JSON personalities and WAV voice cloning. Install steps for specific mods are not part of this overview."
       }
     ],
-    "relatedSlugs": ["platforms", "discord", "release-date"],
+    "relatedSlugs": [
+      "platforms",
+      "discord",
+      "release-date"
+    ],
     "lastReviewed": "2026-10-03"
   },
   {
@@ -597,7 +651,11 @@
         "answer": "Report them on the official Jatater Worldwide Discord. Unlimited AI activation problems are directed there by the publisher's terms as well."
       }
     ],
-    "relatedSlugs": ["playtest-key", "release-date", "how-to-play"],
+    "relatedSlugs": [
+      "playtest-key",
+      "release-date",
+      "how-to-play"
+    ],
     "lastReviewed": "2026-10-03"
   },
   {
@@ -629,12 +687,27 @@
         "intro": "There is no number to memorize yet. As of October 3, 2026, the store page still does not list a retail cost.",
         "table": {
           "caption": "Scam With Your Friends price status",
-          "columns": ["Item", "Status"],
+          "columns": [
+            "Item",
+            "Status"
+          ],
           "rows": [
-            ["Retail price", "Not announced"],
-            ["Steam purchase", "Not available yet. Wishlist only."],
-            ["Planned Early Access", "[October 2026; exact day not announced](/release-date/)"],
-            ["$8 Unlimited AI", "Separate playtest-only purchase"]
+            [
+              "Retail price",
+              "Not announced"
+            ],
+            [
+              "Steam purchase",
+              "Not available yet. Wishlist only."
+            ],
+            [
+              "Planned Early Access",
+              "[October 2026; exact day not announced](/release-date/)"
+            ],
+            [
+              "$8 Unlimited AI",
+              "Separate playtest-only purchase"
+            ]
           ]
         },
         "paragraphs": [
@@ -735,7 +808,11 @@
         "answer": "Steam does not currently show a pre-order or a retail buy button. Wishlist the official page instead of using an unofficial key shop."
       }
     ],
-    "relatedSlugs": ["release-date", "playtest-key", "discord"],
+    "relatedSlugs": [
+      "release-date",
+      "playtest-key",
+      "discord"
+    ],
     "lastReviewed": "2026-10-03"
   },
   {
@@ -755,7 +832,7 @@
     "hero": {
       "eyebrow": "Where to play",
       "heading": "Scam With Your Friends Platforms",
-      "lead": "The only currently announced platform for Scam With Your Friends is Windows PC via Steam. No official Xbox, PlayStation, Switch, Mac, Linux, Android, iOS, or Roblox version has been announced. Steam Deck compatibility is not confirmed or rated yet. Not announced means not announced. It does not mean a version can never exist.",
+      "lead": "Currently announced platforms for Scam With Your Friends include Windows PC via Steam and an official Roblox experience. No official Xbox, PlayStation, Switch, Mac, Linux, Android, or iOS version has been announced. Steam Deck compatibility is not confirmed or rated yet. Not announced means not announced. It does not mean a version can never exist.",
       "cta": {
         "label": "View on Steam",
         "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
@@ -765,31 +842,61 @@
       {
         "id": "status",
         "heading": "Scam With Your Friends Platform Status",
-        "intro": "This table matches the public listing on October 3, 2026. The planned Windows date is Early Access, and it can still change. See the [release date page](/release-date/) for that plan.",
+        "intro": "This table reflects the public platform information checked on October 21, 2026. The Windows PC edition entered Steam Early Access on October 15, 2026, and an official Roblox experience is also available. See the [release date page](/release-date/) for release context.",
         "table": {
           "caption": "Announced platforms for Scam With Your Friends",
-          "columns": ["Platform", "Status"],
+          "columns": [
+            "Platform",
+            "Status"
+          ],
           "rows": [
-            ["Windows PC (Steam)", "Announced. Planned Early Access in October 2026; exact day not announced."],
-            ["Xbox Series / Xbox One", "Not announced"],
-            ["PS5 / PS4", "Not announced"],
-            ["Nintendo Switch", "Not announced"],
-            ["Mac", "Not announced"],
-            ["Linux", "Not announced"],
-            ["Steam Deck", "No confirmed compatibility status"],
-            ["Android / iOS", "Not announced"],
-            ["Roblox", "No official version announced"]
+            [
+              "Windows PC (Steam)",
+              "Available in Steam Early Access since October 15, 2026."
+            ],
+            [
+              "Xbox Series / Xbox One",
+              "Not announced"
+            ],
+            [
+              "PS5 / PS4",
+              "Not announced"
+            ],
+            [
+              "Nintendo Switch",
+              "Not announced"
+            ],
+            [
+              "Mac",
+              "Not announced"
+            ],
+            [
+              "Linux",
+              "Not announced"
+            ],
+            [
+              "Steam Deck",
+              "No confirmed compatibility status"
+            ],
+            [
+              "Android / iOS",
+              "Not announced"
+            ],
+            [
+              "Roblox",
+              "Official Roblox experience by Jatater Worldwide; see the [Roblox guide](/roblox/)."
+            ]
           ]
         },
         "paragraphs": [
-          "JakeHub and Metater develop the game. Jatater Worldwide publishes it. The store page to wishlist is Steam App ID 4954910. A price is still not listed, which the [price guide](/price/) explains separately from the platform list."
+          "JakeHub and Metater develop the Steam edition, published by Jatater Worldwide. Steam App ID 4954910 is now a live Early Access store listing with a current purchase offer. Regional pricing and promotions can change, so use the live Steam page for the current amount. The [price guide](/price/) explains pricing separately from the platform list."
         ]
       },
       {
         "id": "xbox",
         "heading": "Is Scam With Your Friends on Xbox?",
         "paragraphs": [
-          "No. Scam With Your Friends is not announced for Xbox Series X, Xbox Series S, or Xbox One. The only platform on the official listing is Windows PC through Steam. There is no Xbox release date, no Game Pass announcement, and no console roadmap to quote.",
+          "No. Scam With Your Friends is not announced for Xbox Series X, Xbox Series S, or Xbox One. The current official routes are the Windows PC Steam edition and the separate official Roblox experience; neither establishes an Xbox release. There is no Xbox release date, no Game Pass announcement, and no console roadmap to quote.",
           "Searching the game name plus Xbox usually means you want to know if the console you own can run it. Today the answer is that Microsoft has not been given a version in any public JakeHub, Metater, or Jatater Worldwide notice. If that changes, it will be an announcement, not a quiet unlock. Until then, a Windows PC that meets the Steam minimums is the machine the developers are targeting.",
           "Do not install an unofficial Xbox build or a remote-play workaround from a video description. Those are not the game the publisher is shipping."
         ]
@@ -798,7 +905,7 @@
         "id": "playstation",
         "heading": "Is Scam With Your Friends on PS5 or PlayStation?",
         "paragraphs": [
-          "No PlayStation version has been announced. That includes PS5 and PS4. There is no PlayStation store page to wishlist alongside Steam, and there is no stated plan for a console launch beside the planned October 2026 Windows Early Access window.",
+          "No PlayStation version has been announced, and the October 15, 2026 Windows Early Access launch did not include PS5 or PS4. There is no PlayStation store listing.",
           "The same rule covers Nintendo Switch. It is not on the announced list. No console release window has been announced.",
           "If you only have a PlayStation, there is nothing official to buy or preload. PlayStation users can watch the Steam page and the official Jatater Worldwide Discord for any future platform announcement."
         ]
@@ -809,7 +916,7 @@
         "paragraphs": [
           "The Steam listing is Windows only: Windows 10 or 11, 64-bit. Mac is not announced. Linux is not announced. There is no macOS build and no SteamOS or native Linux build in the current public requirements.",
           "Steam Deck compatibility is currently unconfirmed. Steam does not list a Deck Verified, Playable, or Unsupported rating for the game yet.",
-          "If you are on a Mac or a Linux desktop, treat the game as unannounced for that system. Check the Steam system list again near the [planned Early Access date](/release-date/) in case the store page adds a platform. Adding one would be a change. It is not something you can assume from the Windows spec."
+          "If you are on a Mac or a Linux desktop, treat the game as unannounced for that system. Check the live Steam system requirements after major updates, because Early Access requirements can change. Adding one would be a change. It is not something you can assume from the Windows spec."
         ]
       },
       {
@@ -825,8 +932,8 @@
         "id": "roblox",
         "heading": "Is There a Roblox Version?",
         "paragraphs": [
-          "No official Roblox version of Scam With Your Friends has been announced. This page is about the Steam game from JakeHub and Metater, published by Jatater Worldwide. It is not a guide to other experiences that happen to use a similar name. The dedicated [Roblox guide](/roblox/) covers that question in full.",
-          "If you found a Roblox place with overlapping words, that place is not the Steam App ID 4954910 release. The Windows Steam listing is the announced way to play this game, once you have access or once Early Access opens.",
+          "Yes. An official Scam With Your Friends Roblox experience is listed with Jatater Worldwide as its creator. The dedicated [Roblox guide](/roblox/) links to the official page and explains how it differs from the Steam edition.",
+          "The official Roblox experience and Steam App ID 4954910 are separate platform versions. Do not assume identical features, shared purchases or transferred progress between them.",
           "The [how to play guide](/how-to-play/) covers the PC call-center loop: live AI callers, the in-game desktop, the daily quota, and the boss review. Those systems belong to the Steam game."
         ]
       },
@@ -836,20 +943,44 @@
         "intro": "These are the minimums currently printed on Steam. A recommended tier above this list has not been the focus of the public page, so only the minimums are repeated here.",
         "table": {
           "caption": "Steam minimum requirements for Scam With Your Friends",
-          "columns": ["Requirement", "Minimum"],
+          "columns": [
+            "Requirement",
+            "Minimum"
+          ],
           "rows": [
-            ["OS", "Windows 10 / 11 64-bit"],
-            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
-            ["Memory", "3 GB RAM"],
-            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
-            ["DirectX", "Version 11"],
-            ["Network", "Broadband internet"],
-            ["Storage", "5 GB available space"]
+            [
+              "OS",
+              "Windows 10 / 11 64-bit"
+            ],
+            [
+              "Processor",
+              "Intel Core i5-8400 / AMD Ryzen 5 2600"
+            ],
+            [
+              "Memory",
+              "3 GB RAM"
+            ],
+            [
+              "Graphics",
+              "NVIDIA GTX 1060 6 GB / AMD RX 580"
+            ],
+            [
+              "DirectX",
+              "Version 11"
+            ],
+            [
+              "Network",
+              "Broadband internet"
+            ],
+            [
+              "Storage",
+              "5 GB available space"
+            ]
           ]
         },
         "paragraphs": [
           "Broadband is required, not optional. The game is built around real-time calls and online modes. Five gigabytes is the storage figure on the listing today. Check Steam again before you install, because store requirements can be edited.",
-          "Meeting the minimum does not create playtest access. Hardware and an invite are different problems. The [playtest guide](/playtest-key/) covers invites. Your PC only matters once Steam will actually let the account download the game."
+          "Meeting the minimum requirements does not guarantee performance on every PC. The retail game is now available through Steam Early Access, so a historical playtest invitation is not required for a normal purchase. Once the game is owned on the intended Steam account, installation is handled through the Steam library."
         ]
       },
       {
@@ -865,7 +996,7 @@
     "faq": [
       {
         "question": "Is Scam With Your Friends on Xbox?",
-        "answer": "No Xbox version has been announced. The announced platform is Windows PC via Steam."
+        "answer": "No Xbox version has been announced. The current official versions are the Windows PC Steam edition and a separate Roblox experience."
       },
       {
         "question": "Is it on PS5?",
@@ -893,15 +1024,19 @@
       },
       {
         "question": "Is there a Roblox version?",
-        "answer": "No official Roblox version of this Steam game has been announced."
+        "answer": "Yes. An official Scam With Your Friends Roblox experience exists, with Jatater Worldwide shown as its creator. It is a separate platform version from the Steam game."
       },
       {
         "question": "What PC do I need?",
         "answer": "Steam's current minimum is Windows 10 or 11 64-bit, an Intel Core i5-8400 or Ryzen 5 2600, 3 GB RAM, a GTX 1060 6 GB or RX 580, DirectX 11, broadband internet, and 5 GB of storage."
       }
     ],
-    "relatedSlugs": ["how-to-play", "release-date", "price"],
-    "lastReviewed": "2026-10-03"
+    "relatedSlugs": [
+      "how-to-play",
+      "release-date",
+      "price"
+    ],
+    "lastReviewed": "2026-10-21"
   },
   {
     "enabled": true,
@@ -1132,12 +1267,16 @@
     "pageType": "article",
     "navLabel": "Download",
     "title": "Scam With Your Friends Download & Crack Status",
-    "description": "Looking for Scam With Your Friends download, crack or repack? See the official Steam download path, current access status, and how to avoid fake files.",
+    "description": "Find the official Scam With Your Friends download. Understand Online-Fix, SteamRIP, SteamUnlocked, crack and repack claims before installing files.",
     "keywords": [
-      "scam with your friends crack",
-      "scam with your friends cracked",
       "scam with your friends download",
       "scam with your friends free download",
+      "scam with your friends online fix",
+      "scam with your friends online-fix",
+      "scam with your friends steamrip",
+      "scam with your friends steamunlocked",
+      "scam with your friends crack",
+      "scam with your friends cracked",
       "scam with your friends repack",
       "scam with your friends pc download",
       "scam with your friends steam download"
@@ -1148,214 +1287,207 @@
     "hero": {
       "eyebrow": "Access guide",
       "heading": "Scam With Your Friends Download & Crack Status",
-      "lead": "For an official Scam With Your Friends download, start with Steam and the publisher’s linked channels. The retail game is still marked as coming soon, and the playtest requires legitimate access. This guide provides no cracked or repack downloads; use the store to check whether your account can install an official build.",
+      "lead": "For an official Scam With Your Friends download, use Steam App ID 4954910 and install from your Steam library. The game launched in Early Access on October 15, 2026 and is currently purchasable. Online-Fix, SteamRIP, SteamUnlocked, crack and repack claims are unofficial, not developer-verified distribution channels. Check the current store offer rather than relying on an old playtest notice or an unknown installer.",
       "cta": {
-        "label": "Check official download access",
+        "label": "Get Scam With Your Friends on Steam",
         "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
       }
     },
     "sections": [
       {
         "id": "official-download",
-        "heading": "Where to Download Scam With Your Friends",
+        "heading": "Where to Download Scam With Your Friends Officially",
         "paragraphs": [
-          "The official Steam listing is the starting point for store access. Once your account is entitled to an available build, use the Steam client and that account’s library to install it. The publisher’s game page links to the store; its media downloads and press kit are not a full-game installer.",
-          "As of October 7, 2026, the store says the game is not yet available and lists a planned October 2026 release window. That is a plan, not a purchase button or a guaranteed day. A Scam With Your Friends Steam download depends on the access actually offered to your account."
+          "The official download route is the [Steam store listing](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/), linked by Jatater Worldwide. After obtaining the game on the account you intend to use, install through the Steam client and that account’s library. The publisher’s trailers, screenshots and press assets are not game installers.",
+          "As checked on October 21, 2026, Steam lists the October 15 Early Access release and a purchase offer. Read the live regional price and current terms before buying. Early Access is a release still in development, so having a download available does not mean the game is a finished 1.0 build.",
+          "The [Steam guide](/steam/) identifies the official store; use the live listing linked here for today’s purchase availability. Older pre-launch and playtest descriptions should not override the current store offer."
         ],
         "table": {
-          "caption": "Current official download and access status",
+          "caption": "Current official download status",
           "columns": [
-            "Search or option",
-            "Current position",
-            "Next step"
+            "Option",
+            "Status",
+            "What to do"
           ],
           "rows": [
             [
-              "Retail PC download",
-              "Not yet publicly available on Steam",
-              "Watch the official listing"
+              "Steam retail build",
+              "Early Access; purchasable",
+              "Obtain access and install from your library"
             ],
             [
-              "Limited playtest",
-              "Requires authorized test access",
-              "Check your account or an eligible invitation"
+              "Free full-game download",
+              "No public free full-game offer verified",
+              "Check the actual Steam offer"
             ],
             [
-              "Public demo",
-              "Not currently listed",
-              "Check the demo guide and store"
+              "Third-party archives",
+              "Unofficial and not developer-verified",
+              "Use the publisher-linked store"
             ],
             [
-              "Free full game",
-              "No public free full-game offer announced",
-              "Do not infer one from an absent price"
-            ],
-            [
-              "Crack or repack",
-              "No official cracked or repack edition",
-              "Use authorized publisher channels"
+              "Crack / repack",
+              "Not an official edition",
+              "Do not treat the label as authorization"
             ]
           ]
         }
       },
       {
-        "id": "crack-status",
-        "heading": "Is There a Scam With Your Friends Crack?",
+        "id": "online-fix",
+        "heading": "Scam With Your Friends Online-Fix",
         "paragraphs": [
-          "There is no official Scam With Your Friends crack edition. A crack claim describes an unofficial way of distributing or altering software, not an access option offered by Steam or the publisher. It cannot establish that a download is genuine, current or authorized.",
-          "That distinction does not prove that no third-party file exists anywhere online. It means that an upload advertising itself as a Scam With Your Friends crack is outside the verified official download path. A filename, a game logo or a comment saying it works is not proof of its origin.",
-          "If your aim is simply to try the game, check the actual store options. A crack search does not tell you whether a test invite is valid or whether a public release has opened. This page does not supply files or instructions for bypassing purchase, account access or DRM."
+          "If you searched for Scam With Your Friends Online-Fix or online fix, distinguish that third-party name from ordinary troubleshooting of an official installation. Online-Fix is not an official distribution channel identified by Steam or the publisher. A matching game title does not establish that a file came from the developer.",
+          "An upload promising online play also does not confirm compatibility with the current game or its online services. There is no developer verification for those files in the official material reviewed here. This page does not distribute an online-fix package or provide steps for changing authorization or bypassing a purchase.",
+          "If your legitimate copy has a connection problem, check updates and the current developer notices first. Downloading an unrelated executable adds another unknown to the problem rather than identifying why your existing installation failed."
         ]
       },
       {
-        "id": "cracked-repack",
-        "heading": "Scam With Your Friends Cracked or Repack Downloads",
+        "id": "steamrip-steamunlocked",
+        "heading": "Scam With Your Friends SteamRIP and SteamUnlocked",
         "paragraphs": [
-          "A page promising Scam With Your Friends cracked or repack downloads may present screenshots, version numbers and an install button. Those details alone do not connect the file to its developers. Treat the claim as an unofficial distribution until there is a direct, verifiable publisher source.",
-          "A repack usually describes repackaged files. The term is not a publisher certification, and a smaller download size does not confirm that its contents match an official build. A Scam With Your Friends repack claim also says nothing reliable about access to online features or services.",
-          "Avoid turning uncertainty into a diagnosis: an unverified file is not automatically proven malware, but neither is it shown safe by having the right title. You can choose the official route without running the file to find out. No third-party game packages are linked here."
+          "SteamRIP and SteamUnlocked are names people encounter while looking for unofficial downloads. Neither is the publisher-linked Steam store for this game. Similar wording, a familiar game image or a button saying Steam does not make a third-party page part of Valve’s client.",
+          "Before clicking, distinguish a store page from a file host, advertisement or copied review. A page can display the correct developer name without being authorized to supply the game. Comments claiming that an archive works are not a chain of provenance for the executable inside.",
+          "No SteamRIP or SteamUnlocked download links are provided here. The supported next step is the official Steam offer. An unofficial file is not automatically proven to contain malware, but it also has not become developer-verified because someone calls it clean."
+        ]
+      },
+      {
+        "id": "crack-status",
+        "heading": "Is There a Scam With Your Friends Crack or Repack?",
+        "paragraphs": [
+          "There is no official Scam With Your Friends crack or repack edition. Those labels describe unofficial distribution or modification claims, not a product offered through the verified store route. This does not establish whether third-party uploads exist; it establishes that their names are not official release options.",
+          "A repack’s smaller size does not prove that it matches a developer build. A cracked version number does not prove that it can use the current services. Do not use a claimed release date or a screenshot as a substitute for checking where the file originated.",
+          "This guide supplies no cracks, torrents, magnets, key generators or installation instructions for unauthorized copies. If the aim is to install the game, the existing Steam listing is the direct place to check access."
         ]
       },
       {
         "id": "free-download",
-        "heading": "Is Scam With Your Friends Free to Download?",
+        "heading": "Can You Download Scam With Your Friends for Free?",
         "paragraphs": [
-          "No public free download of the full game has been announced in the official material reviewed for this guide. A limited playtest is not a permanent free retail edition, and a wishlist listing without a price is not a free-to-play offer.",
-          "When comparing a Scam With Your Friends free download claim with Steam, check what the offer actually represents: a trailer, a press asset, test access or the retail game. These are different products and permissions. A video download from a press kit will not install the game.",
-          "The $8 playtest Unlimited AI option is a separate publisher purchase and is explicitly not a game key or playtest entry. Read the [game price and AI access guide](/price/) before assuming any payment includes an installable full copy."
+          "The current listing sells the Early Access game. A public free full-game offer has not been verified in the official sources reviewed here. Check Steam for any actual future promotion instead of assuming that a search result promising a free download represents a publisher offer.",
+          "A limited test, a press kit and the retail game have different permissions and purposes. An old playtest invitation or a historical AI-service payment should not be treated as current retail ownership. For a new installation, check what is attached to your Steam account today.",
+          "A trailer that downloads successfully does not install the game. A survey, download manager or activation fee on an unrelated page does not establish access either. Read what the offer actually supplies before giving it account details or running anything."
         ]
       },
       {
         "id": "official-vs-fake",
-        "heading": "Official Steam Download vs Fake Downloads",
-        "paragraphs": [
-          "For a Scam With Your Friends PC download, trace the route back to the official store rather than choosing the first search result. Read the entire domain name and compare it with the link on the publisher’s game page. Similar branding or a familiar-looking button is easy to copy."
-        ],
+        "heading": "Official Steam Download vs Unofficial Files",
         "table": {
-          "caption": "How to assess a download offer",
+          "caption": "Compare the download route before installing",
           "columns": [
             "Check",
-            "Official route",
-            "Unverified third-party offer"
+            "Official Steam route",
+            "Unofficial files"
           ],
           "rows": [
             [
               "Source",
-              "Linked Steam listing or publisher channel",
-              "File host or page with no publisher connection"
-            ],
-            [
-              "Account access",
-              "Permission shown in your own Steam account",
-              "Promises to unlock any account"
+              "Publisher-linked store, App ID 4954910",
+              "Archive or file host without verified authorization"
             ],
             [
               "Installation",
-              "Available build in the Steam client",
-              "Standalone executable of uncertain origin"
-            ],
-            [
-              "Price and terms",
-              "Published store or publisher conditions",
-              "Unexplained payments, generators or surveys"
+              "Your Steam library",
+              "Separate installer or modified package"
             ],
             [
               "Updates",
-              "Developer announcements and authorized delivery",
-              "Version labels with no official provenance"
+              "Delivered through the client",
+              "Dependent on an uploader’s version claim"
+            ],
+            [
+              "Online access",
+              "Subject to the game’s current service conditions",
+              "Not guaranteed by a download label"
+            ],
+            [
+              "Credentials",
+              "Use Steam’s own account flow",
+              "Avoid requests for passwords, shared accounts or generators"
             ]
           ]
-        }
-      },
-      {
-        "id": "legitimate-access",
-        "heading": "How to Get Legitimate Access",
-        "paragraphs": [],
-        "subsections": [
-          {
-            "heading": "Playtest Access",
-            "paragraphs": [
-              "If you previously applied, check the relevant Steam account and the developer’s current instructions. The published notice says signups closed after more than 12,000 requests and that admitted testers can invite up to three friends. An invitation needs to follow that official process; buying a supposed spare key from a stranger is not a substitute.",
-              "The [playtest access guide](/playtest-key/) covers that route. A Scam With Your Friends download becomes useful only when the account has the permission to use the offered build. Downloading unrelated files does not grant test admission."
-            ]
-          },
-          {
-            "heading": "Early Access / Full Release",
-            "paragraphs": [
-              "Use the [release date guide](/release-date/) to distinguish the planned Early Access window from later release plans. When Steam actually offers the game, review the current price and terms, then install through the client after obtaining access. Do not treat a future plan as an instruction to purchase somewhere else today.",
-              "Check the [supported platforms and PC requirements](/platforms/) before installation. The announced Windows PC version does not establish an official mobile, console or browser download. A package advertised for another platform needs its own publisher confirmation."
-            ]
-          }
+        },
+        "paragraphs": [
+          "Keep the installer decision separate from whether a PC meets the game’s requirements. Check the [platforms and PC requirements guide](/platforms/) and current Steam requirements before buying or installing. An unofficial package advertised for another device does not establish developer support for it."
         ]
       },
       {
         "id": "avoid-fake-files",
-        "heading": "How to Avoid Fake Scam With Your Friends Files",
+        "heading": "How to Avoid Fake or Unsafe Downloads",
+        "bullets": [
+          "Follow the publisher’s store link and check the entire domain before signing in.",
+          "Install from the intended Steam account’s library after obtaining legitimate access.",
+          "Keep security tools enabled; stop if a package demands that you disable protection.",
+          "Ignore key generators and any offer that asks you to lend a Steam account to unlock the game.",
+          "Leave an unknown executable unopened while you investigate its source or a security alert.",
+          "Check updates through Steam instead of downloading a separate repair archive from a search result."
+        ],
         "paragraphs": [
-          "Keep the checks simple. Do not enter your Steam password on a non-Steam domain, run an executable from an unknown source, or rely on a key generator. Do not disable security tools because an installer says it needs that step to unlock a Scam With Your Friends cracked build.",
-          "If you have only downloaded an unknown file, leave it unopened and use your usual security tools to assess it. If you entered account credentials on an unrelated site, secure the affected account through Steam’s own support and account settings. Do not revisit the same page to ask it to fix the problem.",
-          "For a broader introduction, return to the [Scam With Your Friends guide](/). For installation, your next useful action remains checking the official store and your account, rather than comparing more repack claims."
+          "For microphone permissions, local recordings and online data processing after installation, read the [safety and privacy guide](/is-it-safe/). Those settings deserve a separate decision even when you obtained a legitimate copy.",
+          "If a download is already in progress, you can stop and check the source before running it. If you entered credentials somewhere suspicious, use Steam’s own support and account settings to secure the account. Do not give the same page more information to unlock a supposed fix.",
+          "The [main game guide](/) provides broader background. For this download decision, the current official store and your own library are the useful checks."
         ]
       },
       {
         "id": "official-sources",
         "heading": "Official Sources",
         "paragraphs": [
-          "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the official listing and current availability.",
-          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher’s store and community links.",
-          "[Unlimited AI terms](https://jataterworldwide.com/scam-with-your-friends/unlimited/terms) — the playtest-only purchase and its exclusions."
+          "Reviewed October 21, 2026. Recheck the linked official pages after game updates; settings and service behavior can change.",
+          "[Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — current release and purchase availability",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — official store and community links"
         ]
       }
     ],
     "faq": [
       {
         "question": "Where can I download Scam With Your Friends?",
-        "answer": "Start with its official Steam listing. Install through the Steam client if your account has access to an available build; the retail release is currently still marked as coming soon."
+        "answer": "Use the official Steam listing, App ID 4954910. The Early Access game is currently purchasable; install through your entitled Steam library."
       },
       {
-        "question": "Is there a Scam With Your Friends crack?",
-        "answer": "There is no official cracked edition. Third-party crack claims are unofficial and do not verify a file’s origin, permissions or safety."
+        "question": "Is Scam With Your Friends Online-Fix official?",
+        "answer": "No. Online-Fix is not a developer-verified distribution channel for the game. Use Steam for installation and official developer notices for troubleshooting."
       },
       {
-        "question": "Is there a cracked or repack version?",
-        "answer": "No cracked or repack edition is offered through the verified official channels. This is not a claim that no third-party uploads exist anywhere."
+        "question": "Are SteamRIP and SteamUnlocked official sources?",
+        "answer": "No. They are not the Steam store linked by the publisher. Names, images and user comments do not verify their files."
       },
       {
-        "question": "Can I download Scam With Your Friends for free?",
-        "answer": "A public free full-game download has not been announced. Limited playtest access and any future public demo are separate from the retail game."
+        "question": "Is there an official crack or repack?",
+        "answer": "No official cracked or repack edition is offered through the verified channels. That does not assert that third-party uploads do not exist."
       },
       {
-        "question": "Is a third-party download safe?",
-        "answer": "Its title or branding cannot establish safety. Prefer the official store and avoid unknown executables; an unverified file is not the same as a confirmed malware diagnosis."
+        "question": "Can I download the full game for free?",
+        "answer": "The current Steam offer is a paid Early Access release. No public free full-game offer was verified in the official sources reviewed here."
       },
       {
-        "question": "Does the playtest count as the full game?",
-        "answer": "No. The test has its own access rules and does not establish ownership of the retail release. The separate playtest AI purchase also does not include the game."
+        "question": "Is every unofficial download a virus?",
+        "answer": "That would require evidence about the specific files. The supported statement is that those packages are unofficial and unverified by the developer."
       },
       {
-        "question": "Where is the official Steam page?",
-        "answer": "The official listing is Steam App ID 4954910, linked by the Steam button at the top of this page and by the publisher’s game page."
+        "question": "Do I still need a playtest invite to buy the game?",
+        "answer": "A playtest invitation is not the current retail purchase path. Use the existing Steam store offer and confirm ownership on the account you want to install with."
       }
     ],
-    "lastReviewed": "2026-10-07",
-    "primaryKeyword": "scam with your friends crack",
+    "lastReviewed": "2026-10-21",
+    "primaryKeyword": "scam with your friends download",
     "secondaryKeywords": [
-      "scam with your friends cracked",
-      "scam with your friends download",
       "scam with your friends free download",
+      "scam with your friends online fix",
+      "scam with your friends online-fix",
+      "scam with your friends steamrip",
+      "scam with your friends steamunlocked",
+      "scam with your friends crack",
+      "scam with your friends cracked",
       "scam with your friends repack",
       "scam with your friends pc download",
       "scam with your friends steam download"
     ],
     "sourceNotes": [
       "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
-      "https://jataterworldwide.com/scam-with-your-friends/",
-      "https://jataterworldwide.com/scam-with-your-friends/unlimited/terms"
+      "https://jataterworldwide.com/scam-with-your-friends/"
     ],
     "relatedSlugs": [
-      "playtest-key",
-      "release-date",
-      "price",
+      "steam",
       "platforms"
     ]
   },
@@ -1574,107 +1706,149 @@
     "hero": {
       "eyebrow": "Roblox status",
       "heading": "Scam With Your Friends Roblox",
-      "lead": "There is currently no official Scam With Your Friends experience on Roblox. The game is a Windows PC title developed by JakeHub and Metater and published by Jatater Worldwide, and its only official listing is the Steam page for App ID 4954910. Any Roblox place that borrows the name is a fan-made or unofficial copy rather than the real game. This guide explains the current Roblox status, how it compares with the Steam version, and how to avoid lookalike experiences.",
+      "lead": "Yes. An official Scam With Your Friends Roblox experience is listed as Scam With Your Friends!™ [OFFICIAL], with Jatater Worldwide shown as its creator. Use the official Roblox page linked below rather than a lookalike search result. The Roblox experience and the Windows PC Steam Early Access game are separate platform versions; do not assume identical features, purchases or progression between them.",
       "cta": {
-        "label": "View the official Steam page",
-        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+        "label": "Open the official Roblox experience",
+        "url": "https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends"
       }
     },
     "sections": [
       {
         "id": "roblox-status",
         "heading": "Is Scam With Your Friends on Roblox?",
-        "intro": "The short answer is no. As of October 13, 2026, neither the developer nor the publisher has announced an official Roblox version of Scam With Your Friends.",
+        "intro": "Yes. As checked on October 21, 2026, the official Roblox page identifies the experience as [OFFICIAL] and shows Jatater Worldwide as its creator. The Steam version also remains available.",
         "table": {
           "caption": "Scam With Your Friends Roblox status",
-          "columns": ["Item", "Status"],
+          "columns": [
+            "Item",
+            "Status"
+          ],
           "rows": [
-            ["Official Roblox version", "Not announced"],
-            ["Official Roblox link", "None published by the developer or publisher"],
-            ["Official platform", "Windows PC via Steam (App ID 4954910)"],
-            ["Developer / Publisher", "JakeHub and Metater / Jatater Worldwide"],
-            ["Lookalike Roblox places", "Unofficial; not the Steam game"]
+            [
+              "Official Roblox version",
+              "Official experience listed"
+            ],
+            [
+              "Official Roblox link",
+              "[Scam With Your Friends on Roblox](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends)"
+            ],
+            [
+              "Official platform",
+              "Roblox; a separate Windows PC version is on Steam (App ID 4954910)"
+            ],
+            [
+              "Developer / Publisher",
+              "Roblox creator: Jatater Worldwide; Steam developers: JakeHub and Metater; Steam publisher: Jatater Worldwide"
+            ],
+            [
+              "Lookalike Roblox places",
+              "Check the exact experience ID and creator; the name alone does not establish authenticity"
+            ]
           ]
         },
         "paragraphs": [
-          "Scam With Your Friends is announced only for Windows PC through Steam. The official channels are the Steam store listing and the publisher's own game page, and neither one points to a Roblox experience. That means there is no official Roblox build to install, no Roblox group run by the studio to join, and no Roblox link the publisher asks players to use.",
-          "Roblox is an open platform where anyone can build and upload a place, so it is common for popular game names to appear there without the original studio being involved. A Roblox place that uses the Scam With Your Friends name, or a similar one, is not evidence that an official version exists. Treat every Roblox result as unofficial until the developer or publisher links to it directly.",
-          "The [platforms guide](/platforms/) keeps the full availability picture in one place, including the console, mobile, Mac and Linux status alongside Roblox. If a Roblox version is ever announced, it would appear on an official channel first rather than only inside Roblox search."
+          "The official Roblox experience is published under Jatater Worldwide. Its page explicitly describes it as the official Roblox version of the Steam game. This is separate from the Windows PC listing, so choose the platform version you actually intend to play rather than assuming every link opens the same product.",
+          "Roblox is an open platform where anyone can build and upload a place, so popular game names can also appear without the original studio being involved. A Roblox place that uses the Scam With Your Friends name, or a similar one, is not enough by itself to identify the official experience. Compare the exact URL and creator with the verified listing below.",
+          "The [platforms guide](/platforms/) covers platform availability alongside Roblox. For this experience, check the Roblox listing directly for its current access conditions and availability."
         ]
       },
       {
         "id": "official-link",
         "heading": "Official Scam With Your Friends Roblox Link",
         "paragraphs": [
-          "There is no official Scam With Your Friends Roblox link to share, because no official Roblox page has been published by JakeHub, Metater or Jatater Worldwide. If you find a Roblox link in a video description, a comment, or a search result, assume it is unofficial until you can trace it back to the studio's own channels.",
-          "The links that are official all point to the Steam version and the publisher. The store listing is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/), and the publisher page is the [Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/). Those two are where a real platform announcement would surface.",
-          "The [Steam guide](/steam/) explains what the official store page currently shows, including the wishlist status and the planned Early Access window. Use it as the reference point whenever a Roblox claim needs to be checked against what the studio has actually published."
+          "The official link is [Scam With Your Friends on Roblox](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends). Its experience ID is 133878278486520, and the creator shown on the page is Jatater Worldwide. Check both details when following a link from a video description, a comment or a search result.",
+          "The separate PC store listing is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/), and the publisher page is the [Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/). These identify the Steam edition; the Roblox link above identifies the Roblox experience.",
+          "The [Steam guide](/steam/) explains the PC store listing and current Early Access purchase route. Use the platform-specific page when checking installation or access, since a Steam library entitlement and a Roblox experience are different things."
         ]
       },
       {
         "id": "roblox-vs-steam",
         "heading": "Roblox Version vs Steam Version",
-        "intro": "Because there is no official Roblox version, the honest comparison is between the announced Steam game and whatever an unofficial Roblox place might offer. They are not the same product.",
+        "intro": "Both the Steam game and the Roblox experience are official. They are separate platform versions, and official status does not establish that all features, content or account entitlements are identical.",
         "table": {
-          "caption": "Official Steam game compared with unofficial Roblox places",
-          "columns": ["Aspect", "Official Steam version", "Unofficial Roblox place"],
+          "caption": "Official Steam version compared with the official Roblox experience",
+          "columns": [
+            "Aspect",
+            "Official Steam version",
+            "Official Roblox version"
+          ],
           "rows": [
-            ["Publisher", "Jatater Worldwide", "Not the studio"],
-            ["Developers", "JakeHub and Metater", "Unknown third parties"],
-            ["Platform", "Windows PC via Steam", "Roblox"],
-            ["Live AI callers", "Confirmed official feature", "Not the official game systems"],
-            ["Status", "Wishlist; Early Access planned", "Unofficial and unverified"]
+            [
+              "Publisher / creator",
+              "Jatater Worldwide (publisher)",
+              "Jatater Worldwide (creator)"
+            ],
+            [
+              "Developers",
+              "JakeHub and Metater on the Steam listing",
+              "Jatater Worldwide shown as creator on Roblox"
+            ],
+            [
+              "Platform",
+              "Windows PC via Steam",
+              "Roblox"
+            ],
+            [
+              "Access method",
+              "Obtain the game on Steam and install from your library",
+              "Open the official experience through Roblox"
+            ],
+            [
+              "Product differences",
+              "PC Early Access release; consult its own listing",
+              "Separate Roblox experience; feature and entitlement parity not confirmed"
+            ]
           ]
         },
         "paragraphs": [
-          "The official Steam game is built around real-time conversations with fictional AI callers, an in-game desktop with remote-access tools, a daily quota, and a boss review. Those systems are described in the studio's own materials. An unofficial Roblox place that copies the name is not required to reproduce any of them, and it will not carry the same code, the same AI, or the same publisher support.",
-          "Do not assume progress, purchases or unlocks would transfer between an unofficial Roblox place and the Steam game. They are separate projects with no shared accounts. The [how to play guide](/how-to-play/) describes the real gameplay loop as the developers present it, which is the version tied to the Steam listing.",
-          "If the studio ever ships an official Roblox experience, the two versions might still differ in features and content. Until an announcement exists, the only version the publisher stands behind is the Windows PC game on Steam."
+          "The official Steam game is built around real-time conversations with fictional AI callers, an in-game desktop with remote-access tools, a daily quota, and a boss review. The Roblox description also presents a call-center simulator, but a shared premise is not proof that every system works in exactly the same way on both platforms.",
+          "Do not assume that progress, purchases or unlocks transfer between Roblox and Steam. Cross-platform entitlement or progress transfer is not confirmed by the listings reviewed here. The [how to play guide](/how-to-play/) describes the PC gameplay loop; check the Roblox experience’s own instructions for controls and features there.",
+          "For installation and support, identify the platform first. A Steam-specific fix or PC requirement should not be treated as an instruction for Roblox, and a Roblox access prompt does not establish anything about the Steam purchase."
         ]
       },
       {
         "id": "play-official",
         "heading": "How to Play the Official Scam With Your Friends",
-        "intro": "Since there is no Roblox version, the official way to play is on Windows PC through Steam. These are the steps the publisher's channels currently support.",
+        "intro": "To play the official Roblox experience, start with its verified page and use the normal Roblox access flow. The Steam edition has its own separate purchase and installation route.",
         "steps": [
           {
-            "heading": "Open the official Steam page",
-            "description": "Go to Steam App ID 4954910 and confirm the title, the developer names, and Jatater Worldwide as the publisher before you do anything else."
+            "heading": "Open the official Roblox page",
+            "description": "Use [experience ID 133878278486520](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends) and check that the title identifies it as [OFFICIAL]."
           },
           {
-            "heading": "Wishlist the game",
-            "description": "Steam currently shows a wishlist rather than a buy button. Wishlisting keeps you updated when Early Access opens."
+            "heading": "Confirm the creator",
+            "description": "The creator shown on the page should be Jatater Worldwide. A similar title on a different experience is not the same listing."
           },
           {
-            "heading": "Check your access",
-            "description": "A limited playtest is running with closed signups. If you were accepted or invited by an accepted tester, follow the instructions attached to that access."
+            "heading": "Use the normal Roblox access flow",
+            "description": "Sign in through Roblox and use its normal play or launch control when available. Follow the platform’s current client and access prompts."
           },
           {
-            "heading": "Install on a supported PC",
-            "description": "The announced platform is Windows 10 or 11, 64-bit. Review the current Steam minimum requirements before installing."
+            "heading": "Check current availability",
+            "description": "If the experience cannot be joined, check its live Roblox page. An official listing does not guarantee that servers are running at every moment."
           }
         ],
         "paragraphs": [
-          "None of these steps happen inside Roblox. The game is a downloadable Windows PC title, not a browser or Roblox experience. If a tutorial tells you to launch Scam With Your Friends through Roblox, it is describing an unofficial place rather than the published game.",
-          "Access today is limited. The wider launch is the planned Early Access window described on the [release date guide](/release-date/). Wishlisting the Steam page is the simplest way to hear when that changes, without relying on a Roblox search result."
+          "These steps are for Roblox. They do not require a Steam playtest invitation or a separate PC installer from a file host. If you want the Windows PC edition instead, open the official Steam listing, review its current offer, and install through your Steam library after obtaining access.",
+          "If a tutorial sends you to another Roblox experience, compare the exact ID and creator before proceeding. Avoid third-party copies, downloads or pages asking for account credentials outside the normal platform flow."
         ]
       },
       {
         "id": "free",
         "heading": "Is the Roblox Version Free?",
         "paragraphs": [
-          "There is no official Roblox version, so there is no official Roblox price to discuss. Many Roblox places are free to join, but that says nothing about whether a place is the real Scam With Your Friends. A free-to-enter copy is still unofficial if the studio did not publish it.",
-          "For the actual Steam game, the retail price has not been announced. Steam currently shows a wishlist instead of a purchase price, and no free full-game download has been published. The [price guide](/price/) explains the separate US$8 Unlimited AI option, which is a playtest-only purchase and not the cost of the game.",
-          "Be careful with any Roblox place that promises the full game for free or asks for Robux to unlock Scam With Your Friends content. Those offers are not connected to the official Steam release, and paying Robux there does not buy anything from the publisher."
+          "An official Roblox version now exists. Check its live page and Roblox access prompts for current entry conditions and any optional purchases. A lasting price or access guarantee is not established by the listing reviewed here, so do not infer one from the title alone.",
+          "The separate Steam game is currently sold as an Early Access release. Its current regional offer is shown on Steam; an old US$8 playtest AI option is not the retail game price. The [price guide](/price/) documents that historical distinction, while the live store is the source for today’s purchase offer.",
+          "Be careful with a different Roblox place that promises to unlock the Steam edition or asks for account details. Do not assume that paying Robux grants ownership of the Windows PC game; no such cross-platform entitlement is confirmed here."
         ]
       },
       {
         "id": "publisher",
         "heading": "Who Publishes the Official Version?",
         "paragraphs": [
-          "The official Scam With Your Friends is developed by JakeHub and Metater and published by Jatater Worldwide. Those are the names printed on the Steam store listing, and they are the parties whose channels count as official.",
-          "Jatater Worldwide also runs the official community Discord at https://discord.gg/jataterww, which the Steam page points players to for playtest updates and for finding teammates. The [Discord guide](/discord/) explains how to confirm that invite and avoid fake servers.",
-          "A Roblox group, a Roblox developer name, or a Roblox place creator is not Jatater Worldwide unless the publisher links to it from the Steam page or the official game page. Right now, no such link exists."
+          "The Steam edition is developed by JakeHub and Metater and published by Jatater Worldwide. The official Roblox page shows Jatater Worldwide as its creator. Check the identity on the platform listing you are using rather than treating every experience with the same name as official.",
+          "Jatater Worldwide also runs the official community Discord at https://discord.gg/jataterww, which the Steam page points players to for community updates and for finding teammates. The [Discord guide](/discord/) explains how to confirm that invite and avoid fake servers.",
+          "For Roblox, the official listing linked above is the reference: experience ID 133878278486520, with Jatater Worldwide shown as creator. Check that identity and address together; a copied logo or studio name in a description is not enough on its own."
         ]
       },
       {
@@ -1682,21 +1856,22 @@
         "heading": "How to Avoid Fake or Unofficial Roblox Games",
         "intro": "Use this checklist before you trust any Roblox place that uses the Scam With Your Friends name.",
         "bullets": [
-          "Check whether the Steam page or the Jatater Worldwide game page links to the Roblox place. If neither does, treat it as unofficial.",
-          "Look at who created the place. A studio name that is not JakeHub, Metater or Jatater Worldwide is a third party.",
+          "Compare the exact Roblox URL with the official experience linked above; lookalike names can lead to different places.",
+          "Check the creator field. The official Roblox experience identifies Jatater Worldwide as its creator.",
           "Do not enter your Steam name and password on any Roblox place or external site.",
-          "Do not pay Robux to a place that claims to unlock the official game.",
+          "Do not pay a different place for a promise to unlock the Steam edition; verify what any purchase actually grants.",
           "Compare the description with the official feature list; a copied blurb is not proof of an official release."
         ],
         "paragraphs": [
-          "Name overlap is the most common trap. A place can use similar words, similar artwork and a similar premise while having no connection to the real game. The reliable test is provenance: does the publisher point to it? For Scam With Your Friends, the answer is currently no.",
-          "The same caution applies outside Roblox. The [download guide](/download/) covers how to recognize fake installers, cracks and repacks that use the game name. In every case, the official Steam listing and the publisher's page are the sources to trust."
+          "Name overlap is a common trap. A place can use similar words, artwork and a premise while having no connection to the publisher. For Scam With Your Friends, there is an official Roblox listing to compare against, so use its exact address and creator rather than treating all results as either official or unofficial.",
+          "The same caution applies outside Roblox. The [download guide](/download/) covers how to recognize fake PC installers, cracks and repacks that use the game name. Use the official Steam listing for the PC edition and the verified Roblox page for the Roblox experience."
         ]
       },
       {
         "id": "official-sources",
         "heading": "Official Sources",
         "paragraphs": [
+          "[Official Scam With Your Friends Roblox experience](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends) — the official experience and creator identity, checked October 21, 2026.",
           "[Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — the official store listing and current availability.",
           "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — the publisher's own page and links.",
           "[Jatater Worldwide Discord](https://discord.gg/jataterww) — the official community channel named on the Steam page."
@@ -1706,34 +1881,34 @@
     "faq": [
       {
         "question": "Is Scam With Your Friends on Roblox?",
-        "answer": "No official Roblox version has been announced. The game is a Windows PC title on Steam, published by Jatater Worldwide."
+        "answer": "Yes. The official Roblox experience is listed as Scam With Your Friends!™ [OFFICIAL], with Jatater Worldwide shown as creator."
       },
       {
         "question": "Is there an official Scam With Your Friends Roblox link?",
-        "answer": "No. The developer and publisher have not published a Roblox link. The official channels are the Steam store page and the Jatater Worldwide game page."
+        "answer": "Yes. The official Roblox page is experience ID 133878278486520, linked by the Roblox button at the top of this page."
       },
       {
         "question": "Are Roblox places using the name official?",
-        "answer": "Not unless the Steam page or the Jatater Worldwide page links to them. Right now no such link exists, so treat them as unofficial."
+        "answer": "The verified experience linked here is official. Other places using similar names need their own verification; compare the experience ID and creator."
       },
       {
         "question": "Is the Roblox version free?",
-        "answer": "There is no official Roblox version to price. The Steam game's retail price has not been announced, and no free full-game download has been published."
+        "answer": "Check the live official Roblox page for current access conditions and any optional purchases. Do not assume that its entry conditions or purchases match the Steam edition."
       },
       {
         "question": "Who makes the official game?",
-        "answer": "JakeHub and Metater develop Scam With Your Friends, and Jatater Worldwide publishes it. Those names appear on the Steam listing."
+        "answer": "JakeHub and Metater develop the Steam edition, published by Jatater Worldwide. The Roblox listing identifies Jatater Worldwide as its creator."
       },
       {
         "question": "Where should I play the real game?",
-        "answer": "On Windows PC through Steam (App ID 4954910). Wishlist the page and follow the publisher's channels for access and release updates."
+        "answer": "Use the official Roblox experience for Roblox, or Steam App ID 4954910 for the Windows PC Early Access game. They have separate access and installation flows."
       },
       {
         "question": "Could a Roblox version come later?",
-        "answer": "Nothing has been announced. If it happens, it would appear on an official studio channel first, not only inside Roblox search."
+        "answer": "An official Roblox experience already exists. Open the verified page linked here and check its current availability rather than waiting for a future platform announcement."
       }
     ],
-    "lastReviewed": "2026-10-13",
+    "lastReviewed": "2026-10-21",
     "primaryKeyword": "scam with your friends roblox",
     "secondaryKeywords": [
       "scam with friends roblox",
@@ -1775,7 +1950,7 @@
     "hero": {
       "eyebrow": "Steam status",
       "heading": "Scam With Your Friends on Steam",
-      "lead": "The official Scam With Your Friends Steam page is App ID 4954910, developed by JakeHub and Metater and published by Jatater Worldwide. Steam currently shows a wishlist rather than a buy button, with Early Access planned for October 2026 on Windows PC and no exact release day or retail price announced yet. Use the button below to open the store listing and confirm the live status yourself.",
+      "lead": "The official Scam With Your Friends Steam page is App ID 4954910, developed by JakeHub and Metater and published by Jatater Worldwide. The Windows PC game entered Early Access on October 15, 2026 and is now available through the normal Steam purchase and library installation route. Use the button below to check the current regional offer and store details.",
       "cta": {
         "label": "View on Steam",
         "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
@@ -1788,19 +1963,40 @@
         "intro": "This is the store listing the publisher points to. It is the authority for release timing, price and platform details.",
         "table": {
           "caption": "Current Steam status for Scam With Your Friends",
-          "columns": ["Item", "Status"],
+          "columns": [
+            "Item",
+            "Status"
+          ],
           "rows": [
-            ["Steam App ID", "4954910"],
-            ["Store state", "Wishlist only; not yet purchasable"],
-            ["Release", "Early Access planned October 2026; exact day not announced"],
-            ["Retail price", "Not announced"],
-            ["Platform", "Windows PC (Windows 10 / 11, 64-bit)"],
-            ["Developer / Publisher", "JakeHub and Metater / Jatater Worldwide"]
+            [
+              "Steam App ID",
+              "4954910"
+            ],
+            [
+              "Store state",
+              "Released in Early Access; available to purchase and install"
+            ],
+            [
+              "Release",
+              "Early Access released October 15, 2026"
+            ],
+            [
+              "Retail price",
+              "Paid store offer as checked October 21, 2026; regional prices and promotions may change"
+            ],
+            [
+              "Platform",
+              "Windows PC (Windows 10 / 11, 64-bit)"
+            ],
+            [
+              "Developer / Publisher",
+              "JakeHub and Metater / Jatater Worldwide"
+            ]
           ]
         },
         "paragraphs": [
-          "The official page is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/). It currently presents the game as an upcoming title with a wishlist instead of a purchase button, which is normal for a game that has not opened its store offer yet.",
-          "Steam is the only storefront the publisher has announced. There is no separate official store page on another PC platform, and no console storefront listing. The [platforms guide](/platforms/) explains the wider availability picture beyond Steam.",
+          "The official page is [Scam With Your Friends on Steam](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/). As checked on October 21, 2026, it presents a released Early Access game with a purchase offer. After obtaining access through your Steam account, install the game from that account’s library.",
+          "The Steam listing is for the Windows PC edition and currently lists Single-player and Online Co-op. It also discloses a connection to OpenRouter for AI content generation. A separate official Roblox experience exists; the [platforms guide](/platforms/) covers the platform distinction.",
           "Because store pages can be edited, the listing itself is the place to re-check a date, a price or a platform claim. A screenshot, a video or an old search snippet can lag behind what Steam shows today."
         ]
       },
@@ -1808,9 +2004,9 @@
         "id": "can-play-now",
         "heading": "Can You Play Scam With Your Friends on Steam Now?",
         "paragraphs": [
-          "Not through a normal store purchase. Steam does not currently sell the game, and Early Access has not opened, so there is no buy-and-install path available to every visitor yet. The planned Early Access window is October 2026, and no exact day is displayed.",
-          "There is a separate limited playtest. Its signups closed after more than 12,000 requests, access is granted in batches, and an accepted tester can invite up to three friends. That test is access-controlled, so it is not something any Steam account can start on demand.",
-          "The [playtest access guide](/playtest-key/) explains the invite rules and what you can and cannot do before Early Access. If you were never accepted and were not invited, the practical step today is to wishlist the Steam page and wait for the store offer to open."
+          "Yes. Scam With Your Friends entered Early Access on October 15, 2026 and is publicly purchasable on Steam. Review the current offer, obtain the game on the intended account, and install it through the Steam library.",
+          "The earlier limited playtest was a separate pre-release access path. A historical test invitation is not a prerequisite for the current retail purchase, and playtest access should not be treated as proof of retail ownership.",
+          "The [playtest access guide](/playtest-key/) documents the earlier test process. For a new player today, the normal route is the live Early Access store offer rather than waiting for a playtest invitation."
         ]
       },
       {
@@ -1819,26 +2015,42 @@
         "intro": "These are three different stages, and the store page treats them separately. Knowing which one you are looking at avoids a lot of confusion.",
         "table": {
           "caption": "Playtest, Early Access and full release compared",
-          "columns": ["Stage", "What it means", "Current status"],
+          "columns": [
+            "Stage",
+            "What it means",
+            "Current status"
+          ],
           "rows": [
-            ["Limited playtest", "An access-controlled test build", "Signups closed after 12,000+ requests; batch access; up to 3 friend invites"],
-            ["Early Access", "A purchasable release that is still in development", "Planned October 2026; wishlist only for now"],
-            ["Full release", "The 1.0 launch after Early Access", "Targeted around mid-December 2026; a target, not a locked date"]
+            [
+              "Limited playtest",
+              "An access-controlled test build",
+              "Historical pre-release access path; not required for a retail purchase"
+            ],
+            [
+              "Early Access",
+              "A purchasable release that is still in development",
+              "Released October 15, 2026; purchasable now"
+            ],
+            [
+              "Full release",
+              "The 1.0 launch after Early Access",
+              "Targeted around mid-December 2026; a target, not a locked date"
+            ]
           ]
         },
         "subsections": [
           {
             "heading": "What the Playtest Is",
             "paragraphs": [
-              "The playtest is a limited test used to gather feedback before the wider launch. Access is tied to Steam accounts that the developers admit, and an accepted tester can invite up to three friends under the official rules. It is not a public demo and not a permanent free version.",
+              "The playtest was a limited pre-release test used to gather feedback before the wider launch. It had its own account admission and invitation process. Those historical rules should not be confused with the current Early Access purchase path.",
               "Being in the playtest does not mean you own the retail game. The [demo guide](/demo/) explains why a limited test is different from a downloadable public demo."
             ]
           },
           {
             "heading": "What Early Access Will Be",
             "paragraphs": [
-              "Early Access is the planned first public Steam launch on Windows PC. When it opens, the store page would show a purchase offer instead of a wishlist. The retail price has not been announced, and the Early Access build is not promised to be content-complete.",
-              "The [release date guide](/release-date/) covers the October 2026 window and the mid-December full-release target in more detail, including why an exact day is not shown."
+              "Early Access is the public Windows PC Steam release that opened on October 15, 2026. The store now has a purchase offer. The game remains in development and is not promised to be content-complete.",
+              "The [release date guide](/release-date/) records the earlier release plans. For current release and purchase status, check the live Steam listing, which now shows the October 15 Early Access launch."
             ]
           }
         ]
@@ -1849,24 +2061,24 @@
         "intro": "Use the official routes only. None of them require paying a third-party key shop.",
         "steps": [
           {
-            "heading": "Wishlist the store page",
-            "description": "Open App ID 4954910 and add it to your wishlist so Steam notifies you when Early Access opens or the listing changes."
+            "heading": "Open the official Steam listing",
+            "description": "Open Steam App ID 4954910 and confirm the game title, developer names and Jatater Worldwide as publisher."
           },
           {
-            "heading": "Check existing playtest eligibility",
-            "description": "If you applied earlier or were invited by an accepted tester, follow the instructions attached to that access on your Steam account."
+            "heading": "Review the current regional offer",
+            "description": "Check the price and purchase conditions shown for your region. Promotions and regional pricing can change."
           },
           {
-            "heading": "Join the official Discord",
-            "description": "The Steam page points players to the Jatater Worldwide Discord for playtest news and for finding teammates."
+            "heading": "Obtain the game on your Steam account",
+            "description": "Complete the normal Steam purchase on the account you intend to own the game on. A historical playtest invitation and Discord membership are not required."
           },
           {
-            "heading": "Wait for the store offer",
-            "description": "When Early Access launches, the buy button appears on the same Steam page. Purchase there rather than through an unofficial reseller."
+            "heading": "Install from your Steam library",
+            "description": "Select the game in your Steam library and install it on a supported PC. Let the client finish any available updates before launching."
           }
         ],
         "paragraphs": [
-          "There is no legitimate key generator and no official redeem-code list. Steam playtest access is granted to accounts, and the retail game will be sold through the store page once a price exists. The [price guide](/price/) explains why the separate US$8 Unlimited AI purchase is not a game key and not playtest entry.",
+          "The normal retail flow is to open the official listing, review the current regional offer, obtain the game through your Steam account, and install from the Steam library. There is no legitimate key generator or public redeem-code list. The [price guide](/price/) explains the separate historical US$8 playtest AI option; that payment is not the current retail game price.",
           "Keep your Steam credentials on Steam. Any page that asks you to log into Steam on a different domain is not part of the official access process."
         ]
       },
@@ -1874,9 +2086,9 @@
         "id": "free-on-steam",
         "heading": "Is Scam With Your Friends Free on Steam?",
         "paragraphs": [
-          "The game has not been announced as free-to-play, and no retail price is listed yet. A wishlist without a price is not a free offer; it simply means the store has not published a cost. The [price guide](/price/) keeps that status up to date.",
-          "The figure people often see is US$8, and it belongs to a different product. Jatater Worldwide sells a one-time Unlimited AI purchase for the playtest, plus applicable taxes shown at checkout. The official terms say it is not a subscription, not a game key, not playtest entry, and not a purchase of the full game.",
-          "The full game is stated to include unlimited AI credits, which is why the US$8 option is described as a playtest-only bridge. Paying it does not put the retail game in a library that was never accepted into the test."
+          "As checked on October 21, 2026, Steam offers Scam With Your Friends as a paid Early Access game. It is not currently presented as a free full-game download. Check the live regional price and any promotion before purchasing, since offers can change.",
+          "The US$8 Unlimited AI figure belongs to a historical playtest option, not the current Steam game price. Its terms distinguish it from a subscription, game key, playtest entry or purchase of the full game.",
+          "Do not use that old playtest payment as the price of a new retail copy. The current purchase decision belongs to the live Steam store offer and the account that will own the game."
         ]
       },
       {
@@ -1884,7 +2096,7 @@
         "heading": "Steam Download and Installation",
         "paragraphs": [
           "A Scam With Your Friends Steam download becomes possible once your account is entitled to an available build. At that point you install through the Steam client and your library, not through a standalone executable from a file host.",
-          "Today the store says the game is not yet available, so there is no retail download button for most accounts. The limited playtest is delivered to admitted accounts through the official process. There is no official cracked or repack edition.",
+          "The Early Access retail download is now available to accounts that obtain the game through Steam. Install and update that copy through the client. A historical playtest invitation is not required for the retail purchase, and there is no official cracked or repack edition.",
           "The [download guide](/download/) walks through how to recognize fake installers and why an unverified file is not a safe substitute for the store build. For normal installation, always start from the official Steam listing."
         ]
       },
@@ -1894,20 +2106,44 @@
         "intro": "These are the minimums currently printed on the Steam listing. A recommended tier has not been the focus of the public page.",
         "table": {
           "caption": "Steam minimum requirements for Scam With Your Friends",
-          "columns": ["Requirement", "Minimum"],
+          "columns": [
+            "Requirement",
+            "Minimum"
+          ],
           "rows": [
-            ["OS", "Windows 10 / 11 64-bit"],
-            ["Processor", "Intel Core i5-8400 / AMD Ryzen 5 2600"],
-            ["Memory", "3 GB RAM"],
-            ["Graphics", "NVIDIA GTX 1060 6 GB / AMD RX 580"],
-            ["DirectX", "Version 11"],
-            ["Network", "Broadband internet"],
-            ["Storage", "5 GB available space"]
+            [
+              "OS",
+              "Windows 10 / 11 64-bit"
+            ],
+            [
+              "Processor",
+              "Intel Core i5-8400 / AMD Ryzen 5 2600"
+            ],
+            [
+              "Memory",
+              "3 GB RAM"
+            ],
+            [
+              "Graphics",
+              "NVIDIA GTX 1060 6 GB / AMD RX 580"
+            ],
+            [
+              "DirectX",
+              "Version 11"
+            ],
+            [
+              "Network",
+              "Broadband internet"
+            ],
+            [
+              "Storage",
+              "5 GB available space"
+            ]
           ]
         },
         "paragraphs": [
-          "Broadband internet is required rather than optional, which fits a game built on real-time calls and online modes. Five gigabytes is the storage figure shown today, and store requirements can be edited before launch.",
-          "Meeting the minimum does not create access. Hardware and an invite are separate problems, and your PC only matters once Steam will actually let your account download the game. The [platforms guide](/platforms/) repeats the full spec list alongside console, Mac, Linux and mobile status."
+          "Broadband internet is required rather than optional, which fits a game built on real-time calls and online modes. Five gigabytes is the storage figure shown today, and store requirements can be edited as the game develops.",
+          "Meeting the minimum requirements does not guarantee performance on every PC, especially while the game is in Early Access. Retail access now comes through the live Steam store rather than a playtest invitation. Once the game is owned on the intended Steam account, installation is handled through that account's library. The [platforms guide](/platforms/) repeats the current Windows requirements alongside console, Mac, Linux, mobile and Roblox availability."
         ]
       },
       {
@@ -1928,19 +2164,19 @@
       },
       {
         "question": "Can I play Scam With Your Friends on Steam now?",
-        "answer": "Not through a normal purchase. Steam shows a wishlist, Early Access is planned for October 2026, and the limited playtest has closed signups."
+        "answer": "Yes. The game entered Early Access on October 15, 2026. Obtain it through the current Steam store offer and install from your library."
       },
       {
         "question": "Is it a playtest or Early Access?",
-        "answer": "Both exist as separate stages. A limited playtest is running with closed signups, and Early Access is planned for October 2026 as the first public Steam launch."
+        "answer": "The retail game is now in Early Access. The earlier limited playtest was a separate pre-release access path and is not a prerequisite for purchasing the game."
       },
       {
         "question": "Is Scam With Your Friends free on Steam?",
-        "answer": "It has not been announced as free, and no retail price is listed yet. The separate US$8 Unlimited AI purchase is a playtest-only option, not the game."
+        "answer": "As checked on October 21, 2026, Steam shows a paid Early Access offer. Regional prices and promotions can change. The historical US$8 playtest AI option is not the retail game price."
       },
       {
         "question": "How do I get access on Steam?",
-        "answer": "Wishlist the page, check any existing playtest eligibility, join the official Discord, and wait for the Early Access store offer to open."
+        "answer": "Open App ID 4954910, review the current regional offer, obtain the game on your Steam account, and install through your library."
       },
       {
         "question": "What platform is the Steam game on?",
@@ -1951,7 +2187,7 @@
         "answer": "The current minimum is Windows 10/11 64-bit, an Intel Core i5-8400 or Ryzen 5 2600, 3 GB RAM, a GTX 1060 6 GB or RX 580, DirectX 11, broadband internet, and 5 GB of storage."
       }
     ],
-    "lastReviewed": "2026-10-13",
+    "lastReviewed": "2026-10-21",
     "primaryKeyword": "scam with your friends steam",
     "secondaryKeywords": [
       "steam scam with your friends",
@@ -2010,13 +2246,31 @@
         "intro": "Yes. The official Steam listing names single-player, online co-op and public lobbies. This table reflects those listed modes as of October 13, 2026.",
         "table": {
           "caption": "Scam With Your Friends multiplayer modes",
-          "columns": ["Mode", "Status"],
+          "columns": [
+            "Mode",
+            "Status"
+          ],
           "rows": [
-            ["Single-player", "Supported"],
-            ["Online co-op", "Supported"],
-            ["Public lobbies", "Supported"],
-            ["Maximum player count", "Not confirmed"],
-            ["Local / split-screen co-op", "Not announced"]
+            [
+              "Single-player",
+              "Supported"
+            ],
+            [
+              "Online co-op",
+              "Supported"
+            ],
+            [
+              "Public lobbies",
+              "Supported"
+            ],
+            [
+              "Maximum player count",
+              "Not confirmed"
+            ],
+            [
+              "Local / split-screen co-op",
+              "Not announced"
+            ]
           ]
         },
         "paragraphs": [
@@ -2094,13 +2348,37 @@
         "intro": "Both are supported. The choice is about how you want to run the shift.",
         "table": {
           "caption": "Solo and multiplayer play compared",
-          "columns": ["Aspect", "Solo", "Multiplayer"],
+          "columns": [
+            "Aspect",
+            "Solo",
+            "Multiplayer"
+          ],
           "rows": [
-            ["Official support", "Yes", "Yes (online co-op and public lobbies)"],
-            ["Who handles calls", "You alone", "Shared across the team"],
-            ["Daily quota", "Your responsibility", "A team goal"],
-            ["Internet required", "Yes", "Yes"],
-            ["Best for", "Learning the loop", "Coordinating with friends"]
+            [
+              "Official support",
+              "Yes",
+              "Yes (online co-op and public lobbies)"
+            ],
+            [
+              "Who handles calls",
+              "You alone",
+              "Shared across the team"
+            ],
+            [
+              "Daily quota",
+              "Your responsibility",
+              "A team goal"
+            ],
+            [
+              "Internet required",
+              "Yes",
+              "Yes"
+            ],
+            [
+              "Best for",
+              "Learning the loop",
+              "Coordinating with friends"
+            ]
           ]
         },
         "paragraphs": [
@@ -2186,5 +2464,526 @@
       "steam",
       "discord"
     ]
+  },
+  {
+    "enabled": true,
+    "slug": "is-it-safe",
+    "pageType": "article",
+    "navLabel": "Safety",
+    "navVisible": true,
+    "priority": "P0",
+    "title": "Is Scam With Your Friends Safe? Privacy & Virus Check",
+    "description": "Is Scam With Your Friends safe to play? Check the official Steam build, microphone and AI privacy, recording behavior, and safer download practices.",
+    "keywords": [
+      "is scam with your friends safe",
+      "is scam with your friends safe to play",
+      "scam with your friends privacy",
+      "scam with your friends privacy issues",
+      "is scam with your friends a virus",
+      "scam with your friends virus",
+      "scam with your friends microphone privacy",
+      "scam with your friends voice privacy",
+      "scam with your friends safe download"
+    ],
+    "primaryKeyword": "is scam with your friends safe",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "Safety & privacy",
+      "heading": "Is Scam With Your Friends Safe?",
+      "lead": "The official Steam distribution is the legitimate source for Scam With Your Friends; unknown third-party files are not developer-verified. That does not make the official build risk-free. Its documented features include local call recordings, multiplayer replays and online AI processing of conversation text. Optional online speech recognition can also send audio to a provider. Review those choices before granting microphone access or joining a session.",
+      "cta": {
+        "label": "Check the official Steam build",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "safe-to-play",
+        "heading": "Is Scam With Your Friends Safe to Play?",
+        "intro": "Safety quick answer: distinguish installer trust from privacy. A legitimate copy can still process information you would rather keep private.",
+        "table": {
+          "caption": "Safety decisions before your first session",
+          "columns": [
+            "Question",
+            "Practical answer"
+          ],
+          "rows": [
+            [
+              "Where should I install it?",
+              "Use the publisher-linked Steam listing and your own library."
+            ],
+            [
+              "Does microphone access prove malware?",
+              "No. Decide whether the requested access fits the voice features you want to use."
+            ],
+            [
+              "Should I share personal details with a caller?",
+              "Use fictional details; treat the conversation as information you are choosing to disclose."
+            ],
+            [
+              "Can anyone promise zero risk?",
+              "No. Consider the source, settings, online services and other players separately."
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Start with your own comfort level. If you would not want a sentence heard in a lobby or included in a support report, do not say it during a call. Keep banking details, private addresses, workplace information and account recovery answers out of the session. You can enjoy improvising with invented information instead.",
+          "This is an independent guide, not a security certification or a malware laboratory report. No independent binary audit is supplied here. For the wider game overview, return to the [Scam With Your Friends guide](/)."
+        ],
+        "links": [
+          {
+            "label": "Safety quick answer",
+            "slug": "download",
+            "description": "Use the official Steam build. Review recording, microphone and online AI choices before playing; legitimate distribution is not a zero-risk guarantee."
+          }
+        ]
+      },
+      {
+        "id": "virus",
+        "heading": "Is Scam With Your Friends a Virus?",
+        "paragraphs": [
+          "The game’s fictional computer-virus hazards are gameplay, not evidence that the installer infects Windows. Equally, a screenshot of a normal game session cannot prove that a separate executable is clean. Assess the actual file and where it came from rather than judging by a title, logo or dramatic clip.",
+          "If your security software flags something, keep the protection enabled and record the detection name and file location. Check whether the file belongs to your Steam installation or to another download. Ask the developer or your security vendor about the specific alert before deciding what to do. Do not dismiss it merely because someone calls it a false positive.",
+          "Claims that every unofficial package contains malware would need evidence about those packages. The useful distinction is that an unknown upload has not been verified by the developer or publisher."
+        ]
+      },
+      {
+        "id": "pc-access",
+        "heading": "What Does the Game Access on Your PC?",
+        "paragraphs": [
+          "The [official privacy policy](https://jataterworldwide.com/scam-with-your-friends/privacy/) describes voice networking, locally saved recordings, account information and online AI requests. Read it alongside the in-game notice. These are different uses of information, so a single permission prompt does not explain the whole privacy picture.",
+          "Pay attention to what is on screen as well as what you say. Close private documents and conversations before streaming or sharing gameplay. Keep unrelated account pages out of the in-game browser. A caller’s fictional computer and a website that you actually visit deserve different expectations."
+        ]
+      },
+      {
+        "id": "microphone",
+        "heading": "Microphone and Voice Privacy",
+        "paragraphs": [
+          "The [EULA](https://jataterworldwide.com/scam-with-your-friends/eula/) explains that calls are recorded locally for boss reviews and that other players can hear and watch replays. It documents a setting to stop permanent clip saving. Temporary review recordings can still occur; turning off saved clips does not mean recording never happens.",
+          "The policy says deleting an in-game video does not currently remove its separate transcript. Check local files when cleaning up. Other players may keep independent copies. If you want a private session, discuss recording and streaming with the group before joining, and avoid assuming that a promise to delete your own copy controls anyone else’s.",
+          "Latest [developer update notes](https://steamcommunity.com/app/4954910/allnews/) also document optional Deepgram online speech recognition with audio sent to Deepgram. Keep this separate from local speech recognition and text sent for AI replies. Review the selected speech mode before talking."
+        ]
+      },
+      {
+        "id": "ai-data",
+        "heading": "How AI Features Use Your Data",
+        "paragraphs": [
+          "The policy identifies conversation text and game context sent through the game’s services to DeepSeek directly or through OpenRouter. It allows for provider retention or training under applicable terms and troubleshooting logs. A fixed retention period is not publicly documented there.",
+          "You should therefore treat spoken content as potentially leaving the PC after transcription, even when recognition itself is local. Choose imaginary names and details for roleplay. For backend choices and connection troubleshooting, use the [AI callers and API key guide](/ai-callers/). This page focuses on deciding what you are comfortable sharing."
+        ]
+      },
+      {
+        "id": "official-vs-unofficial",
+        "heading": "Official Steam Version vs Third-Party Downloads",
+        "paragraphs": [
+          "A safe download decision starts before installation. Follow the publisher’s store link, check the address and install from your Steam library. For availability and unofficial-source claims, the [download guide](/download/) keeps those installation questions together."
+        ],
+        "table": {
+          "caption": "Compare download provenance, not copied branding",
+          "columns": [
+            "Check",
+            "Official Steam route",
+            "Unknown third-party package"
+          ],
+          "rows": [
+            [
+              "Source relationship",
+              "Store linked by the publisher",
+              "No verified publisher relationship"
+            ],
+            [
+              "Installation path",
+              "Your entitled Steam library copy",
+              "Separate archive or executable"
+            ],
+            [
+              "Updates",
+              "Delivered through Steam",
+              "Depends on the uploader"
+            ],
+            [
+              "Security requests",
+              "Evaluate any prompt normally",
+              "Stop if told to disable protection"
+            ],
+            [
+              "Privacy claims",
+              "Read the game’s published policies",
+              "Do not assume a copied policy describes altered files"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "safer-play",
+        "heading": "How to Play More Safely",
+        "paragraphs": [
+          "Make a short check before your first shift, then repeat it when a major update changes permissions or services. There is no need to publish a screenshot of every setting; a private note is enough to remember which choices you made."
+        ],
+        "bullets": [
+          "Install through Steam, allow updates to finish, and keep Windows and your security tools current.",
+          "Use fictional personal details in conversations. Do not test a caller with real passwords or financial information.",
+          "Choose teammates whose recording and streaming habits you understand; ask before sharing anyone else’s voice.",
+          "Check your microphone input so a room microphone does not pick up an unintended conversation.",
+          "Inspect files and attachments before submitting feedback. Remove unrelated personal information where possible.",
+          "For hardware compatibility questions, check the [platforms and PC requirements guide](/platforms/) and the current store requirements."
+        ]
+      },
+      {
+        "id": "privacy-settings",
+        "heading": "Privacy Settings to Check",
+        "paragraphs": [
+          "The developer’s current notices document call-saving controls, speech settings and browser privacy controls. Exact labels can change after updates. Read the explanation next to a control instead of assuming that a friendly-sounding option stops every type of data processing.",
+          "The EULA warns that the in-game browser opens real websites and that streamer settings do not guarantee privacy. Avoid signing into sensitive services there. If browser use is unnecessary for your session, review the available disable option."
+        ],
+        "bullets": [
+          "Check permanent clip saving separately from temporary boss-review recordings.",
+          "Confirm whether speech recognition is local or the optional online mode before enabling the microphone.",
+          "Review microphone permissions in Windows and revoke access when you no longer want the game to use it.",
+          "Keep API credentials out of screenshots, recordings and shared support messages.",
+          "Before deleting a recording, consider its transcript and any copies you intentionally submitted to support.",
+          "For account-specific questions, reach the publisher through its policy contact or official community link."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "Reviewed October 21, 2026. Recheck the linked official pages after game updates; settings and service behavior can change.",
+          "[Steam store](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — official distribution and game features",
+          "[Jatater Worldwide](https://jataterworldwide.com/scam-with-your-friends/) — publisher and community links",
+          "[Privacy policy](https://jataterworldwide.com/scam-with-your-friends/privacy/) — updated October 17, 2026",
+          "[EULA](https://jataterworldwide.com/scam-with-your-friends/eula/) — recordings, browser and online services",
+          "[Developer update notes](https://steamcommunity.com/app/4954910/allnews/) — current optional speech-recognition features"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Scam With Your Friends safe to play?",
+        "answer": "Use the official Steam build and review the privacy choices first. Legitimate distribution does not guarantee zero risk; consider recordings, online processing and other players."
+      },
+      {
+        "question": "Is Scam With Your Friends a virus?",
+        "answer": "Fictional viruses in the game do not diagnose malware on your PC. Assess a specific security alert and file source; no independent binary audit is provided here."
+      },
+      {
+        "question": "Does the game record my calls?",
+        "answer": "Yes. The EULA describes local recordings for boss reviews. Stopping permanent clip saving still allows temporary recordings for reviews."
+      },
+      {
+        "question": "Does microphone audio go to AI providers?",
+        "answer": "Local speech recognition and online dialogue generation are different. AI dialogue uses text; optional Deepgram speech recognition sends audio to Deepgram according to developer update notes."
+      },
+      {
+        "question": "Can I delete all recordings by deleting a video?",
+        "answer": "The privacy policy says an in-game video deletion does not currently delete the separate transcript. Copies held by other players also need separate consideration."
+      },
+      {
+        "question": "Is a third-party download automatically malware?",
+        "answer": "No such conclusion follows from its name alone. It remains unofficial and unverified by the developer; use the publisher-linked store route."
+      },
+      {
+        "question": "What should I check before streaming?",
+        "answer": "Close sensitive screens, review browser and recording controls, and agree on sharing with the people in your session. Do not show API keys or account information."
+      }
+    ],
+    "relatedSlugs": [
+      "download",
+      "steam",
+      "platforms",
+      "ai-callers"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/",
+      "https://jataterworldwide.com/scam-with-your-friends/privacy/",
+      "https://jataterworldwide.com/scam-with-your-friends/eula/",
+      "https://steamcommunity.com/app/4954910/allnews/"
+    ],
+    "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "ai-callers",
+    "pageType": "guide",
+    "navLabel": "AI Callers",
+    "navVisible": true,
+    "priority": "P1",
+    "title": "Scam With Your Friends AI Callers | API Key & Fixes",
+    "description": "Learn how Scam With Your Friends AI callers work, when an API key is needed, how OpenRouter fits in, and how to troubleshoot AI connection errors.",
+    "keywords": [
+      "scam with your friends ai",
+      "scam with your friends ai callers",
+      "scam with your friends api key",
+      "scam with your friends ai api key",
+      "scam with your friends openrouter",
+      "scam with your friends ai not working",
+      "scam with your friends ai sign in failed",
+      "scam with your friends ai fix",
+      "scam with your friends voice ai"
+    ],
+    "primaryKeyword": "scam with your friends ai",
+    "wordCountTarget": 900,
+    "hero": {
+      "eyebrow": "AI callers guide",
+      "heading": "Scam With Your Friends AI Callers",
+      "lead": "Scam With Your Friends AI callers are fictional characters that respond to your conversations during a shift. Current Early Access developer notes document included AI access through Official Backend and an alternative using the host’s personal OpenRouter API key. A personal key is optional when using Official Backend. If callers stop replying, check sign-in, the selected backend and speech input separately before buying credits or changing credentials.",
+      "cta": {
+        "label": "Open the current Steam version",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "how-ai-works",
+        "heading": "How Scam With Your Friends AI Callers Work",
+        "paragraphs": [
+          "The [Steam AI disclosure](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) describes generated character dialogue. For troubleshooting, think of a conversation as several stages: your input, a generated response, and the voice you hear. A failure at one stage need not mean the whole system is down. Write down what still works before changing settings.",
+          "The [beginner gameplay guide](/how-to-play/) covers the shift itself. Here the task is narrower: identify the conversation component that needs attention without changing unrelated lobby or progression settings."
+        ],
+        "table": {
+          "caption": "Separate the conversation components",
+          "columns": [
+            "Component",
+            "Purpose",
+            "Useful diagnostic question"
+          ],
+          "rows": [
+            [
+              "Speech recognition",
+              "Turns spoken input into text",
+              "Is speech being recognized?"
+            ],
+            [
+              "AI dialogue",
+              "Generates the fictional caller’s reply",
+              "Does a reply appear after input?"
+            ],
+            [
+              "Caller voice / text-to-speech",
+              "Produces spoken output",
+              "Is text present but audio absent?"
+            ],
+            [
+              "Microphone and team voice",
+              "Captures input or lets players hear each other",
+              "Can the intended microphone be heard?"
+            ],
+            [
+              "Backend authentication",
+              "Allows online conversation requests",
+              "Does the game show a sign-in or provider warning?"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "api-key",
+        "heading": "Do You Need an API Key?",
+        "paragraphs": [
+          "You do not need to supply a personal OpenRouter key to use Official Backend. The current [developer notes](https://steamcommunity.com/app/4954910/allnews/) distinguish included AI from a host-selected personal key and document switching back to Official Backend when that key is missing or rejected. Included service access can still encounter outages or usage restrictions; it is not a promise of permanent availability.",
+          "A playtest payment description is not a setup requirement for the current retail build. Before following an older video, check its upload date, game version and whether it discusses the playtest. Buying a third-party key or paying a person who offers to activate AI is not a sensible diagnostic step."
+        ]
+      },
+      {
+        "id": "backend-vs-openrouter",
+        "heading": "Official Backend vs OpenRouter",
+        "table": {
+          "caption": "Choose the service path you intend to use",
+          "columns": [
+            "Question",
+            "Official Backend",
+            "Host’s personal OpenRouter key"
+          ],
+          "rows": [
+            [
+              "Who supplies the account credential?",
+              "Game service path",
+              "Host’s own provider account"
+            ],
+            [
+              "Must I paste my own key?",
+              "No personal OpenRouter key needed",
+              "A valid host-owned key is needed"
+            ],
+            [
+              "Where should I investigate trouble?",
+              "Game sign-in and official service notices",
+              "Selected key, provider account and connection"
+            ],
+            [
+              "Who controls provider account limits?",
+              "Managed service conditions apply",
+              "Host reviews their own account conditions"
+            ],
+            [
+              "What is a useful fallback?",
+              "Report persistent failures through official support",
+              "Replace the rejected key or switch to Official Backend"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "OpenRouter is a service route, not a replacement Steam license. Using your own account also means checking that account’s current terms and usage yourself. No particular model, price per call or permanent free allowance is promised here.",
+          "If you join someone else’s session, first ask which backend the host selected. Do not pass credentials around the lobby so everyone can try the same secret. One deliberate change followed by a fresh test is more informative than several players making different changes simultaneously."
+        ]
+      },
+      {
+        "id": "add-openrouter-key",
+        "heading": "How to Add an OpenRouter API Key",
+        "paragraphs": [
+          "Personal OpenRouter-key support is confirmed, but the exact current menu path and complete entry sequence are not publicly documented in the official pages reviewed here. Follow the instructions in your installed build. Do not guess a hidden configuration file, edit an unfamiliar script, or paste a key into a search result that offers an automatic fix.",
+          "If you choose this route, create and manage the credential in your own OpenRouter account, review that account’s terms, and use only the game’s supported personal-key control. Keep your original backend choice in a private note so you can return to it. If you cannot find the supported control, use Official Backend or ask the publisher through the game’s official help links.",
+          "After changing the selected backend or key, test a short, non-sensitive exchange. Check whether the caller receives input and produces a reply before trying a long session. If a credential was exposed during setup, revoke it through its issuing service and replace it rather than continuing to use it."
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Scam With Your Friends AI Not Working",
+        "intro": "These are troubleshooting suggestions, not a list of proven causes for every failure. Preserve the exact message and change one thing at a time.",
+        "subsections": [
+          {
+            "heading": "AI Sign-In Failed",
+            "paragraphs": [
+              "Check that Steam is running with the account that owns the game, confirm your connection, and restart the game after updates finish. Check the PC’s date and time as well. Developer notes document clock-related AI access fixes and alternative sign-in handling; follow a sign-in prompt offered by the game rather than a link supplied by a stranger.",
+              "A sign-in failure alone does not establish an ownership problem. If it persists, capture the message, time, game version and selected backend for support. Keep authentication tokens and any account details out of public screenshots."
+            ]
+          },
+          {
+            "heading": "API Key Rejected",
+            "paragraphs": [
+              "First confirm that the host intentionally selected a personal key. Check that the credential is current in its issuing account and that it was entered completely into the supported game control. Do not post it for someone else to inspect. The documented recovery is to replace the key or switch to Official Backend.",
+              "Check provider account status privately if the issue is specific to your own key. Do not assume that purchasing more credit fixes authentication, a typo or an unavailable service."
+            ]
+          },
+          {
+            "heading": "Connection or Provider Errors",
+            "paragraphs": [
+              "Check the developer’s latest service notices, then retry after a short interval. If input appears but replies never arrive, note that distinction. If replies appear but cannot be heard, investigate output and voice loading instead of immediately replacing an API key.",
+              "Avoid repeated rapid retries, unofficial executables and instructions to disable security protection. If a normal update and restart do not resolve the issue, send a concise report through the official help route."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Error or symptom → possible cause → safe action",
+          "columns": [
+            "Error or symptom",
+            "Possible cause, not a diagnosis",
+            "Safe action"
+          ],
+          "rows": [
+            [
+              "AI sign-in failed",
+              "Steam session, time or network problem",
+              "Check Steam, connection and clock; follow the game’s guidance"
+            ],
+            [
+              "Personal key missing or rejected",
+              "No usable credential for the selected path",
+              "Replace privately or select Official Backend"
+            ],
+            [
+              "Input recognized; no reply",
+              "Backend or provider connection issue",
+              "Check notices; note the backend and message"
+            ],
+            [
+              "Reply text appears; no voice",
+              "Output device or voice loading problem",
+              "Check output and the game’s voice warning"
+            ],
+            [
+              "Speech not recognized",
+              "Input device or recognition issue",
+              "Check Speech settings; try typed dialogue"
+            ],
+            [
+              "Temporary usage restriction",
+              "Service usage controls",
+              "Read the message and contact support; do not create accounts to evade it"
+            ]
+          ]
+        },
+        "bullets": [
+          "Let Steam finish updating before retesting.",
+          "Record the selected backend and whether you are hosting.",
+          "Keep one short example and the exact warning for a reproducible report.",
+          "Review attachments for secrets before submitting them."
+        ]
+      },
+      {
+        "id": "voice-microphone",
+        "heading": "AI Voice, Microphone, and Callers Explained",
+        "paragraphs": [
+          "A microphone captures your voice; speech recognition interprets it; caller voice generation speaks a response. Hearing teammates does not by itself prove that the caller’s recognition stage is working. Likewise, a visible reply with no audio suggests a different place to investigate than a sign-in error.",
+          "Current developer notes identify a Speech settings tab and typed caller input. They also describe optional Deepgram recognition using a separate personal account and key. A Deepgram speech credential and an OpenRouter dialogue credential serve different purposes; do not swap them between fields.",
+          "For testing, choose a quiet room, the intended input device and a simple non-sensitive sentence. If typing works while speech fails, focus the next check on recognition. Leave player counts and lobby compatibility questions to the [multiplayer guide](/multiplayer/) rather than treating those as provider settings."
+        ]
+      },
+      {
+        "id": "privacy-security",
+        "heading": "Privacy and API Key Safety",
+        "paragraphs": [
+          "Treat an API key like an account secret. Never send it to a forum, Discord conversation or public screenshot, and never enter it into an unofficial troubleshooting webpage. Before sharing a screen, hide provider dashboards and credential fields. Revoke a leaked key in the issuing account.",
+          "The [privacy policy](https://jataterworldwide.com/scam-with-your-friends/privacy/) distinguishes text sent for AI dialogue from recordings and other features. Optional online recognition changes the audio path. Review the [safety and privacy guide](/is-it-safe/) before deciding what to say or share; avoid using real personal details in test conversations.",
+          "For official store identity, use the [Steam listing guide](/steam/) and the store button above. Service availability and menus may change during Early Access, so prefer current developer guidance over an undated setup screenshot."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "Reviewed October 21, 2026. Recheck the linked official pages after game updates; settings and service behavior can change.",
+          "[Steam store and AI disclosure](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — official character-dialogue description",
+          "[Developer update notes](https://steamcommunity.com/app/4954910/allnews/) — Official Backend, key warnings, speech options and sign-in changes",
+          "[Privacy policy](https://jataterworldwide.com/scam-with-your-friends/privacy/) — online processing and personal-key routing",
+          "[EULA](https://jataterworldwide.com/scam-with-your-friends/eula/) — included service conditions and official support route"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are Scam With Your Friends AI callers?",
+        "answer": "They are fictional characters whose dialogue responds to your conversations. Speech input, generated replies and spoken output are separate parts of that experience."
+      },
+      {
+        "question": "Is a personal API key required?",
+        "answer": "No personal OpenRouter key is required for Official Backend. A host who selects their own OpenRouter account needs a valid key for that option."
+      },
+      {
+        "question": "Does the current game still support OpenRouter?",
+        "answer": "Yes. Current developer notes describe a host’s personal OpenRouter key and switching to Official Backend if it is missing or rejected."
+      },
+      {
+        "question": "Where is the exact API key setting?",
+        "answer": "A complete current menu path is not publicly documented in the official sources reviewed here. Follow your installed build’s instructions or use Official Backend."
+      },
+      {
+        "question": "What can I try when AI sign-in fails?",
+        "answer": "Check Steam, the owning account, connection, PC clock and available updates. Follow the game’s own sign-in guidance and report the exact message if the problem persists."
+      },
+      {
+        "question": "Are a speech key and an AI dialogue key the same?",
+        "answer": "No. Optional Deepgram recognition and personal OpenRouter dialogue use different services. Check which component is requesting a credential."
+      },
+      {
+        "question": "What if typing works but the caller cannot hear me?",
+        "answer": "Focus on the microphone and speech-recognition stage. Test your intended input device and review Speech settings before changing the dialogue backend."
+      }
+    ],
+    "relatedSlugs": [
+      "steam",
+      "is-it-safe",
+      "how-to-play",
+      "multiplayer"
+    ],
+    "sourceNotes": [
+      "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/",
+      "https://steamcommunity.com/app/4954910/allnews/",
+      "https://jataterworldwide.com/scam-with-your-friends/privacy/",
+      "https://jataterworldwide.com/scam-with-your-friends/eula/"
+    ],
+    "lastReviewed": "2026-10-21"
   }
 ]

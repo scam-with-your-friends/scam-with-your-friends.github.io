@@ -24,6 +24,8 @@ const expectedTitles = {
   roblox: "Scam With Your Friends Roblox | Is There an Official Game?",
   steam: "Scam With Your Friends Steam | Official Page & Status",
   multiplayer: "Scam With Your Friends Multiplayer | Co-op & Solo Guide",
+  "is-it-safe": "Is Scam With Your Friends Safe? Privacy & Virus Check",
+  "ai-callers": "Scam With Your Friends AI Callers | API Key & Fixes",
 };
 
 const expectedDescriptions = {
@@ -35,16 +37,18 @@ const expectedDescriptions = {
   price: "See the current Scam With Your Friends price status, why the $8 playtest AI option is not the game price, and what Steam has confirmed so far.",
   platforms: "See where Scam With Your Friends is available, including Windows Steam support and the current status of Xbox, PlayStation, Mac, Linux, mobile and Roblox.",
   demo: "Is there a Scam With Your Friends demo? Check the current demo and playtest status, how early access works, and the official ways to play before release.",
-  download: "Looking for Scam With Your Friends download, crack or repack? See the official Steam download path, current access status, and how to avoid fake files.",
+  download: "Find the official Scam With Your Friends download. Understand Online-Fix, SteamRIP, SteamUnlocked, crack and repack claims before installing files.",
   "log-file-location": "Find the Scam With Your Friends log file location on Windows, open Player.log quickly, and use it for troubleshooting common game or AI issues.",
   roblox: "Is there an official Scam With Your Friends Roblox version? See the current status, how it differs from the Steam game, and how to avoid fake Roblox copies.",
   steam: "Open the official Scam With Your Friends Steam page and check the current playtest, Early Access, platform, download and system requirement status.",
   multiplayer: "See how Scam With Your Friends multiplayer works, including online co-op, solo play, public lobbies, playing with friends, and the current player limit status.",
+  "is-it-safe": "Is Scam With Your Friends safe to play? Check the official Steam build, microphone and AI privacy, recording behavior, and safer download practices.",
+  "ai-callers": "Learn how Scam With Your Friends AI callers work, when an API key is needed, how OpenRouter fits in, and how to troubleshoot AI connection errors.",
 };
 
-const newPageSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer"];
+const newPageSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers"];
 const requiredSlugs = ["release-date", "playtest-key", "how-to-play", "discord", "price", "platforms", ...newPageSlugs];
-const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "xbox", "mobile", "release", "access-release"];
+const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "xbox", "mobile", "release", "access-release", "online-fix", "steamrip", "steamunlocked", "crack", "repack", "solo", "max-players", "crossplay"];
 const internalFields = ["sourceNotes", "searchIntent", "factsStatus", "densityTargets", "primaryKeyword", "secondaryKeywords", "priority", "wordCountTarget"];
 
 if (site.readyForLaunch !== true) fail("readyForLaunch must be true");
@@ -101,6 +105,9 @@ for (const page of pages) {
   if (page.navVisible === false) fail(`${page.slug} is hidden from navigation`);
   checkMeta(page.slug, page);
   if (!Array.isArray(page.faq) || page.faq.length < 1) fail(`${page.slug} missing FAQ`);
+  if (["is-it-safe", "ai-callers"].includes(page.slug) && (page.faq?.length < 5 || page.faq?.length > 8)) {
+    fail(`${page.slug} needs 5–8 visible FAQ items`);
+  }
   for (const related of page.relatedSlugs ?? []) {
     if (!slugs.includes(related)) fail(`${page.slug} related slug missing: ${related}`);
   }
@@ -203,4 +210,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("validate passed: 13 core routes, metadata, domain, and source scan");
+console.log(`validate passed: ${pages.length + 1} core routes, metadata, domain, and source scan`);

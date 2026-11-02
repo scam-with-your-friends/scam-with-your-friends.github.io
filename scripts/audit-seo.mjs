@@ -130,7 +130,7 @@ const pages = [
   },
 ];
 
-const newSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers"];
+const newSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers", "ai-service-unavailable", "xbox", "mobile"];
 const newPages = JSON.parse(readFileSync(join(root, "content/generated/pages.json"), "utf8"))
   .filter((page) => newSlugs.includes(page.slug));
 pages.push(...newPages.map((page) => ({
@@ -207,12 +207,22 @@ for (const page of pages) {
       .replace(/<script[\s\S]*?<\/script>/gi, " ")
       .replace(/<[^>]+>/g, " "));
     const words = copy.match(/\b[A-Za-z]+(?:['’-][A-Za-z]+)*\b/g) ?? [];
-    if (words.length < 900) fail(`${page.file} has only ${words.length} visible English words`);
+    if (words.length < (["ai-service-unavailable/index.html", "xbox/index.html", "mobile/index.html"].includes(page.file) ? 700 : 900)) fail(`${page.file} has only ${words.length} visible English words`);
     for (const phrase of ["for SEO purposes", "keyword density", "GSC shows", "internal audit", "I could not verify", ["Cod", "ex found"].join(""), "AI says"]) {
       if (copy.toLowerCase().includes(phrase.toLowerCase())) fail(`${page.file} exposes internal wording`);
     }
     const schemas = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)]
       .flatMap((match) => JSON.parse(match[1]));
+    if (["ai-service-unavailable/index.html", "xbox/index.html", "mobile/index.html"].includes(page.file)) {
+      if (!schemas.some((schema) => schema["@type"] === "BreadcrumbList")) fail(`${page.file} missing breadcrumb schema`);
+      if (!schemas.some((schema) => schema["@type"] === "WebPage")) fail(`${page.file} missing WebPage schema`);
+      if (!/<table\b/i.test(article)) fail(`${page.file} missing visible table`);
+      const visibleFaq = headingText(article, 3);
+      const definition = newPages.find((item) => `${item.slug}/index.html` === page.file);
+      for (const item of definition.faq) {
+        if (!visibleFaq.includes(item.question) || !copy.includes(item.answer)) fail(`${page.file} missing visible FAQ content`);
+      }
+    }
     const expectedFaq = newPages.find((item) => `${item.slug}/index.html` === page.file)?.faq ?? [];
     const faq = schemas.find((schema) => schema["@type"] === "FAQPage");
     if (!faq || JSON.stringify(faq.mainEntity.map((item) => ({ question: item.name, answer: item.acceptedAnswer.text }))) !== JSON.stringify(expectedFaq)) {

@@ -2985,5 +2985,541 @@
       "https://jataterworldwide.com/scam-with-your-friends/eula/"
     ],
     "lastReviewed": "2026-10-21"
+  },
+  {
+    "enabled": true,
+    "slug": "ai-service-unavailable",
+    "pageType": "guide",
+    "navLabel": "AI Fix",
+    "navVisible": true,
+    "title": "Scam With Your Friends AI Service Unavailable Fix",
+    "description": "Fix Scam With Your Friends AI service unavailable errors with current Official Backend checks, Steam troubleshooting, logs, and safe recovery steps.",
+    "keywords": [
+      "scam with your friends ai service unavailable",
+      "scam with your friends ai service is temporarily unavailable",
+      "scam with your friends ai fix",
+      "scam with your friends ai not working",
+      "scam with your friends ai backend error"
+    ],
+    "primaryKeyword": "scam with your friends ai service unavailable",
+    "priority": "P0",
+    "hero": {
+      "eyebrow": "Troubleshooting",
+      "heading": "Scam With Your Friends AI Service Unavailable Fix",
+      "lead": "An AI service unavailable message means the game cannot currently complete an AI service request; it does not identify the cause by itself. First check official notices for temporary service trouble, update the game, restart Steam, check your PC clock, and test your connection. Standard builds now use Official Backend: old OpenRouter-key tutorials are no longer the default recovery route.",
+      "cta": {
+        "label": "Official Steam listing",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "meaning",
+        "heading": "What “AI Service Unavailable” Means",
+        "paragraphs": [
+          "Treat this as an AI service or backend availability symptom. A request may fail because the remote service is unavailable, your session needs refreshing, or the connection cannot complete. The message alone does not prove that your installation is damaged.",
+          "Record the exact wording, when it appeared, your installed version, and whether you were hosting. Distinguish a missing reply from a reply that appears as text but has no audio. Those observations make the next check more useful."
+        ]
+      },
+      {
+        "id": "quick-fixes",
+        "heading": "Quick Fixes to Try First",
+        "paragraphs": [
+          "Use this checklist in order, testing once after each change. These are safe diagnostic steps, not guaranteed fixes."
+        ],
+        "subsections": [
+          {
+            "heading": "Update Scam With Your Friends",
+            "paragraphs": [
+              "Let Steam complete pending downloads before launching. The latest announcement returned by the official feed on November 2 is 0.1.95. Use the newest build Steam offers, rather than rolling back to match an old tutorial."
+            ]
+          },
+          {
+            "heading": "Restart Steam and the Game",
+            "paragraphs": [
+              "Quit the game normally, close Steam, and reopen it with the account that owns the game. Launch again after updates finish. This refreshes the client session without deleting saves or changing credentials."
+            ]
+          },
+          {
+            "heading": "Check Your PC Date and Time",
+            "paragraphs": [
+              "Check the date, time and time zone in Windows and synchronize the clock if it is wrong. This is a general authentication check, not proof that your clock caused the backend error."
+            ]
+          },
+          {
+            "heading": "Check Your Internet Connection",
+            "paragraphs": [
+              "Confirm that Steam and ordinary websites load. If you use a VPN or proxy, compare with your usual direct connection where permitted. Keep security protection enabled; do not install an unofficial AI repair tool."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "backend",
+        "heading": "Official Backend vs Old OpenRouter Setup",
+        "paragraphs": [
+          "The [0.1.95 developer announcement](https://steamcommunity.com/app/4954910/allnews/) removes optional OpenRouter and Gladia integrations from standard builds and returns saved OpenRouter selections to Official Backend. It also introduces clearer backend availability messages. A personal OpenRouter key is therefore not the current standard-build setup path.",
+          "If a video asks you to paste a personal API key, compare its version with your installed build before changing anything. Historical key instructions belong to older versions. Do not edit configuration files to restore a removed option. For background terminology, see the [AI callers guide](/ai-callers/); follow current patch notes for setup."
+        ]
+      },
+      {
+        "id": "causes",
+        "heading": "Why the AI Service Can Be Temporarily Unavailable",
+        "paragraphs": [
+          "Service capacity, connection failures and authentication problems are possible explanations, not confirmed diagnoses. No live server-health result is established by this guide; patch notes explain behavior rather than certify that the service is up right now."
+        ],
+        "table": {
+          "caption": "Error or symptom, possible cause and safe action",
+          "columns": [
+            "Error or symptom",
+            "Possible cause",
+            "Safe action"
+          ],
+          "rows": [
+            [
+              "Service temporarily unavailable",
+              "Remote service interruption or failed request",
+              "Check official notices; pause before retrying"
+            ],
+            [
+              "Sign-in fails",
+              "Steam session, connection or clock",
+              "Restart Steam; check time and connection"
+            ],
+            [
+              "Old personal-key prompt",
+              "Older build or saved setup",
+              "Update; follow current Official Backend guidance"
+            ],
+            [
+              "Text reply, no voice",
+              "Voice output or model issue",
+              "Check Speech settings and output device"
+            ],
+            [
+              "Typing works, speech fails",
+              "Recognition or microphone issue",
+              "Check input device before changing backend"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "logs",
+        "heading": "How to Check Player.log for AI Errors",
+        "paragraphs": [
+          "Start with the searchable session log viewer under General settings introduced in 0.1.95. Reproduce one short failure and note the time, then look for messages from that attempt. Keep surrounding lines so support can see the sequence.",
+          "For Player.log background, use the [log file guide](/log-file-location/). This page does not prescribe an unverified current filesystem path. If support requests a file, follow its current instructions and copy it before another session overwrites useful evidence. Remove tokens, account details, private paths and personal conversation content before sharing an excerpt."
+        ]
+      },
+      {
+        "id": "wait",
+        "heading": "When to Wait for the Service to Recover",
+        "paragraphs": [
+          "If official channels report an interruption and your game is updated, wait for their recovery notice before testing again. Reinstalling repeatedly cannot repair a remote outage. Without an official notice, describe the symptom accurately rather than declaring a global outage.",
+          "Avoid rapid repeated retries. If other applications connect normally but the same game error persists after the first checks, save your observations for support instead of making many unrelated changes."
+        ]
+      },
+      {
+        "id": "support",
+        "heading": "When to Contact Official Support",
+        "paragraphs": [
+          "Use the Discord linked from the [publisher game page](https://jataterworldwide.com/scam-with-your-friends/). Include your version, Windows version, failure time and time zone, exact message, hosting role, and the checks already completed. Ask where to send a redacted log; do not publish an entire raw file.",
+          "Review the [privacy and safety guide](/is-it-safe/) before sharing screenshots. The [Steam guide](/steam/) helps confirm the correct game listing. Return to the [home guide](/) for other topics."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Steam developer announcements](https://steamcommunity.com/app/4954910/allnews/) — latest feed entry checked November 2, 2026: 0.1.95, including backend changes and the session log viewer.",
+          "[Official Steam product](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — game identity and available updates.",
+          "[Jatater Worldwide](https://jataterworldwide.com/scam-with-your-friends/) — official community and support links."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does AI service temporarily unavailable mean?",
+        "answer": "An AI request could not complete. The message alone does not distinguish an outage from a session or connection problem."
+      },
+      {
+        "question": "Do I need an OpenRouter key to fix it?",
+        "answer": "No. Version 0.1.95 removes optional OpenRouter integration from standard builds and returns saved selections to Official Backend."
+      },
+      {
+        "question": "Will restarting Steam always fix the error?",
+        "answer": "No. It can refresh a session but cannot restore an unavailable remote service."
+      },
+      {
+        "question": "Where can I inspect current session errors?",
+        "answer": "Version 0.1.95 adds a searchable session log viewer under General settings. Record the failure time before reviewing it."
+      },
+      {
+        "question": "Should I reinstall or delete saves first?",
+        "answer": "No. Start with updates, a normal restart, clock and connection checks. Preserve logs and saves."
+      },
+      {
+        "question": "Is the AI service down right now?",
+        "answer": "This guide is not a live status monitor. Check the official community for current notices and report persistent errors to support."
+      }
+    ],
+    "relatedSlugs": [
+      "ai-callers",
+      "log-file-location",
+      "is-it-safe",
+      "steam"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "xbox",
+    "pageType": "article",
+    "navLabel": "Xbox",
+    "navVisible": true,
+    "title": "Scam With Your Friends Xbox | Is It the Same Game?",
+    "description": "Is Scam With Your Friends on Xbox? Learn whether the Xbox Store listing is the same Jatater game, plus Game Pass and Xbox release status.",
+    "keywords": [
+      "is scam with your friends on xbox",
+      "scam with your friends xbox",
+      "scam with your friends xbox game pass",
+      "scam with your friends coming to xbox"
+    ],
+    "primaryKeyword": "is scam with your friends on xbox",
+    "priority": "P0",
+    "hero": {
+      "eyebrow": "Platform guide",
+      "heading": "Is Scam With Your Friends on Xbox?",
+      "lead": "The JakeHub and Metater game published by Jatater Worldwide has no confirmed Xbox release in the official sources checked on November 2, 2026. Xbox Store does list a game named Scam With Your Friends, but its developer and publisher are Hidden Floor Games. It is a different product; that listing does not establish an Xbox port of Steam App 4954910.",
+      "cta": {
+        "label": "Official Steam listing",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "xbox-status",
+        "heading": "Is Scam With Your Friends on Xbox?",
+        "paragraphs": [
+          "For the Jatater game, Xbox availability and an Xbox release date are not announced in the checked Steam and publisher pages. Its confirmed desktop listing is Windows PC through Steam. Check the studio names as well as the title before buying.",
+          "A result that says Xbox One or Xbox Series X|S may be describing the separate Hidden Floor Games product. It can be a real Xbox listing while still being the wrong game for someone looking for the Jatater edition."
+        ]
+      },
+      {
+        "id": "different-game",
+        "heading": "The Xbox Store Game Is Not the Same Scam With Your Friends",
+        "paragraphs": [
+          "Same name, different game: the [Xbox Store product](https://www.xbox.com/en-CA/games/store/scam-with-your-friends/9ns7g759jc3l) credits Hidden Floor Games as both developer and publisher. The [Steam product](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) credits JakeHub and Metater, with Jatater Worldwide publishing. Those identities do not match.",
+          "Descriptions of a call center and AI conversations can sound similar. Screenshots, title words and a store search position are not enough to establish that products are the same edition. Use the credited organizations and product identifiers together."
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "How to Tell the Two Games Apart",
+        "paragraphs": [
+          "Open the product details rather than relying on a search snippet. Compare the developer, publisher and store identifier before checking platform badges. If a video links to one store while discussing another version, follow the store details for what you are actually purchasing."
+        ],
+        "table": {
+          "caption": "Product identities checked November 2, 2026",
+          "columns": [
+            "Detail",
+            "Jatater game",
+            "Xbox Store namesake"
+          ],
+          "rows": [
+            [
+              "Game name",
+              "Scam With Your Friends",
+              "Scam With Your Friends"
+            ],
+            [
+              "Developer",
+              "JakeHub, Metater",
+              "Hidden Floor Games"
+            ],
+            [
+              "Publisher / creator",
+              "Jatater Worldwide",
+              "Hidden Floor Games"
+            ],
+            [
+              "Listed platform",
+              "Windows PC through Steam",
+              "Xbox One, Xbox Series X|S, PC"
+            ],
+            [
+              "Product identifier",
+              "Steam App 4954910",
+              "9NS7G759JC3L"
+            ],
+            [
+              "Official URL",
+              "[Steam product](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/)",
+              "[Xbox product](https://www.xbox.com/en-CA/games/store/scam-with-your-friends/9ns7g759jc3l)"
+            ]
+          ]
+        },
+        "bullets": [
+          "Match JakeHub / Metater and Jatater Worldwide for the Steam game.",
+          "Read the developer and publisher fields on the exact product page.",
+          "Check the supported devices before paying.",
+          "Do not assume purchases or progress transfer between products."
+        ]
+      },
+      {
+        "id": "game-pass",
+        "heading": "Is Scam With Your Friends on Xbox Game Pass?",
+        "paragraphs": [
+          "No Game Pass inclusion is announced for the Jatater game in the official sources checked. The namesake Xbox page includes a subscription notice for online console multiplayer. Such a requirement is not an announcement that the game itself is included in the Game Pass catalog.",
+          "A store purchase button, a multiplayer subscription requirement and a catalog entitlement answer different questions. Confirm the exact product and subscription offer in your region before paying. A subscription badge attached to the Hidden Floor Games product says nothing about a Jatater console edition."
+        ]
+      },
+      {
+        "id": "future",
+        "heading": "Is an Xbox Version Coming?",
+        "paragraphs": [
+          "There is no confirmed Xbox release date for the Jatater game in the checked official material. Treat future platform plans as unannounced unless JakeHub, Metater or Jatater Worldwide publishes a direct announcement. A Steam update about controller support does not announce a console build.",
+          "If a future announcement appears, check which studio made it, which product it names and whether it gives a release window or a firm date. Do not convert speculation, a fan request or a same-name listing into a launch promise."
+        ]
+      },
+      {
+        "id": "platforms",
+        "heading": "Current Official Platforms",
+        "paragraphs": [
+          "The Jatater game has a Windows Steam product and a separate official Roblox experience credited to Jatater Worldwide. Roblox availability does not establish a native Xbox edition of the Steam game. Device access to a Roblox experience depends on that experience and the Roblox client.",
+          "Use the [platform overview](/platforms/) for the broader platform list, the [Steam guide](/steam/) for the PC listing, and the [Roblox guide](/roblox/) for that separate experience. For iPhone, Android and APK questions, see the [mobile status page](/mobile/). The [home guide](/) links to the remaining topics."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Xbox Store listing](https://www.xbox.com/en-CA/games/store/scam-with-your-friends/9ns7g759jc3l) — Hidden Floor Games credits, supported devices and subscription notice.",
+          "[Steam product](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — JakeHub, Metater and Jatater Worldwide identity; Windows requirements.",
+          "[Publisher game page](https://jataterworldwide.com/scam-with-your-friends/) — official game and community links.",
+          "[Official Roblox experience](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends) — creator identity, separate from a native console port. Sources checked November 2, 2026."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Scam With Your Friends on Xbox?",
+        "answer": "The Jatater game has no confirmed Xbox release. Xbox Store has a separate same-name product by Hidden Floor Games."
+      },
+      {
+        "question": "Is the Xbox Store listing fake?",
+        "answer": "It is an Xbox Store product with Hidden Floor Games credits. It is a different game from the JakeHub / Metater Steam product."
+      },
+      {
+        "question": "Is the Jatater game on Xbox Game Pass?",
+        "answer": "No Game Pass inclusion is announced in the checked official sources."
+      },
+      {
+        "question": "Does Xbox controller support mean an Xbox version?",
+        "answer": "No. Controller support on a Windows PC does not establish a console release."
+      },
+      {
+        "question": "Can I use my Steam purchase on the Xbox namesake?",
+        "answer": "Do not assume shared ownership or progress between different products. No such entitlement is confirmed here."
+      },
+      {
+        "question": "When is the Jatater Xbox release date?",
+        "answer": "No Xbox release date is announced in the official sources checked on November 2, 2026."
+      }
+    ],
+    "relatedSlugs": [
+      "platforms",
+      "steam",
+      "roblox",
+      "mobile"
+    ],
+    "lastReviewed": "2026-11-02"
+  },
+  {
+    "enabled": true,
+    "slug": "mobile",
+    "pageType": "article",
+    "navLabel": "Mobile",
+    "navVisible": true,
+    "title": "Scam With Your Friends Mobile | iOS & Android Status",
+    "description": "Check Scam With Your Friends mobile status for iPhone and Android, official platform options, Roblox availability, and APK download warnings.",
+    "keywords": [
+      "scam with your friends mobile",
+      "scam with your friends ios",
+      "scam with your friends iphone",
+      "scam with your friends android",
+      "scam with your friends apk"
+    ],
+    "primaryKeyword": "scam with your friends mobile",
+    "priority": "P1",
+    "hero": {
+      "eyebrow": "Platform guide",
+      "heading": "Scam With Your Friends Mobile",
+      "lead": "No official native iOS or Android release of the JakeHub / Metater Steam game is currently listed in the official game sources checked on November 2, 2026. There is a separate official Roblox experience by Jatater Worldwide. It is not a native mobile port of the Steam game: check its Roblox page and your client for device compatibility before assuming it works on your phone.",
+      "cta": {
+        "label": "Official Steam listing",
+        "url": "https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/"
+      }
+    },
+    "sections": [
+      {
+        "id": "mobile-status",
+        "heading": "Is Scam With Your Friends on Mobile?",
+        "paragraphs": [
+          "For the Steam original, no official native mobile version is currently listed. The confirmed PC product is Steam App 4954910. A phone video, a familiar icon or an app with the same title does not establish a publisher-authorized mobile edition.",
+          "The separate Roblox experience is the relevant official alternative to investigate, with compatibility checked for your own device. Do not treat the ability to install Roblox as a promise that every experience supports your phone."
+        ],
+        "table": {
+          "caption": "Official platform routes checked November 2, 2026",
+          "columns": [
+            "Platform",
+            "Status",
+            "What to check"
+          ],
+          "rows": [
+            [
+              "Windows Steam",
+              "Official PC product",
+              "App 4954910 and Windows requirements"
+            ],
+            [
+              "iOS / iPhone",
+              "No official native release currently listed",
+              "A direct publisher announcement and App Store link"
+            ],
+            [
+              "Android",
+              "No official native release currently listed",
+              "A direct publisher announcement and Google Play link"
+            ],
+            [
+              "Roblox",
+              "Official separate experience by Jatater Worldwide",
+              "Experience page and device/client compatibility"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "ios",
+        "heading": "Is There an iPhone or iOS Version?",
+        "paragraphs": [
+          "No official native iPhone or iOS version of the Steam game is linked from the checked game and publisher sources. There is no confirmed iOS release date to quote. Do not mistake a companion app, a lookalike title or a remote desktop session for an iPhone release.",
+          "If you see an App Store claim, verify the publisher through Jatater Worldwide’s official channels before installing. A paid Steam license is not evidence of an iOS entitlement. This page does not provide an unverified App Store download button."
+        ]
+      },
+      {
+        "id": "android",
+        "heading": "Is There an Android Version?",
+        "paragraphs": [
+          "No official native Android version is currently listed in the checked official game sources. Android is not among the Steam product’s native operating systems, and the publisher page does not provide a native Android release link.",
+          "Installing a file with the game name does not convert the Windows Steam edition into an Android app. Check the developer identity and the publisher’s own links before trusting a mobile announcement, especially if it promises the entire PC game for free."
+        ]
+      },
+      {
+        "id": "apk",
+        "heading": "Is There an Official APK?",
+        "paragraphs": [
+          "No publisher-authorized APK for the Steam game was found in the checked official sources. Do not use third-party APK or MOD APK offers as a substitute for an official mobile release. They do not establish ownership, compatibility or an authorized port.",
+          "If a download page asks for a Steam password, a payment to unlock a mobile build, or a separate verification download, stop and return to the publisher’s links. There is no reason to give a stranger your credentials to check whether a phone edition exists. This guide provides no APK files or third-party download links."
+        ]
+      },
+      {
+        "id": "roblox-mobile",
+        "heading": "Can You Play the Official Roblox Version on Mobile?",
+        "paragraphs": [
+          "The [official Roblox experience](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends) identifies Jatater Worldwide as creator. That confirms the experience’s identity, not universal iPhone or Android support. Open that exact page in your Roblox client and check whether your device is eligible to join.",
+          "Check the creator before choosing Play. If the client reports that the experience is unavailable or unsupported, do not bypass that message with a modified client or a downloaded APK. Account access, device support and experience availability should be checked in Roblox itself. See the [Roblox guide](/roblox/) for the experience background."
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Steam Version vs Roblox Version on Phone",
+        "paragraphs": [
+          "A native app would be a dedicated mobile release. A Roblox experience runs within Roblox and is a separate product experience. Streaming a Windows session to a phone is another arrangement again; it does not create a native iOS or Android edition."
+        ],
+        "table": {
+          "caption": "Native mobile app versus Roblox experience",
+          "columns": [
+            "Question",
+            "Native Steam-game mobile app",
+            "Official Roblox experience"
+          ],
+          "rows": [
+            [
+              "Official route today",
+              "No native mobile listing confirmed",
+              "Jatater Worldwide experience page"
+            ],
+            [
+              "Where it runs",
+              "No released mobile build confirmed",
+              "Within a compatible Roblox client"
+            ],
+            [
+              "Phone compatibility",
+              "No native requirements published",
+              "Check experience and client support"
+            ],
+            [
+              "Steam purchases and saves",
+              "No mobile entitlement announced",
+              "Do not assume transferred ownership or progress"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "future",
+        "heading": "Is a Native Mobile Release Coming?",
+        "paragraphs": [
+          "No native mobile release date is announced in the official sources checked. The existence of the Roblox experience is not an announcement of an Android or iPhone port. Follow the publisher for a specific platform announcement and a direct store link.",
+          "For other devices, use the [platform overview](/platforms/) and [Xbox identity guide](/xbox/). The [Steam guide](/steam/) covers the Windows product; the [home guide](/) collects other game topics."
+        ]
+      },
+      {
+        "id": "official-sources",
+        "heading": "Official Sources",
+        "paragraphs": [
+          "[Official Steam listing](https://store.steampowered.com/app/4954910/Scam_With_Your_Friends/) — original product identity and Windows requirements.",
+          "[Jatater Worldwide game page](https://jataterworldwide.com/scam-with-your-friends/) — publisher release links and community.",
+          "[Official Roblox experience](https://www.roblox.com/games/133878278486520/Scam-With-Your-Friends) — creator identity and current access through Roblox. Checked November 2, 2026; no official native mobile listing is linked by the game sources reviewed."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can you play Scam With Your Friends on mobile?",
+        "answer": "There is no confirmed native mobile edition of the Steam original. Investigate the separate official Roblox experience and check compatibility in your client."
+      },
+      {
+        "question": "Is there an official iPhone app?",
+        "answer": "No native iOS release of the Steam game is currently listed in the checked official sources."
+      },
+      {
+        "question": "Is there an official Android APK?",
+        "answer": "No publisher-authorized APK for the Steam game was found. Avoid third-party APK and MOD APK offers."
+      },
+      {
+        "question": "Does Roblox support mean every phone can play?",
+        "answer": "No. Check the exact experience page and the Roblox client on your own device."
+      },
+      {
+        "question": "Does buying the Steam game unlock a mobile version?",
+        "answer": "No mobile entitlement is announced. Do not assume purchases or saves transfer to Roblox."
+      },
+      {
+        "question": "When is the mobile release date?",
+        "answer": "No native iOS or Android release date is announced in the official game sources checked on November 2, 2026."
+      }
+    ],
+    "relatedSlugs": [
+      "platforms",
+      "roblox",
+      "steam",
+      "xbox"
+    ],
+    "lastReviewed": "2026-11-02"
   }
 ]

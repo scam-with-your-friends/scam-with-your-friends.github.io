@@ -11,6 +11,10 @@ const home = JSON.parse(readFileSync(join(root, "content/generated/home.json"), 
 const pages = JSON.parse(readFileSync(join(root, "content/generated/pages.json"), "utf8"));
 
 const expectedTitles = {
+  "ai-service-unavailable": "Scam With Your Friends AI Service Unavailable Fix",
+  "xbox": "Scam With Your Friends Xbox | Is It the Same Game?",
+  "mobile": "Scam With Your Friends Mobile | iOS & Android Status",
+
   home: "Scam With Your Friends Wiki & Guide | Release Date",
   "release-date": "Scam With Your Friends Release Date & Early Access",
   "playtest-key": "Scam With Your Friends Playtest Key & Access Guide",
@@ -29,6 +33,10 @@ const expectedTitles = {
 };
 
 const expectedDescriptions = {
+  "ai-service-unavailable": "Fix Scam With Your Friends AI service unavailable errors with current Official Backend checks, Steam troubleshooting, logs, and safe recovery steps.",
+  "xbox": "Is Scam With Your Friends on Xbox? Learn whether the Xbox Store listing is the same Jatater game, plus Game Pass and Xbox release status.",
+  "mobile": "Check Scam With Your Friends mobile status for iPhone and Android, official platform options, Roblox availability, and APK download warnings.",
+
   home: "Scam With Your Friends guide covering the release date, playtest access, how to play, price, official Discord, and supported platforms on Steam.",
   "release-date": "Check the planned Scam With Your Friends release date, Early Access status, full-release target, Steam availability, and what may change before launch.",
   "playtest-key": "See the latest Scam With Your Friends playtest status, how access and friend invites work, whether keys or a demo are available, and where to get updates.",
@@ -46,9 +54,9 @@ const expectedDescriptions = {
   "ai-callers": "Learn how Scam With Your Friends AI callers work, when an API key is needed, how OpenRouter fits in, and how to troubleshoot AI connection errors.",
 };
 
-const newPageSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers"];
+const newPageSlugs = ["demo", "download", "log-file-location", "roblox", "steam", "multiplayer", "is-it-safe", "ai-callers", "ai-service-unavailable", "xbox", "mobile"];
 const requiredSlugs = ["release-date", "playtest-key", "how-to-play", "discord", "price", "platforms", ...newPageSlugs];
-const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "xbox", "mobile", "release", "access-release", "online-fix", "steamrip", "steamunlocked", "crack", "repack", "solo", "max-players", "crossplay"];
+const forbiddenSlugs = ["wiki", "codes", "code", "key", "playtest", "free-download", "early-access", "release", "access-release", "online-fix", "steamrip", "steamunlocked", "crack", "repack", "solo", "max-players", "crossplay"];
 const internalFields = ["sourceNotes", "searchIntent", "factsStatus", "densityTargets", "primaryKeyword", "secondaryKeywords", "priority", "wordCountTarget"];
 
 if (site.readyForLaunch !== true) fail("readyForLaunch must be true");
@@ -105,7 +113,7 @@ for (const page of pages) {
   if (page.navVisible === false) fail(`${page.slug} is hidden from navigation`);
   checkMeta(page.slug, page);
   if (!Array.isArray(page.faq) || page.faq.length < 1) fail(`${page.slug} missing FAQ`);
-  if (["is-it-safe", "ai-callers"].includes(page.slug) && (page.faq?.length < 5 || page.faq?.length > 8)) {
+  if (["is-it-safe", "ai-callers", "ai-service-unavailable", "xbox", "mobile"].includes(page.slug) && (page.faq?.length < 5 || page.faq?.length > 8)) {
     fail(`${page.slug} needs 5–8 visible FAQ items`);
   }
   for (const related of page.relatedSlugs ?? []) {

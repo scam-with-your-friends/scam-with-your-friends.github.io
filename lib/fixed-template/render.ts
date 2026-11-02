@@ -409,24 +409,18 @@ h1{font-size:34px}
 .nav{flex-wrap:wrap}
 .nav-link:nth-child(n+4){display:inline-flex}
 }
-@media(min-width:1000px) and (max-width:1439px){
-.nav-inner{flex-wrap:wrap}
-.nav{width:100%;margin-left:0;justify-content:flex-end;gap:2px}
-.nav-link{font-size:12px;padding:8px 8px;min-height:36px}
-.brand{font-size:16px}
-.floating{border-radius:28px}
+@media(min-width:1800px){
+.floating{width:min(1760px,calc(100% - 32px))}
+.nav{flex-wrap:nowrap;gap:2px}
+.nav-link{font-size:12px;padding:10px 8px}
+.brand{flex-shrink:0}
 }
-@media(min-width:768px) and (max-width:999px){
-.nav{gap:2px}
-.nav-link{font-size:12px;padding:8px 8px;min-height:36px}
-.brand{font-size:16px}
-.floating{border-radius:28px}
-}
-@media(max-width:767px){
+@media(max-width:1799px){
 .nav-inner{flex-wrap:wrap}
 .fixed-nav-toggle{display:inline-flex}
-.nav{display:none;width:100%;margin-left:0;justify-content:flex-start;flex-wrap:wrap;overflow:visible;max-height:calc(100dvh - 100px);overflow-y:auto}
+.nav{display:none;width:100%;margin-left:0;justify-content:flex-start;max-height:calc(100dvh - 130px);overflow-y:auto}
 .nav.is-open{display:flex;flex-direction:column;flex-wrap:nowrap}
+.nav-link{width:100%}
 .floating{border-radius:28px}
 }
 @media(max-width:360px){
